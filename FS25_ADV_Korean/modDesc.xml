@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="113">
+    <author>JJK</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>FS25_한글패치</en>
+        <de>FS25_한글패치</de>
+        <kr>FS25_한글패치</kr>
+    </title>
+    <description>
+        <en><![CDATA[Improves the base game's Korean translation.
+
+Improves 1,783 of the 5,763 base game texts.
+
+- More natural Korean sentences instead of literal machine-like translation
+- Consistent terminology for machines, crops, animals and economy
+- Fixed mistranslations
+
+Hotkeys: none. The mod works automatically when a savegame is loaded.
+
+Only active when the game language is Korean. It has no effect in other languages.
+Applies to in-game menus, the shop, fill types, help, contracts and notifications.
+
+Known limitations:
+- The main menu and screens shown before a savegame is loaded keep the original translation.
+- A few texts on screens built at game start may still show the original translation.
+- PC only.
+
+Safe to add or remove at any time. It does not change savegame data.]]></en>
+        <de><![CDATA[Verbessert die koreanische Übersetzung des Basisspiels.
+
+Verbessert 1.783 der 5.763 Texte des Basisspiels.
+
+- Natürlichere koreanische Sätze statt wörtlicher, maschinenhafter Übersetzung
+- Einheitliche Begriffe für Maschinen, Feldfrüchte, Tiere und Wirtschaft
+- Behobene Übersetzungsfehler
+
+Tastenkombinationen: keine. Die Mod arbeitet automatisch, sobald ein Spielstand geladen wird.
+
+Nur aktiv, wenn die Spielsprache Koreanisch ist. In anderen Sprachen hat die Mod keine Wirkung.
+Gilt für Menüs im Spiel, den Shop, Fülltypen, Hilfe, Aufträge und Benachrichtigungen.
+
+Bekannte Einschränkungen:
+- Das Hauptmenü und Bildschirme vor dem Laden eines Spielstands behalten die Originalübersetzung.
+- Einige Texte auf beim Spielstart erstellten Bildschirmen können die Originalübersetzung behalten.
+- Nur PC.
+
+Die Mod kann jederzeit hinzugefügt oder entfernt werden. Spielstanddaten werden nicht verändert.]]></de>
+        <kr><![CDATA[기본 게임의 한국어 번역을 개선합니다.
+
+기본 게임 문자열 5,763개 중 1,783개를 개선했습니다.
+
+- 직역투·기계번역투 문장을 자연스러운 한국어로 다듬었습니다
+- 농기계, 작물, 가축, 경제 용어를 하나로 통일했습니다
+- 오역을 바로잡았습니다
+
+단축키: 없음. 세이브를 불러오면 자동으로 적용됩니다.
+
+게임 언어가 한국어일 때만 동작하며, 다른 언어에는 영향을 주지 않습니다.
+인게임 메뉴, 상점, 작물·적재물 종류, 도움말, 계약, 알림에 적용됩니다.
+
+알려진 제한 사항:
+- 메인 메뉴와 세이브를 불러오기 전 화면에는 기존 번역이 표시됩니다.
+- 게임 시작 때 만들어지는 일부 화면의 문구는 기존 번역으로 보일 수 있습니다.
+- PC 전용입니다.
+
+언제든 추가하거나 제거할 수 있으며, 세이브 데이터를 변경하지 않습니다.]]></kr>
+    </description>
+    <iconFilename>icon_KoreanTranslationImproved.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="scripts/KoreanTextOverride.lua"/>
+    </extraSourceFiles>
+</modDesc>

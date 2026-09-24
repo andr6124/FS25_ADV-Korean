@@ -1,0 +1,1786 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10nImproved gameVersion="1.23.1.0" count="1783">
+    <e k="achievement_descBreedChicken" v="이야, 부활절 달걀이 한가득이네요." h="4731896b" />
+    <e k="achievement_descBreedCows" v="이렇게 손이 많이 갈 줄은 몰랐죠?" h="42d083d1" />
+    <e k="achievement_descBreedPigs" v="사료가 얼마나 많이 드는지 알면 깜짝 놀라실걸요." h="13d462b8" />
+    <e k="achievement_descBreedSheep" v="제 양모 제국을 키워 가는 중이에요." h="27cce627" />
+    <e k="achievement_descCarDriving" v="어차피 그 덩치로는 도로에 들어가지도 않았을 거예요." h="37b762ac" />
+    <e k="achievement_descCollectiblesAS" v="농장 공의 힘으로 수확량을 더 늘려 봐요!" h="628e39c4" />
+    <e k="achievement_descCollectiblesEU" v="황금 사과의 전설이에요." h="25e15820" />
+    <e k="achievement_descCollectiblesUS" v="박물관이 도움을 기다리고 있어요." h="593a43fe" />
+    <e k="achievement_descCottonBales" v="대체 그걸 다 어디에 두려고요?!" h="2a702673" />
+    <e k="achievement_descCultivate" v="이건 저도 좀 뿌듯하네요." h="73194da5" />
+    <e k="achievement_descCultivateFirst" v="농부라면 누구나 여기서 첫걸음을 떼죠." h="0d26c047" />
+    <e k="achievement_descCutTree" v="잠깐 나뭇잎 휴가 좀 다녀올게요." h="55ea60a7" />
+    <e k="achievement_descCutTreeFirst" v="숲에서 나무가 쓰러졌는데 아무도 못 들었다면, 외손뼉도 소리가 날까요?" h="0eb04413" />
+    <e k="achievement_descDeliveryGrapes" v="이게 바로 캘리포니아의 황금이죠!" h="7c5774ca" />
+    <e k="achievement_descDeliveryOlives" v="이건 채소가 아니라 과일이라니까요!" h="326ee6ef" />
+    <e k="achievement_descDeliverySorghum" v="우리 말들이 이거라면 사족을 못 써요." h="1dc2ad81" />
+    <e k="achievement_descDeliveryStones" v="성공으로 가는 길은 돌로 포장돼 있거든요." h="0d3b31b9" />
+    <e k="achievement_descFertilize" v="최대 효율을 찍기 전까진 쉴 생각이 없으시군요." h="04f8efc7" />
+    <e k="achievement_descFertilizeFirst" v="작은 도움이 큰 차이를 만들어요." h="1d8e9114" />
+    <e k="achievement_descGotAllAchievements" v="오늘 심고, 내일 수확해요!" h="784e0f90" />
+    <e k="achievement_descHarvested" v="이게 다 땀 흘린 결실이에요." h="4302dc3f" />
+    <e k="achievement_descHarvestedFirst" v="뿌린 대로 거두는 법이에요." h="5d82ce00" />
+    <e k="achievement_descHorseJumps" v="진짜, 불쌍한 동물 생각도 좀 해 주세요!" h="1fd20d30" />
+    <e k="achievement_descHorseJumpsFirst" v="어, 얘들 그것도 할 줄 알아요?" h="21f3b0b1" />
+    <e k="achievement_descHorseRiding" v="엄마, 저 진짜 카우보이예요!" h="0df8e640" />
+    <e k="achievement_descHorseRidingFirst" v="이렇게 돌아다니는 거, 금방 익숙해지겠는데요…" h="644d5d81" />
+    <e k="achievement_descLoadedOldSavegame" v="역시 집에 오니까 좋네요." h="1bbbc53c" />
+    <e k="achievement_descMission" v="&quot;내 농장도 돌보라&quot;니, 그게 무슨 소리예요?" h="0600142f" />
+    <e k="achievement_descMissionFirst" v="그럼요, 이웃님. 그건 제가 맡을게요." h="4c87d072" />
+    <e k="achievement_descMoney" v="그 돈, 쓸 수도 있다는 거 알죠?" h="4bfae174" />
+    <e k="achievement_descNumBeehives" v="아주 꿀벌처럼 바쁘셨네요, 그렇죠?" h="608e3bd3" />
+    <e k="achievement_descNumDrivables" v="조금씩 목표에 가까워지고 있어요." h="67963b1a" />
+    <e k="achievement_descNumPlaceables" v="빛이 닿는 모든 것이... 다 제 거예요." h="72583cfd" />
+    <e k="achievement_descNumProductionPoints" v="흠, 이거 프랜차이즈로 해도 되겠는데요…" h="629a933c" />
+    <e k="achievement_descNumVehiclesLarge" v="그래요, 저 좀 문제 있는 것 같아요…" h="052340ae" />
+    <e k="achievement_descNumVehiclesSmall" v="네, 이거 하나하나 다 필요하거든요." h="132f3eb2" />
+    <e k="achievement_descPetDog" v="누가 착한 강아지예요?" h="7e156b4e" />
+    <e k="achievement_descPlayTime" v="여기만큼 행복했던 곳은 없어요." h="3d9cb301" />
+    <e k="achievement_descSow" v="콩 심은 데 콩 나고, 돈도 나요." h="3bba5644" />
+    <e k="achievement_descSowFirst" v="미래도 생각해야죠." h="1479c53d" />
+    <e k="achievement_descTractorDriving" v="이거 한 대면 뭐든 다 돼요." h="6f443fed" />
+    <e k="achievement_descTruckDriving" v="길게 보고 가시는군요." h="0a312e66" />
+    <e k="achievement_descVehicleRepaint" v="저기 멋 부린 양반 좀 보세요." h="036d3c1b" />
+    <e k="achievement_descVehicleRepair" v="진짜, 이쯤 되면 회원 카드 하나 만드셔야겠어요." h="2ceaf1de" />
+    <e k="achievement_descVehicleRepairFirst" v="그저 시간문제였죠…" h="7268386e" />
+    <e k="achievement_descWrappedBales" v="베일 안에 뭐가 들었어요?" h="03477af2" />
+    <e k="achievement_nameBreedCows" v="소몰이꾼" h="53f112a2" />
+    <e k="achievement_nameBreedPigs" v="아기 돼지 삼 형제…" h="2d38a42d" />
+    <e k="achievement_nameCollectiblesEU" v="투티 프루티" h="5def8112" />
+    <e k="achievement_nameCottonBales" v="떠나도 잊지 못할 목화" h="5641b2f8" />
+    <e k="achievement_nameCultivate" v="교양 있는 경작인" h="4167e7fe" />
+    <e k="achievement_nameCultivateFirst" v="셰익스피어 좀 읽는 사람" h="5fce3882" />
+    <e k="achievement_nameCutTree" v="나무랄 데 없는 벌목" h="22a4a764" />
+    <e k="achievement_nameCutTreeFirst" v="난감한 그루터기" h="488aa666" />
+    <e k="achievement_nameDeliveryGrapes" v="포도로 판돈 올리기" h="29e346d0" />
+    <e k="achievement_nameDeliverySorghum" v="원조 곡물" h="64c48abf" />
+    <e k="achievement_nameFertilize" v="무르익는 줄거리" h="142eb7fb" />
+    <e k="achievement_nameFertilizeFirst" v="늘 배고픈 식물" h="3086a5b0" />
+    <e k="achievement_nameGotAllAchievements" v="농사는 우리의 천성" h="54031c1a" />
+    <e k="achievement_nameHarvestedFirst" v="자가 소비" h="00d61fe9" />
+    <e k="achievement_nameHorseJumps" v="캥거루가 아닌 말" h="23e36606" />
+    <e k="achievement_nameHorseJumpsFirst" v="힘찬 도약" h="21d02d83" />
+    <e k="achievement_nameHorseRiding" v="서러브레드!" h="09ebfd67" />
+    <e k="achievement_nameHorseRidingFirst" v="이랴!" h="2b462e3d" />
+    <e k="achievement_nameLoadedOldSavegame" v="농사에 늦은 때란 없는 법" h="7afc97dd" />
+    <e k="achievement_nameMission" v="멈출 줄 모르는 작업자 A … 영원히" h="6492f029" />
+    <e k="achievement_nameMissionFirst" v="돕고 돕는 사이" h="47e73443" />
+    <e k="achievement_nameNumBeehives" v="꿀 같은 수입" h="67e65ad7" />
+    <e k="achievement_nameNumDrivables" v="골라 타는 재미" h="4b615cca" />
+    <e k="achievement_nameNumPlaceables" v="남은 땅 없음" h="7a9f796b" />
+    <e k="achievement_nameNumProductionPoints" v="잘 돌아가는 기계" h="781c765f" />
+    <e k="achievement_nameNumVehiclesLarge" v="차량 군단" h="0b0a54d4" />
+    <e k="achievement_namePlayTime" v="이제 시작일 뿐" h="30053c9b" />
+    <e k="achievement_nameSowFirst" v="살짝 한 줌" h="007908fa" />
+    <e k="achievement_nameTruckDriving" v="장거리 운송" h="704a2695" />
+    <e k="achievement_nameVehicleRepair" v="말끔히 수리" h="1363abc4" />
+    <e k="achievement_nameVehicleRepairFirst" v="저절로 떨어진 부품" h="55e992b5" />
+    <e k="achievement_nameWrappedBales" v="포장 완료" h="2cfdbd07" />
+    <e k="action_activateDoubledSprayAmount" v="살포량 두 배 활성화" h="1414c7e1" />
+    <e k="action_activateHandTool" v="전기톱 사용" h="483e2f45" />
+    <e k="action_activatePacker" v="패커 활성화" h="41c232ef" />
+    <e k="action_activateShop" v="상점 메뉴 열기" h="5237d53c" />
+    <e k="action_activateTrigger" v="물체 사용" h="51f00da3" />
+    <e k="action_activateVendingMachine" v="자판기 사용" h="51f192fc" />
+    <e k="action_armIn" v="암 접기" h="2d388275" />
+    <e k="action_armOut" v="암 펴기" h="23ec584c" />
+    <e k="action_baleloaderAbortUnloading" v="내리기 중단" h="3407b48e" />
+    <e k="action_baleloaderUnload" v="베일 내리기" h="3643d1fc" />
+    <e k="action_baleloaderUnloadHere" v="여기에 베일 내리기" h="278b5a11" />
+    <e k="action_buyProductionPoint" v="생산 시설 구매" h="5b1999a5" />
+    <e k="action_changeBaleSize" v="베일 크기 변경 (%dcm)" h="6db46d47" />
+    <e k="action_closeBack" v="후방 닫기" h="6588f946" />
+    <e k="action_conveyorIn" v="컨베이어 벨트 접기" h="3f097a73" />
+    <e k="action_conveyorOut" v="컨베이어 벨트 펴기" h="41db3f58" />
+    <e k="action_cutBale" v="베일 자르기" h="6694819b" />
+    <e k="action_deactivateDoubledSprayAmount" v="일반 살포량 활성화" h="59d7d9e9" />
+    <e k="action_deactivatePacker" v="패커 비활성화" h="1bd169fe" />
+    <e k="action_destructibleStartRepairing_successful" v="건설 현장이 준비되었습니다. 필요한 물품을 납품하여 재건을 완료하십시오." h="03a00525" />
+    <e k="action_disableStrawSwath" v="짚 줄 배출 끄기" h="26f824a4" />
+    <e k="action_dismountFender" v="펜더 분리" h="6635c0ff" />
+    <e k="action_enableStrawSwath" v="짚 줄 배출 켜기" h="59ca4e6e" />
+    <e k="action_fenceSwitchSegmentType" v="세그먼트 종류 전환" h="4b24d20f" />
+    <e k="action_foldSupportFeet" v="받침대 접기" h="31cf8978" />
+    <e k="action_foldableSteps_containerSelectDouble20FT" v="20ft 2개로 크기 변경" h="01788d57" />
+    <e k="action_interactAnimalFollow" v="따라오기" h="07b12cb9" />
+    <e k="action_interactAnimalStopFollow" v="따라오기 중지" h="27af9fbc" />
+    <e k="action_levelObject" v="%{objectName}s 수평 맞추기" h="5f820a44" />
+    <e k="action_limitToFields" v="경작지로 제한" h="76a09fcf" />
+    <e k="action_manageProductionPoint" v="생산 시설 관리" h="2e887b64" />
+    <e k="action_objectStorageMenu" v="창고 메뉴 열기" h="55576688" />
+    <e k="action_palletFillerBuyPallets" v="새 상자 구매" h="0e0a8130" />
+    <e k="action_palletFillerIdle" v="플랫폼 올리기" h="541aa19e" />
+    <e k="action_petAnimal" v="쓰다듬기" h="01054630" />
+    <e k="action_pickUpObject" v="물체 집기" h="6f1cbb0a" />
+    <e k="action_refillBaleNet" v="베일 그물망 보충" h="3d80cc73" />
+    <e k="action_refillBaleTwine" v="베일 노끈 보충" h="4ac27b59" />
+    <e k="action_refillBaleWrap" v="베일 포장재 보충" h="7a20b7b6" />
+    <e k="action_refillOBJECT" v="%s 보충" h="72f85c08" />
+    <e k="action_refillSilo" v="저장탑 보충" h="10f91bb1" />
+    <e k="action_rentTrain" v="시간당 %s에 기차 임차" h="5f269cce" />
+    <e k="action_returnRentedTrain" v="임차한 기차 반납" h="63445cc2" />
+    <e k="action_siloStartFilling" v="채우기 시작" h="57e75bc7" />
+    <e k="action_siloStopFilling" v="채우기 중지" h="69008fbb" />
+    <e k="action_startFerry" v="페리 출발" h="2d3a390c" />
+    <e k="action_startOverloading" v="옮겨 싣기 시작" h="1cd7e789" />
+    <e k="action_startTipping" v="하역 시작" h="006c720a" />
+    <e k="action_stopOverloading" v="옮겨 싣기 중지" h="447d16c1" />
+    <e k="action_stopRefillingOBJECT" v="보충 중지" h="48543d5a" />
+    <e k="action_stopTipping" v="하역 중지" h="1185a5fe" />
+    <e k="action_terrainCycleGroundType" v="칠할 바닥 유형 전환" h="71968edf" />
+    <e k="action_terrainFlatten" v="평탄화" h="7eedfe67" />
+    <e k="action_terrainSmooth" v="부드럽게" h="051a92d1" />
+    <e k="action_toggleRidgeMarker" v="줄 표시기" h="25508d57" />
+    <e k="action_toggleTipSide" v="하역 방향 (%s)" h="425796ce" />
+    <e k="action_turnHandToolLeft" v="전기톱 회전" h="7e8b3bc7" />
+    <e k="action_turnOffOBJECT" v="%s 끄기" h="4aaba630" />
+    <e k="action_turnOnOBJECT" v="%s 켜기" h="5f5f37de" />
+    <e k="action_unfoldSupportFeet" v="받침대 펼치기" h="43aaa1b8" />
+    <e k="action_unloadRoundBale" v="원형 베일 내리기" h="6aa8395e" />
+    <e k="action_unloadSquareBale" v="사각 베일 내리기" h="0da8c6cc" />
+    <e k="action_unloadUnfinishedBale" v="미완성 베일 내리기" h="79b36915" />
+    <e k="action_visit" v="방문" h="546977b1" />
+    <e k="action_woodHarvesterChangeCutLength" v="절단 길이 변경(%s)" h="17576512" />
+    <e k="action_woodHarvesterTiltHeader" v="하베스터 헤드 틸트" h="57e946ef" />
+    <e k="action_workMode_broad" v="넓게 뿌리기" h="28d78f18" />
+    <e k="action_workMode_leftSwath" v="왼쪽 줄 배출" h="18f580b4" />
+    <e k="action_workMode_rightSwath" v="오른쪽 줄 배출" h="21da16e2" />
+    <e k="action_workMode_swath" v="줄 배출" h="2b779594" />
+    <e k="ai_jobTitleFieldWork" v="경작지 작업" h="39ea91bc" />
+    <e k="ai_jobTitleLoadAndDeliver" v="적재 후 납품" h="7b20df3b" />
+    <e k="ai_messageErrorCouldNotPrepare" v="%s AI 작업자가 주행할 준비가 되지 않았습니다. '%s'이(가) 운송 모드가 아닙니다!" h="7e0629e8" />
+    <e k="ai_messageErrorFieldNotReady" v="%s AI 작업자가 갑자기 작업을 멈췄습니다. 경작지가 이 작업을 할 준비가 되지 않았거나 이미 작업을 마쳤습니다!" h="48124e10" />
+    <e k="ai_messageErrorGrainTankIsNearlyFull" v="%s AI 작업자의 곡물 탱크가 거의 가득 찼습니다! (80%%)" h="1908017d" />
+    <e k="ai_messageErrorLoadingStationDeleted" v="%s AI 작업자가 갑자기 작업을 멈췄습니다. 적재소가 더 이상 존재하지 않습니다!" h="492f8b79" />
+    <e k="ai_messageErrorNoFieldFound" v="%s AI 작업자가 갑자기 작업을 멈췄습니다. 경작지를 찾을 수 없습니다!" h="1e090f18" />
+    <e k="ai_messageErrorNoPalletsLoaded" v="%s AI 작업자가 작업을 시작할 수 없습니다. 채울 상자가 실려 있지 않습니다!" h="041a518f" />
+    <e k="ai_messageErrorNotReachable" v="%s AI 작업자가 갑자기 작업을 멈췄습니다. 목표에 도달할 수 없습니다!" h="076e215f" />
+    <e k="ai_messageErrorOutOfFuel" v="%s AI 작업자가 갑자기 작업을 멈췄습니다. 연료 탱크가 비었습니다!" h="6d828502" />
+    <e k="ai_messageErrorPalletsFull" v="%s AI 작업자가 작업을 멈췄습니다. 모든 상자가 가득 찼습니다!" h="3a055dd9" />
+    <e k="ai_messageErrorTankIsFull" v="%s AI 작업자의 탱크가 가득 찼습니다!" h="6142c966" />
+    <e k="ai_messageErrorTankIsNearlyFull" v="%s AI 작업자의 탱크가 거의 가득 찼습니다! (80%%)" h="526854b8" />
+    <e k="ai_messageErrorThreshingNotAllowed" v="%s AI 작업자가 갑자기 작업을 멈췄습니다. 탈곡이 허용되지 않습니다!" h="3d4890d6" />
+    <e k="ai_messageErrorUnloadingStationDeleted" v="%s AI 작업자가 갑자기 작업을 멈췄습니다. 하역소가 더 이상 존재하지 않습니다!" h="52caaa4c" />
+    <e k="ai_messageErrorUnloadingStationFull" v="하역소가 가득 찼습니다!" h="0708f99a" />
+    <e k="ai_messageErrorVehicleBroken" v="%s AI 작업자가 갑자기 작업을 멈췄습니다. 차량이 고장 났습니다!" h="39ab73c6" />
+    <e k="ai_messageErrorVehicleDeleted" v="%s AI 작업자가 갑자기 작업을 멈췄습니다. 차량이 제거되었습니다!" h="004aadf0" />
+    <e k="ai_messageErrorVineyardNotSupported" v="%s AI 작업자가 갑자기 작업을 멈췄습니다. 포도밭과 올리브 과수원은 지원되지 않습니다." h="173b7486" />
+    <e k="ai_messageErrorWrongSeason" v="%s AI 작업자가 갑자기 작업을 멈췄습니다. 이 작업을 할 수 있는 계절이 아닙니다!" h="62fa8fdb" />
+    <e k="ai_modeSteeringAssist_activate" v="조향선 활성화" h="13b7ef8a" />
+    <e k="ai_modeSteeringAssist_deactivate" v="조향선 비활성화" h="51ee0eb4" />
+    <e k="ai_modeSteeringAssist_noLane" v="사용 가능한 조향선 없음" h="12730274" />
+    <e k="ai_parameterGroupTitleLoadingPosition" v="적재 위치" h="2514890e" />
+    <e k="ai_parameterGroupTitleLoadingStation" v="적재소" h="052759a8" />
+    <e k="ai_parameterGroupTitleUnloadingStation" v="하역소" h="3b1803f5" />
+    <e k="ai_settingHeadlandFirstValue2" v="선회 구역" h="57ccb6eb" />
+    <e k="ai_settingNumHeadlands" v="선회 구역 수" h="0ad4f3d4" />
+    <e k="ai_settingWorkHeadlands" v="선회 구역 작업" h="2daa6dec" />
+    <e k="ai_taskDescriptionDriveToLoadingStation" v="적재소로 주행 중" h="50276620" />
+    <e k="ai_taskDescriptionDriveToLoadingTarget" v="적재 목표로 주행 중" h="698c1c76" />
+    <e k="ai_taskDescriptionDriveToUnloadingStation" v="하역소로 주행 중" h="615c0374" />
+    <e k="ai_taskDescriptionLoading" v="적재 중" h="2b8308b6" />
+    <e k="ai_validationErrorFillTypeNotSupportedByLoadingStation" v="적재소에서 지원하지 않는 적재물 종류입니다!" h="04f879ac" />
+    <e k="ai_validationErrorFillTypeNotSupportedByUnloadingStation" v="하역소에서 지원하지 않는 적재물 종류입니다!" h="14b97dee" />
+    <e k="ai_validationErrorFillTypeNotSupportedByVehicle" v="차량에서 지원하지 않는 적재물 종류입니다!" h="6edfc3b0" />
+    <e k="ai_validationErrorLoadingStationDoesNotExistAnymore" v="적재소가 더 이상 존재하지 않습니다!" h="27366966" />
+    <e k="ai_validationErrorLoadingStationIsEmpty" v="적재소가 비었습니다!" h="2783fa63" />
+    <e k="ai_validationErrorNoAILoadingNodesFound" v="차량이 AI 적재를 지원하지 않습니다!" h="6bdc409d" />
+    <e k="ai_validationErrorNoFillType" v="적재물 종류 없음!" h="28960a82" />
+    <e k="ai_validationErrorNoLoadingPoint" v="적재 지점 없음!" h="42a8e8d2" />
+    <e k="ai_validationErrorNoLoadingStation" v="적재소 없음!" h="7c0f777d" />
+    <e k="ai_validationErrorNoUnloadingStation" v="하역소 없음!" h="4433f6fb" />
+    <e k="ai_validationErrorUnloadingStationDoesNotExistAnymore" v="하역소가 더 이상 존재하지 않습니다!" h="6d1d6cd6" />
+    <e k="ai_validationErrorUnloadingStationIsFull" v="선택한 하역소가 가득 찼습니다!" h="4444c643" />
+    <e k="animal_descriptionBuffaloFeed" v="물소는 목초, 건초 및 완전 배합 사료를 좋아합니다." h="41e8213b" />
+    <e k="animal_descriptionChickenRooster" v="수탉은 다 자란 수컷 닭입니다. 닭장에 생기를 불어넣어 줍니다." h="096d77ea" />
+    <e k="animal_descriptionCowFeed" v="소는 목초, 건초 및 완전 배합 사료를 좋아합니다." h="67258c53" />
+    <e k="animal_descriptionHorseProfit" v="말을 팔아 수익을 낼 수 있습니다." h="6157161f" />
+    <e k="animal_descriptionHorseRiding" v="가치를 높이려면 매일 타야 합니다." h="073a9162" />
+    <e k="animal_descriptionPigFeed" v="돼지는 거의 무엇이든 먹습니다. 옥수수, 밀, 보리, 유채, 해바라기, 콩, 감자, 수수 및 사탕무를 먹일 수 있습니다." h="2c369778" />
+    <e k="animal_descriptionPigProfit" v="돼지를 팔아 수익을 낼 수 있습니다." h="29511917" />
+    <e k="animal_descriptionWater" v="물도 필요합니다." h="7e01db3c" />
+    <e k="animals_buy" v="가축 %d마리(%s)를 %s에 구매하시겠습니까?" h="6406bd5a" />
+    <e k="animals_descriptionGeneric" v="동물에게는 항상 물이 필요합니다! 헛간에는 급수 시설이 갖춰져 있습니다. 일부 동물에게는 짚도 필요합니다." h="48cda3d6" />
+    <e k="animals_descriptionHorse" v="말의 가치는 체력, 건강, 청결도로 결정됩니다. 체력을 높이려면 매일 말을 타야 합니다. 말에게는 깨끗한 깔짚으로 쓸 짚과, 건강을 유지하기 위한 물과 먹이가 필요합니다. 주기적으로 빗질과 세척도 해 주어야 합니다." h="3cf5dd34" />
+    <e k="animals_foodMixDescriptionParallel" v="다음 먹이를 섞어서 주십시오(최상의 결과를 얻으려면 이 종류를 모두 제공하십시오):" h="293d6230" />
+    <e k="animals_foodMixDescriptionSerial" v="다음 먹이 중 아무것이나 주십시오(최상의 결과를 얻으려면 가장 효율이 좋은 먹이를 제공하십시오):" h="29aabbf2" />
+    <e k="animals_horseStable" v="말 방목장" h="3b01d304" />
+    <e k="animals_inUse" v="사용 중인 동물은 옮길 수 없습니다!" h="64d01253" />
+    <e k="animals_noTarget" v="동물 상인 수송" h="5c9bd228" />
+    <e k="animals_openAnimalScreen" v="동물 화면 열기" h="70790577" />
+    <e k="button_borrowItems" v="장비 임차" h="7ae8a12a" />
+    <e k="button_changeLicensePlate" v="번호판 변경" h="3fbebdeb" />
+    <e k="button_contract_complete" v="수령" h="13636bf5" />
+    <e k="button_demolish" v="철거" h="056f602f" />
+    <e k="button_empty" v="비우기" h="2a88cf45" />
+    <e k="button_fill" v="채우기" h="045ceafb" />
+    <e k="button_flood" v="물 대기" h="3bf3f24e" />
+    <e k="button_lease" v="임차" h="24527087" />
+    <e k="button_leaseItems" v="아이템 임차" h="79e0a45f" />
+    <e k="button_mp_dimiss" v="농장 관리인 해임" h="79cc1a16" />
+    <e k="button_mp_ungrant" v="도급업자 권한 삭제" h="19ffb930" />
+    <e k="button_pickUp" v="집기" h="3d2c394e" />
+    <e k="button_sortTable" v="정렬" h="061c712a" />
+    <e k="button_viewOnMap" v="맵에서 보기" h="704cc3b6" />
+    <e k="categoryType_baling" v="베일 작업" h="7e448514" />
+    <e k="categoryType_combine" v="콤바인 수확" h="117f1323" />
+    <e k="categoryType_forage" v="사료 수확" h="3e4f54bb" />
+    <e k="categoryType_seeding" v="파종" h="0f717212" />
+    <e k="category_animalTransport" v="가축 수송" h="15383ed5" />
+    <e k="category_animalpens" v="가축 우리" h="669d33c3" />
+    <e k="category_bales" v="베일" h="7442f536" />
+    <e k="category_barrels" v="배럴" h="0794c1c8" />
+    <e k="category_beetLoading" v="비트 적재" h="0fe72791" />
+    <e k="category_combineWindrower" v="스와서" h="7fd19658" />
+    <e k="category_forestryHarvesters" v="하베스터" h="3af46645" />
+    <e k="category_forestryMulchers" v="파쇄기" h="34a4ad6e" />
+    <e k="category_forestryPlanters" v="묘목 식재기" h="6631c2b0" />
+    <e k="category_greenBeanHarvesters" v="강낭콩 수확기" h="00ef8dda" />
+    <e k="category_lowloaders" v="저상 트레일러" h="207dbcfd" />
+    <e k="category_mulchers" v="파쇄기" h="34a4ad6e" />
+    <e k="category_oliveVehicles" v="올리브 장비" h="0917c819" />
+    <e k="category_placeables" v="배치품" h="4cfb3506" />
+    <e k="category_planters" v="점파기" h="349f7716" />
+    <e k="category_potatoHarvesting" v="감자 장비" h="26045841" />
+    <e k="category_potatoPlanting" v="감자 파종기" h="2c2a813b" />
+    <e k="category_productionPoints" v="생산 시설" h="5d007ddc" />
+    <e k="category_silocompaction" v="사일리지 압축" h="71126d40" />
+    <e k="category_strawBlowers" v="짚 송풍기" h="06bfdb5a" />
+    <e k="category_sugarcanePlanters" v="사탕수수 파종기" h="4a053932" />
+    <e k="category_trailersChangingSystem" v="교체 시스템" h="28d61ef4" />
+    <e k="category_trailersSemi" v="세미트레일러" h="0c88c56a" />
+    <e k="category_vegetablePlanters" v="채소 파종기" h="689d45d1" />
+    <e k="category_woodChippers" v="목재 크러셔" h="0b0255bb" />
+    <e k="character_option_onepiece" v="점프슈트" h="1f04d5ca" />
+    <e k="collectible_mapAS_all" v="축하합니다! 농장 공 25개를 모두 찾았습니다!" h="3d9af731" />
+    <e k="collectible_mapAS_intro" v="이 지역 전설에 따르면 신비한 농장 공이 이곳에 숨겨져 있다고 합니다. 25개를 모두 모으는 첫 번째 주인공이 되시겠습니까?" h="50d49f2f" />
+    <e k="collectible_mapEU_all" v="축하합니다! 사과 50개를 모두 찾았습니다!" h="76734b2e" />
+    <e k="collectible_mapEU_intro" v="지역 공원 호수 섬에 있는 나무 두 그루에서 장식용 황금 사과가 제거되었습니다. 사과 50개를 모두 찾아 나무의 옛 영광을 되찾아 주시겠습니까?" h="1f9457d6" />
+    <e k="collectible_mapUS_all" v="축하합니다! 부품 25개를 모두 찾았습니다!" h="0485376a" />
+    <e k="collectible_mapUS_grainElevatorPart" v="곡물 엘리베이터 박물관의 부품을 찾았습니다! 이제 %d개 남았습니다!" h="3ddec073" />
+    <e k="collectible_mapUS_intro" v="곡물 엘리베이터 박물관 내부의 부품 일부가 사라졌습니다. 모두 찾아 주시겠습니까?" h="6e022984" />
+    <e k="configuration_attacherJointBack" v="후방 부착" h="66107cbf" />
+    <e k="configuration_attacherJointFront" v="전방 부착" h="02f0fd1e" />
+    <e k="configuration_baleNet" v="원형 베일 그물망" h="138b2e28" />
+    <e k="configuration_balePlacementMat" v="베일 배치 매트" h="46ad7149" />
+    <e k="configuration_baleTwine" v="사각 베일 노끈" h="3cb61ea4" />
+    <e k="configuration_baleWrap" v="베일 포장재" h="7307e575" />
+    <e k="configuration_beacon" v="경광등" h="4be0811e" />
+    <e k="configuration_boxBody" v="적재함" h="03e9b4c8" />
+    <e k="configuration_bunkerSilo" v="벙커 저장탑" h="524cb6e6" />
+    <e k="configuration_crossBoardStonePicker" v="크로스보드 + 돌 수집기" h="064df71f" />
+    <e k="configuration_fastCoupler" v="퀵 커플러" h="4675d74b" />
+    <e k="configuration_fastCouplerEzBallast" v="EZ Ballast 퀵 커플러" h="74f4e6cc" />
+    <e k="configuration_fillVolume" v="적재 용량" h="41699493" />
+    <e k="configuration_flatbed" v="평판 트레일러" h="7ee947bb" />
+    <e k="configuration_folding" v="접이 장치" h="25e57215" />
+    <e k="configuration_frontWeightX" v="%skg 전방 웨이트" h="099c5864" />
+    <e k="configuration_frontweight" v="전방 웨이트" h="1213c2c7" />
+    <e k="configuration_harvesterHead" v="하베스터 헤드" h="31ee8079" />
+    <e k="configuration_levelingTines" v="레벨링 갈퀴날" h="1e1c234d" />
+    <e k="configuration_multiRowSprayer" v="다열 분무기" h="3c64e0b2" />
+    <e k="configuration_overloadingHarvester" v="옮겨 싣기 콤바인" h="3bfcf8c9" />
+    <e k="configuration_packer" v="패커" h="3e4c6d69" />
+    <e k="configuration_productionPoint" v="생산 시설" h="0c6f649f" />
+    <e k="configuration_reverseDriving" v="후진주행" h="41b82f2b" />
+    <e k="configuration_ridgeMarker" v="줄 표시기" h="34c71cb8" />
+    <e k="configuration_rigid" v="고정식" h="0e2f79f1" />
+    <e k="configuration_rimColor" v="림 색상" h="3993ea12" />
+    <e k="configuration_safetyBeacon" v="안전 경광등" h="1f147cbd" />
+    <e k="configuration_swathCurtain" v="줄 커튼" h="022a323d" />
+    <e k="configuration_tines" v="갈퀴날" h="314cb9d5" />
+    <e k="configuration_tipper" v="덤프 트레일러" h="3a8a8e12" />
+    <e k="configuration_trackTines" v="자국 쇄토 갈퀴날" h="13674428" />
+    <e k="configuration_trapezoidalRingRoller" v="사다리꼴 링 패커" h="32b4425c" />
+    <e k="configuration_valueBaleTrailer" v="베일 구성" h="40b763c9" />
+    <e k="configuration_valueCMixShare100mm" v="C-Mix 보습 100mm" h="66b3fb58" />
+    <e k="configuration_valueCMixShare80mm" v="C-Mix 보습 80mm" h="67573c75" />
+    <e k="configuration_valueColor" v="색상" h="07b0ef1f" />
+    <e k="configuration_valueCrawlerBroad" v="광폭 크롤러 트랙" h="0f2a29c4" />
+    <e k="configuration_valueDuckFootShare320mm" v="오리발 보습 320mm" h="496821bd" />
+    <e k="configuration_valueFingerBodyShares" v="살형 발토판" h="7b615812" />
+    <e k="configuration_valueHydraulic" v="유압" h="62fd790d" />
+    <e k="configuration_valueLeftLoading" v="왼쪽 적재" h="28f32e5f" />
+    <e k="configuration_valueLelyAstronaut" v="Lely Astronaut A5" h="527dcfbf" />
+    <e k="configuration_valueLoadingWagon" v="베일 트레일러" h="6089603e" />
+    <e k="configuration_valueNoMilk" v="착유 없음" h="6e568f85" />
+    <e k="configuration_valueRightLoading" v="오른쪽 적재" h="5e4c7472" />
+    <e k="configuration_valueSpikedRollerBroad" v="광폭 스파이크 롤러" h="07e43e4e" />
+    <e k="configuration_valueTripleWheelsAll" v="트리플 휠" h="33e6cd33" />
+    <e k="configuration_valueTwinWheelsAll" v="트윈 휠" h="006a44e0" />
+    <e k="configuration_valueTwinWheelsBackNarrow" v="소폭 트윈 뒷바퀴" h="2abe791f" />
+    <e k="configuration_valueWheelWeights" v="휠 웨이트" h="057c61d2" />
+    <e k="configuration_valueWingShare350mm" v="윙 보습 350mm" h="73144a12" />
+    <e k="configuration_valueWrapperBaleOnEnd" v="베일 엔드 터너 포함" h="65371699" />
+    <e k="configuration_warningSigns" v="경고 표지" h="5e286e3f" />
+    <e k="configuration_windrower" v="스와서" h="7fd19658" />
+    <e k="configuration_woodHarvester" v="하베스터" h="46cd1a2e" />
+    <e k="construction_item_level" v="평탄화" h="2457e921" />
+    <e k="construction_item_soften" v="부드럽게" h="27028c86" />
+    <e k="contract_alreadyStarted" v="이미 시작된 계약입니다." h="1b0d13f9" />
+    <e k="contract_cannotBeStartedNow" v="지금은 계약을 시작할 수 없습니다. 나중에 다시 시도하십시오." h="15b0500d" />
+    <e k="contract_desc_useOwnEquipment" v="자신의 장비를 사용하거나, 보상이 %s 줄어드는 조건으로 장비를 임차할 수 있습니다." h="46bc480c" />
+    <e k="contract_details_bale_type" v="베일 유형" h="72a2d985" />
+    <e k="contract_details_bale_type_round" v="원형 베일" h="6543a0d0" />
+    <e k="contract_details_bale_type_square" v="사각 베일" h="4b2eb61c" />
+    <e k="contract_field_baleWrap_description" v="베일 포장기로 베일을 포장합니다." h="6d6cc990" />
+    <e k="contract_field_baleWrap_title" v="베일 포장" h="47f5da3b" />
+    <e k="contract_field_bale_description" v="지정된 경작지에서 사각 베일을 만듭니다." h="16e183b6" />
+    <e k="contract_field_bale_descriptionRound" v="지정된 경작지에서 원형 베일을 만듭니다." h="00f42f4d" />
+    <e k="contract_field_bale_title" v="베일 작업" h="7e448514" />
+    <e k="contract_field_cultivate_title" v="경작" h="650183fc" />
+    <e k="contract_field_failed" v="지정된 경작지의 계약이 실패했습니다" h="3308c326" />
+    <e k="contract_field_fertilize_description" v="어떤 종류의 비료(액체, 고체, 슬러리 또는 거름)로든 경작지에 비료를 줍니다." h="382bc4b6" />
+    <e k="contract_field_fertilize_title" v="비료 살포" h="21b08923" />
+    <e k="contract_field_harvest_description" v="경작지를 수확하고 수확물을 지정된 판매소로 가져갑니다." h="30f94301" />
+    <e k="contract_field_harvest_nextUnloadDesc" v="수확물을 판매소로 납품해야 합니다." h="4e2c08e0" />
+    <e k="contract_field_harvest_progress_transporting_forField" v="%d%% 수송함(경작지 %d)" h="5eb1a22b" />
+    <e k="contract_field_harvest_title" v="수확" h="3af57051" />
+    <e k="contract_field_herbicide_description" v="제초제를 살포하여 경작지의 잡초를 제거합니다." h="68af8214" />
+    <e k="contract_field_herbicide_title" v="제초제 살포" h="3decb804" />
+    <e k="contract_field_mow_description" v="예초기로 경작지의 목초를 벱니다." h="0841292a" />
+    <e k="contract_field_sow_description" v="지정된 경작지에 파종합니다." h="5165f96c" />
+    <e k="contract_field_sow_title" v="파종" h="2946d702" />
+    <e k="contract_field_tedder_title" v="목초 뒤집기" h="193687f5" />
+    <e k="contract_field_weed_title" v="제초" h="623c063b" />
+    <e k="contract_forestry_deadwood_completed" v="지정된 농지의 죽은 나무 계약 완료" h="34e64475" />
+    <e k="contract_forestry_deadwood_completionNotification" v="농지 %d의 죽은 나무 계약이 %d%% 완료되었습니다" h="6fe1cf12" />
+    <e k="contract_forestry_deadwood_description" v="이 구역에는 죽은 나무 문제가 있습니다. 소유주를 도와 죽은 나무를 모두 베십시오. 나무마다 이미 표시가 되어 있습니다! 벤 나무는 나중에 판매할 수 있습니다." h="0a46da3c" />
+    <e k="contract_forestry_deadwood_tally_wronglyCut" v="잘못 벤 나무" h="0837a639" />
+    <e k="contract_forestry_deadwood_timedOut" v="농지 %d의 죽은 나무 계약 허용 시간이 지났습니다!" h="367d7a35" />
+    <e k="contract_forestry_treeTransport_completed" v="지정된 농지의 수송 계약 완료" h="2ec8f740" />
+    <e k="contract_forestry_treeTransport_completionNotification" v="농지 %d의 목재 수송 계약이 %d%% 완료되었습니다" h="4a4cd9f3" />
+    <e k="contract_forestry_treeTransport_description" v="나무를 지정된 판매소로 수송하고 대금을 받으십시오. 손상된 만큼 대금에서 차감되므로 나무가 손상되지 않도록 주의하십시오." h="40cb2103" />
+    <e k="contract_forestry_treeTransport_details_deliveredNumTrees" v="납품한 나무 수" h="2b4e282e" />
+    <e k="contract_forestry_treeTransport_failed" v="농지 %d의 목재 수송 계약 실패!" h="2e06411b" />
+    <e k="contract_forestry_treeTransport_tally_wronglyDelivered" v="잘못 납품한 나무" h="792494c1" />
+    <e k="contract_forestry_treeTransport_timedOut" v="농지 %d의 목재 수송 계약 허용 시간이 지났습니다!" h="3645bc50" />
+    <e k="contract_forestry_treeTransport_title" v="목재 수송" h="28212ea6" />
+    <e k="contract_limitedReached" v="농장에 이미 진행 중인 계약이 세 건 있습니다!" h="1d6add97" />
+    <e k="contract_map_destructibleRock_completed" v="농지의 암석 제거 계약 완료" h="17f57d70" />
+    <e k="contract_map_destructibleRock_description" v="소유주가 구역 안의 특정 암석을 파괴해 주기를 원합니다." h="78500313" />
+    <e k="contract_map_destructibleRock_details_destroyedNumRocks" v="파괴한 암석" h="0844d9cf" />
+    <e k="contract_map_destructibleRock_timedOut" v="농지 %d의 암석 제거 계약 허용 시간이 지났습니다!" h="367d7a35" />
+    <e k="contract_missionCancelFailed" v="계약을 취소할 수 없습니다." h="2caaa158" />
+    <e k="contract_missionCancelSuccess" v="계약을 취소했습니다." h="3d695b78" />
+    <e k="contract_missionDismissFailed" v="계약을 완료할 수 없습니다." h="795ede0e" />
+    <e k="contract_missionDismissSuccess" v="계약 보상을 수령했습니다." h="322248d3" />
+    <e k="contract_noAccess" v="이 계약에 접근할 수 없습니다." h="79930c68" />
+    <e k="contract_noPermission" v="계약을 관리할 권한이 없습니다." h="7e607e97" />
+    <e k="contract_notAvailableAnymore" v="더 이상 진행할 수 없는 계약입니다." h="6b83828c" />
+    <e k="contract_offersReward" v="소유주가 다음 보상을 제공합니다:" h="631f3d72" />
+    <e k="contract_pendingMissionStart" v="다른 계약이 시작되는 중입니다. 나중에 다시 시도하십시오." h="0efd36ff" />
+    <e k="contract_reimbursement" v="환급" h="0431eedf" />
+    <e k="contract_startFailed" v="계약을 시작할 수 없습니다." h="6065dede" />
+    <e k="contract_started" v="계약을 시작했습니다." h="6d81ee32" />
+    <e k="contract_transport_title" v="수송" h="04b3b61d" />
+    <e k="contract_vehicleCosts" v="임차 비용" h="263a6e79" />
+    <e k="contract_vehiclesAtShop" v="임차한 기계가 상점에서 기다리고 있습니다. 필요하면 도구를 채우십시오." h="286c6b80" />
+    <e k="controlGroup_supportArm" v="지지대" h="5f0e5216" />
+    <e k="defaultSavegameName" v="내 저장 데이터" h="12b92bc5" />
+    <e k="dialog_dlcsCorruptQuit" v="설치된 다운로드 콘텐츠 일부가 손상되었습니다. 이 콘텐츠는 사용할 수 없으므로 게임이 종료됩니다. 다시 다운로드하십시오." h="1ace5784" />
+    <e k="dialog_getFullVersion" v="여기에서 Farming Simulator 정식 버전을 받으십시오." h="46698101" />
+    <e k="dialog_reinsertDlcMedia" v="다운로드 콘텐츠가 들어 있는 저장 장치를 다시 연결하거나 게임을 종료하십시오." h="4b6ac4b6" />
+    <e k="dialog_savegameOverwrite" v="계속해서 이 저장 데이터를 덮어쓰시겠습니까?" h="66ee5407" />
+    <e k="dialog_signinWithUserToAcceptInvite" v="초대받은 사용자(%s)로 로그인하십시오." h="1b1026e6" />
+    <e k="extraContent_eshopVisitShop" v="방문" h="546977b1" />
+    <e k="extraContent_eshopWarning" v="GIANTS 다운로드 포털용 키를 입력하신 것 같습니다.{{NL}}다음 주소에서 콘텐츠를 다운로드하십시오.{{NL}}https://eshop.giants-software.com" h="79e289ad" />
+    <e k="extraContent_horsch_title" v="HORSCH{{NL}}Farming Hero 의상" h="238af6e4" />
+    <e k="fillTypeGroup_earth" v="뿌리작물" h="200ff34a" />
+    <e k="fillType_armoire" v="옷장" h="2e80b753" />
+    <e k="fillType_baleNet" v="원형 베일 그물망" h="138b2e28" />
+    <e k="fillType_baleTwine" v="사각 베일 노끈" h="3cb61ea4" />
+    <e k="fillType_baleWrap" v="베일 포장재" h="7307e575" />
+    <e k="fillType_barrel" v="배럴" h="7f14ad71" />
+    <e k="fillType_buffaloMilk" v="물소 우유" h="683419b5" />
+    <e k="fillType_catTree" v="캣타워" h="2de832e6" />
+    <e k="fillType_cementBags" v="시멘트 포대" h="274b198c" />
+    <e k="fillType_cereal" v="시리얼" h="40cc68ba" />
+    <e k="fillType_chaff" v="여물" h="06bde9d8" />
+    <e k="fillType_flour" v="밀가루" h="3bf3f56e" />
+    <e k="fillType_greenBean" v="강낭콩" h="751d912a" />
+    <e k="fillType_jarredGreenBean" v="강낭콩 단지" h="2f5efbb2" />
+    <e k="fillType_pepperGrinder" v="후추 분쇄기" h="5ea8ad93" />
+    <e k="fillType_pigFoodEarth" v="돼지 사료(뿌리작물)" h="1b1383fd" />
+    <e k="fillType_prefabWall" v="조립식 벽" h="33313b54" />
+    <e k="fillType_preservedFoodBeetRoot" v="보존식품 레드 비트" h="32df819b" />
+    <e k="fillType_riceBag" v="쌀 자루" h="531ef4f8" />
+    <e k="fillType_riceBox" v="쌀 상자" h="531efc33" />
+    <e k="fillType_riceLongGrain" v="장립종 벼" h="2eb74070" />
+    <e k="fillType_riceSaplings" v="볏모" h="7180c350" />
+    <e k="fillType_roundBale" v="원형 베일" h="6543a0d0" />
+    <e k="fillType_roundBaleBarley" v="원형 베일 짚 (보리)" h="4df3505d" />
+    <e k="fillType_roundBaleCotton" v="원형 베일 목화" h="24fe216c" />
+    <e k="fillType_roundBaleDryGrass" v="원형 베일 건초" h="1391fb0b" />
+    <e k="fillType_roundBaleGrass" v="원형 베일 목초" h="55892210" />
+    <e k="fillType_roundBaleSilage" v="원형 베일 사일리지" h="72d92930" />
+    <e k="fillType_roundBaleWheat" v="원형 베일 짚 (밀)" h="245cf474" />
+    <e k="fillType_roundBaleWood" v="원형 베일 목재" h="05b9a88e" />
+    <e k="fillType_sheepLandrace" v="벤트하임 랜드레이스" h="5bfd8284" />
+    <e k="fillType_squareBale" v="사각 베일" h="4b2eb61c" />
+    <e k="fillType_squareBaleBarley" v="사각 베일 짚 (보리)" h="65124acf" />
+    <e k="fillType_squareBaleCotton" v="사각 베일 목화" h="42ff55d6" />
+    <e k="fillType_squareBaleDryGrass" v="사각 베일 건초" h="376018ba" />
+    <e k="fillType_squareBaleGrass" v="사각 베일 목초" h="098d0cf8" />
+    <e k="fillType_squareBaleSilage" v="사각 베일 사일리지" h="10da5d9b" />
+    <e k="fillType_squareBaleWheat" v="사각 베일 짚 (밀)" h="00630dd1" />
+    <e k="fillType_squareBaleWood" v="사각 베일 목재" h="5832d93f" />
+    <e k="fillType_straw" v="짚" h="21396349" />
+    <e k="fillType_sugarBeetCut" v="절단 사탕무" h="7f06657b" />
+    <e k="fillType_sunflowerOil" v="해바라기유" h="35c5e4d1" />
+    <e k="finance_constructionCost" v="건설비" h="343e515c" />
+    <e k="finance_fieldSelling" v="토지 판매" h="731a8516" />
+    <e k="finance_newAnimalsCost" v="신규 가축" h="0bd72fdb" />
+    <e k="finance_newHandtoolsCost" v="신규 수공구" h="52663483" />
+    <e k="finance_newVehiclesCost" v="신규 차량" h="74aa915d" />
+    <e k="finance_purchaseBales" v="베일 비용" h="7d95fd4d" />
+    <e k="finance_soldBales" v="판매된 베일" h="3849dda0" />
+    <e k="finance_transfer" v="송금" h="4e57156a" />
+    <e k="finance_vehicleLeasingCost" v="차량 임차 비용" h="69be9451" />
+    <e k="foldState_closeSidePanel" v="측면 패널 닫기" h="21a1fde6" />
+    <e k="foldState_openSidePanel" v="측면 패널 열기" h="6fbec516" />
+    <e k="function_additionalTank" v="도구 용량을 늘려 주는 추가 탱크입니다." h="6e86f7c0" />
+    <e k="function_animalPenCow" v="소를 키우는 곳입니다." h="053e6945" />
+    <e k="function_augerLoadSilo" v="이 컨베이어는 주로 저장탑을 채우는 데 씁니다." h="27c57e77" />
+    <e k="function_augerUnloadSilo" v="이 컨베이어는 주로 저장탑을 비우는 데 씁니다." h="417721bf" />
+    <e k="function_augerWagon" v="오거 왜건(체이서 빈이라고도 함)은 경작지에서 여러 작물을 임시로 보관했다가 다른 트레일러로 옮겨 싣는 데 사용됩니다." h="78b36894" />
+    <e k="function_baleNet" v="원형 베일 그물망은 원형 베일러에서 소모되며, 다 떨어지면 보충해야 합니다. 베일이 풀리지 않게 묶는 데 사용됩니다." h="5e687e0b" />
+    <e k="function_baleStacker" v="베일 로더를 사용하면 간편하게 베일을 거둬들일 수 있습니다." h="765e59bf" />
+    <e k="function_baleTrailer" v="베일 트레일러는 베일을 수송하는 데 사용됩니다." h="5ad6129c" />
+    <e k="function_baleTwine" v="사각 베일 노끈은 사각 베일러에서 소모되며, 다 떨어지면 보충해야 합니다. 베일이 풀리지 않게 묶는 데 사용됩니다." h="084e72b9" />
+    <e k="function_baleWrap" v="베일 포장재는 베일을 포장하는 데 사용되며, 다 떨어지면 베일 포장기에 채워 넣어야 합니다." h="0a051668" />
+    <e k="function_baleWrapper" v="베일 포장기는 목초 베일을 포일로 감싸 사일리지로 발효되게 합니다." h="69d652c7" />
+    <e k="function_baleWrapperStationary" v="이 포장기는 고정식이므로 주행 중에는 사용할 수 없습니다." h="1433fc2a" />
+    <e k="function_baler" v="베일러는 흩어진 짚, 목초, 건초를 다루기 쉬운 베일로 만듭니다." h="4c6310d0" />
+    <e k="function_bales" v="동물에게 먹일 베일입니다." h="5bf92543" />
+    <e k="function_beehive" v="벌집은 꿀을 생산합니다. 꿀은 별도로 구매해 배치해야 하는 집하 장소에 모입니다. 벌집을 경작지 근처에 두면 일부 작물의 수확량도 조금 늘어납니다." h="492894f3" />
+    <e k="function_beehiveHoneyPalletSpawner" v="벌집에서 생산된 꿀이 팔레트로 쌓이는 장소입니다." h="58600c5a" />
+    <e k="function_beltSystemConnection" v="이 컨베이어 벨트는 물건을 다음 벨트로 옮깁니다." h="485655c8" />
+    <e k="function_beltSystemStart" v="이 벨트는 바닥의 물건을 받아 다음 컨베이어 벨트에 싣습니다." h="5aa07278" />
+    <e k="function_bigBagLime" v="대형 자루는 석회 살포기를 채우는 데 사용됩니다." h="68d58b71" />
+    <e k="function_biobaler" v="바이오 베일러는 포플러를 압축해 베일로 만듭니다." h="13c9d634" />
+    <e k="function_biobalerFrontTool" v="이 도구로 포플러를 눌러 바이오 베일러가 거둬들이게 합니다." h="04ffc979" />
+    <e k="function_buildableFarmHouse" v="이 건물은 키트로 제공되며 먼저 조립해야 합니다. 필요한 자재를 건설 현장으로 배송하십시오." h="4511ef0d" />
+    <e k="function_bunkerSilo" v="벙커 저장탑은 여물, 목초, 건초로 채울 수 있습니다. 저장탑을 다지고 덮으면 내용물이 사일리지로 바뀝니다." h="5de5279f" />
+    <e k="function_car" v="자동차를 타면 A에서 B로 빠르게 이동할 수 있습니다." h="697b5814" />
+    <e k="function_carTrailer" v="이 차량에 자동차용 트레일러를 장착할 수 있습니다." h="3e979b38" />
+    <e k="function_coins" v="코인을 구매해 게임을 더 풍성하게 즐기십시오." h="1c319d90" />
+    <e k="function_combineForage" v="사료 수확기는 표시된 작물을 가공합니다." h="3a563f6d" />
+    <e k="function_combineNeedsForageCutter" v="사료 수확기를 작동하려면 적절한 헤더도 필요합니다." h="67bec009" />
+    <e k="function_combineWindrower" v="스와서는 적절한 헤더를 달아 작물을 베는 데 사용됩니다. 실제 탈곡은 이후 콤바인으로 따로 합니다." h="0c0e903e" />
+    <e k="function_comfortSupportWheel" v="도로에서 Kemper 헤더를 수송하는 서포트 휠입니다." h="298d47a2" />
+    <e k="function_compatibleSilos" v="호환되는 저장탑:" h="033e8bba" />
+    <e k="function_containerChassis" v="이 트레일러로 다양한 크기의 운송 컨테이너를 수송할 수 있습니다." h="343c137d" />
+    <e k="function_cultivator" v="컬티베이터는 다음 파종을 위해 경작지를 준비합니다." h="737c022f" />
+    <e k="function_cutterForage" v="헤더는 사료 수확기에 장착하여 사용합니다." h="387d088e" />
+    <e k="function_cutterPickup" v="픽업 헤더는 탈곡할 베어 낸 줄을 주워 올립니다. 이 줄은 스와서로 만듭니다." h="7962bcea" />
+    <e k="function_cutterTrailer" v="헤더 트레일러는 도로에서 헤더를 안전하게 수송합니다." h="655592d0" />
+    <e k="function_cutterWindrower" v="스와서용 헤더로 작물을 베어 두었다가 나중에 콤바인으로 탈곡합니다." h="73e5c68b" />
+    <e k="function_cutterWindrowerGrass" v="스와서에 장착하는 목초 예초기입니다." h="58ba4cfd" />
+    <e k="function_decoLight" v="이 조명등으로 농장을 장식하십시오." h="76d6b02f" />
+    <e k="function_dieselTank" v="농장에 연료를 저장하고 장비에 주유하는 탱크입니다." h="07a5a85a" />
+    <e k="function_farmSiloAugerFilling" v="저장탑에 작물을 저장합니다. 이 저장탑에는 오거나 컨베이어도 필요합니다." h="42f882cf" />
+    <e k="function_feeder" v="사료 믹서 왜건은 사일리지, 건초, 무기물 사료, 짚을 섞어 소에게 먹일 수 있는 완전 배합 사료(TMR)를 만듭니다." h="4cc7c96d" />
+    <e k="function_feederBale" v="이 기계는 짚 베일을 풀어 축사 바닥에 짚을 깝니다." h="6e7834e9" />
+    <e k="function_fellerBuncher" v="벌목 집군기는 나무를 베는 데 사용됩니다. 여러 그루를 베어 한 번에 내려놓을 수 있습니다." h="40f59a27" />
+    <e k="function_fertilizer" v="비료 살포기를 사용하면 경작지의 수확량을 늘릴 수 있습니다." h="70397af5" />
+    <e k="function_fillablePallet" v="포플러 묘목은 묘목 식재기로 심습니다." h="3d1d6603" />
+    <e k="function_fillablePalletSugarCane" v="이 팔레트로 사탕수수 파종기를 채울 수 있습니다." h="7f9c26ce" />
+    <e k="function_fillableSilo" v="이 저장탑은 여러 제품으로 채울 수 있습니다." h="3d2668b5" />
+    <e k="function_foliage" v="장식용 식물입니다." h="44baba6b" />
+    <e k="function_forageWagon" v="사료 왜건은 목초, 건초, 짚을 거둬들입니다. 여물로 채울 수도 있습니다." h="373f2d40" />
+    <e k="function_forestryMulcher" v="임업 파쇄기로 나무 그루터기와 관목을 제거할 수 있습니다." h="134f1075" />
+    <e k="function_forestryPlanter" v="이 묘목 식재기는 땅에 새 나무를 심습니다. 상점에서 묘목 팔레트를 구매해 식재기를 채울 수 있습니다." h="102be3c9" />
+    <e k="function_forestryTransport" v="이 차량은 통나무를 수송할 수 있습니다." h="71d7a39f" />
+    <e k="function_forestryTreeLimit" v="참고: 너무 큰 나무는 처리할 수 없습니다." h="40636f61" />
+    <e k="function_forestryTreeLoad" v="이 차량은 나무를 싣거나 내리는 데 사용할 수 있습니다." h="0497fe99" />
+    <e k="function_forestryWoodCrusher" v="이 기계는 줄기를 부숴 나무 부스러기로 만듭니다." h="50cec3f6" />
+    <e k="function_frontloader" v="프론트 로더는 다양한 물건을 쌓고 싣는 데 사용됩니다." h="09f0b038" />
+    <e k="function_frontloaderBaleFork" v="이 도구는 베일을 수송할 때 사용할 수 있습니다." h="013ea340" />
+    <e k="function_frontloaderRoundBaleFork" v="이 도구는 원형 베일을 수송할 때 사용할 수 있습니다." h="2166c572" />
+    <e k="function_frontloaderShovel" v="이 도구는 트레일러에 물건을 싣는 데 사용할 수 있습니다." h="170cb598" />
+    <e k="function_garage" v="차량과 도구를 보관하는 차고입니다." h="6d279a7c" />
+    <e k="function_garageBulk" v="벌크 자재를 보관하는 홀입니다." h="60ae746f" />
+    <e k="function_garageService" v="작업장이 딸린 차고로, 차량과 도구를 보관하고 수리할 수 있습니다." h="71496b26" />
+    <e k="function_garageSolarPanels" v="매시간 수익이 생기는 저장소로, 차량과 도구를 주차할 수 있습니다." h="0d7bc1aa" />
+    <e k="function_grapeOrchard" v="포도 덩굴은 줄지어 심어져 있으며, 수확량을 최대로 얻으려면 경작, 비료 살포, 파쇄 작업이 필요합니다.{{NL}}또한 수확 후에는 가지치기를 해야 합니다." h="50e07873" />
+    <e k="function_harvestingPotato" v="이 수확기는 감자를 땅속에서 캐냅니다. 이 기계를 사용하려면 먼저 토퍼가 필요합니다." h="54d0d2b5" />
+    <e k="function_harvestingPotatoWithoutPreparer" v="이 수확기는 감자를 땅속에서 캐냅니다." h="5e6fbff5" />
+    <e k="function_harvestingSelfPropelledPotato" v="이 자주식 수확기는 한 번에 감자를 거둬들입니다." h="1b6e6659" />
+    <e k="function_harvestingSelfPropelledSugarbeet" v="이 자주식 수확기는 한 번에 사탕무를 거둬들입니다." h="2ce54c3c" />
+    <e k="function_harvestingSugarbeet" v="이 수확기는 사탕무를 땅속에서 캐냅니다. 이 기계를 사용하려면 먼저 토퍼로 잎줄기를 잘라 내야 합니다." h="7d725d8b" />
+    <e k="function_haulmTopperPotato" v="감자를 수확하려면 먼저 이와 같은 토퍼로 잎과 줄기를 잘라내야 합니다." h="01a9db7b" />
+    <e k="function_haulmTopperSugarbeet" v="사탕무를 수확하려면 먼저 이와 같은 토퍼로 잎과 줄기를 잘라내야 합니다." h="0ff6e528" />
+    <e k="function_hayStorage" v="건초 및 짚 저장소입니다." h="78c16daf" />
+    <e k="function_heatingPlant" v="이 판매소에 나무 부스러기를 내려놓으면 열을 생산해 수익을 낼 수 있습니다." h="4596ce1c" />
+    <e k="function_highPressureWasher" v="이 기계로 더러운 차량이나 도구를 세척할 수 있습니다." h="67c36a25" />
+    <e k="function_hoe" v="괭이는 작물 사이에 난 작거나 중간 크기로 자란 잡초를 뽑아 경작지 상태를 개선합니다. 작물 생장 초기 단계에서 사용할 수 있습니다." h="406b76bf" />
+    <e k="function_horseBrush" v="말 브러시로 말을 닦아 주십시오." h="3870f1d6" />
+    <e k="function_hydraulicHammer" v="유압 해머는 숲속의 바위를 부술 때 사용할 수 있습니다." h="17b4f831" />
+    <e k="function_inlineWrapper" v="인라인 포장기는 여러 베일을 하나의 튜브로 이어서 포장하는 데 사용됩니다." h="3d94663d" />
+    <e k="function_leveler" v="수평 조절기는 여물과 사일리지를 옮기고 저장탑에 쌓인 더미의 수평을 맞추는 데 사용됩니다." h="5d979c1f" />
+    <e k="function_liquidManureTank" v="이 저장조는 슬러리를 임시로 저장하는 데 사용됩니다." h="7c204854" />
+    <e k="function_liquidManureTankExtension" v="슬러리 저장조의 저장 용량을 늘립니다. 헛간 또는 슬러리 저장조 근처에 배치해야 합니다." h="21b01120" />
+    <e k="function_livestockTrailer" v="이 트레일러는 동물 수송에 사용됩니다." h="314a0b41" />
+    <e k="function_manureHeap" v="거름을 임시로 저장하는 저장탑입니다." h="41ed13a0" />
+    <e k="function_mineralFeedPallet" v="소에게 먹일 완전 배합 사료(TMR)에 섞어 넣을 수 있습니다." h="62f13fc5" />
+    <e k="function_mower" v="예초기는 목초를 벱니다." h="5c81f295" />
+    <e k="function_mulcher" v="파쇄기는 수확 후 남은 밑동을 분쇄하는 데 사용할 수 있습니다." h="0fe81298" />
+    <e k="function_objectStorage" v="이 건물은 베일과 팔레트 보관에 사용할 수 있습니다." h="6be70bda" />
+    <e k="function_oliveOrchard" v="올리브나무 숲은 줄지어 심어져 있으며, 수확량을 최대로 얻으려면 경작, 비료 살포, 파쇄 작업이 필요합니다." h="7a84c035" />
+    <e k="function_placeableChipper" v="이 기계에 넣은 통나무는 모두 나무 부스러기로 바뀌어 곧바로 제재소에 판매됩니다." h="1c56edc7" />
+    <e k="function_planter" v="점파기는 파종기의 특수한 형태입니다. 옥수수, 해바라기, 콩 같은 작물에 사용됩니다." h="09d7d825" />
+    <e k="function_planterVegetables" v="이 특수 파종기는 채소를 심는 데 사용됩니다." h="5893f9ca" />
+    <e k="function_reverseDriveControl" v="이 차량에는 후진 주행 제어 장치가 장착되어 있습니다." h="427e61c5" />
+    <e k="function_riceField" v="벼는 물을 댈 수 있는 논에서 재배됩니다." h="0f18749f" />
+    <e k="function_riceTransplanter" v="이 이앙기는 물을 댄 논에 볏모를 심을 수 있습니다." h="11d8e857" />
+    <e k="function_saplingPallet" v="이 묘목 팔레트는 묘목 식재기를 채우는 데 쓰입니다." h="49eb2508" />
+    <e k="function_screwConveyor" v="스크루 컨베이어를 사용해 보관함이나 트레일러에 벌크 자재를 적재할 수 있습니다." h="1795cbd7" />
+    <e k="function_seedTreating" v="이 컨베이어는 곡물 저장고에서 바로 씨앗을 생산할 수 있습니다." h="045ca78e" />
+    <e k="function_seeder" v="이 도구로 파종도 할 수 있습니다." h="4cce4551" />
+    <e k="function_semiTrailerAgriculture" v="이 세미트레일러는 오프로드 차대를 갖추고 있으며 농업용 트럭과 호환됩니다." h="38c0c773" />
+    <e k="function_shallowCultivator" v="얕은 컬티베이터는 경작지를 얕게 경작하거나 파종 준비된 땅으로 만드는 데 사용됩니다." h="0afcd19c" />
+    <e k="function_shippingContainer" v="운송 컨테이너는 통나무로 채워 통째로 판매할 수 있습니다." h="6d399e88" />
+    <e k="function_shippingContainerTransport" v="이 트레일러는 운송 컨테이너를 수송하는 데 적합합니다." h="7070e638" />
+    <e k="function_silageCompressor" v="사일리지 압축기를 사용하면 사일리지가 더 빨리 압축됩니다." h="5f8b7fa4" />
+    <e k="function_skidder" v="스키더는 숲에서 긴 통나무를 끌어내는 데 사용됩니다." h="213f73ad" />
+    <e k="function_skidsteer" v="스키드 스티어 로더는 다양한 물건을 쌓고 싣는 데 사용됩니다." h="70f750a1" />
+    <e k="function_slurrySpreader" v="슬러리 탱크는 경작지에 슬러리를 뿌려 비료를 주는 데 사용됩니다." h="443b1c11" />
+    <e k="function_slurrySpreaderWithoutTool" v="슬러리 탱크는 경작지에 슬러리를 뿌려 비료를 주는 데 사용됩니다. 이 탱크에는 살포기가 추가로 필요합니다." h="70b48a48" />
+    <e k="function_sowingMachineDirect" v="또한 이 파종기로는 직파를 할 수 있습니다(사전에 경작이나 쟁기질을 할 필요 없음)." h="633d3f49" />
+    <e k="function_spader" v="가래는 다음 파종을 위해 경작지를 준비합니다. 쟁기 대신 사용할 수 있습니다." h="24e7e0e8" />
+    <e k="function_sprayCan" v="나무 표시 스프레이" h="22b9450c" />
+    <e k="function_sprayer" v="분무기를 사용하면 경작지의 수확량이 늘어납니다." h="6cb202bf" />
+    <e k="function_sprayerTank" v="추가 탱크로 분무기 용량을 늘립니다." h="05d95d19" />
+    <e k="function_stationaryBaler" v="고정식 베일러는 흩어진 물건을 일반 베일로 만듭니다. 이 베일러는 뒤쪽에 채울 수 있는 벙커가 있습니다. 베일 포장기는 특정 물건을 자동으로 포장합니다." h="77d7cfa9" />
+    <e k="function_storage" v="차량과 도구를 보관하는 창고입니다." h="4660ae6a" />
+    <e k="function_stumpCutter" v="이 기계는 나무 그루터기를 갈아 없앱니다." h="0ab16cbf" />
+    <e k="function_sugarCanePlanter" v="이 파종기는 사탕수수를 심을 때 사용할 수 있습니다." h="42df3d25" />
+    <e k="function_tank" v="탱크는 액체를 수송합니다." h="68794df7" />
+    <e k="function_tipper" v="덤프 트레일러/트레일러는 작물을 수송하는 데 사용됩니다." h="62b9dfea" />
+    <e k="function_topLiftingHarvester" v="이 뽑기식 수확기는 땅에서 채소를 뽑아내는 데 사용됩니다." h="2b9795e6" />
+    <e k="function_trailedLifter" v="3점 연결부가 없는 트랙터를 위한, 3점 연결부가 달린 트레일러입니다." h="77798785" />
+    <e k="function_treeSaw" v="나무 톱으로 나무를 벨 수 있습니다." h="3ee8546d" />
+    <e k="function_truckAgriculture" v="이 대형 트럭은 농업용으로 개조되었으며, 오프로드 차대를 갖춘 일부 세미트레일러와만 호환됩니다." h="5d39061f" />
+    <e k="function_vinePreprunner" v="예비 전정기는 수확 후 다음 해를 대비해 포도나무를 정리하는 데 사용됩니다." h="4d33d9c1" />
+    <e k="function_weatherStation" v="기상 관측소는 농장의 일기예보를 개선합니다." h="26a8dc52" />
+    <e k="function_weeder" v="제초기는 작물 사이에 난 작은 잡초를 뽑아 경작지 상태를 개선합니다. 작물 생장 초기 단계에서만 사용할 수 있습니다." h="3764ce24" />
+    <e k="function_weight" v="웨이트는 트랙터 바퀴가 지면에 잘 붙어 있게 하고 균형을 개선합니다." h="621bbb74" />
+    <e k="function_wheelLoader" v="휠 로더는 다양한 물건을 쌓고 싣는 데 사용됩니다." h="6a500b18" />
+    <e k="function_wheelWeightsRecommended" v="사용하려면 트랙터에 휠 웨이트가 필요합니다." h="26f7ffe9" />
+    <e k="function_winch" v="윈치로 숲에서 목재를 끌어낼 수 있습니다." h="760eb04b" />
+    <e k="function_windrower" v="윈드로어는 목초, 건초, 짚을 다루기 쉬운 줄(집초 줄)로 정리합니다." h="06fac54d" />
+    <e k="function_workshop" v="이 차량 작업장을 설치하면 맵 어디에서든 유료 정비사 없이 기계를 개조할 수 있는 장소를 만들 수 있습니다." h="70d29130" />
+    <e k="function_yarder" v="집재기는 숲에서 통나무를 실어 내는 데 사용할 수 있습니다." h="75a6fda9" />
+    <e k="groundType_cobblestones" v="조약돌" h="1e4ba0ca" />
+    <e k="groundType_dirt" v="흙" h="041852df" />
+    <e k="groundType_dirtLight" v="밝은 흙" h="59d35477" />
+    <e k="groundType_dustyRock" v="먼지 낀 바위" h="26d9a734" />
+    <e k="groundType_forestGround" v="숲 바닥" h="5675a599" />
+    <e k="guidedTour_aborted" v="현재 둘러보기가 취소되었습니다!" h="0f5eba2b" />
+    <e k="guidedTour_intro_helpTitle" v="조작 도움말" h="347ac321" />
+    <e k="guidedTour_intro_help_attachTool" v="도구를 사용하려면 차량에 장착해야 합니다.{{NL}}{{NL}}{{NL}}{{NL}}도구를 장착하십시오." h="3b1cfe38" />
+    <e k="guidedTour_intro_help_changeSeeds" v="작물 캘린더를 보고 파종할 작물을 정하십시오.{{NL}}{{NL}}{{NL}}{{NL}}파종기에서 알맞은 씨앗을 선택하십시오." h="0d73322c" />
+    <e k="guidedTour_intro_help_controlTool" v="장착한 도구를 사용하려면 먼저 도구를 선택하고 작업 위치로 전환해야 합니다." h="36bbdda7" />
+    <e k="guidedTour_intro_help_detachTool" v="다른 도구를 사용하려면 먼저 현재 도구를 분리해야 합니다.{{NL}}{{NL}}버튼을 눌러 도구를 분리하십시오." h="2809f7f0" />
+    <e k="guidedTour_intro_help_driving" v="탑승하면 바로 출발할 수 있습니다.{{NL}}{{NL}}표시된 지점까지 운전하여 월터에게 첫 번째 작업 설명을 들으십시오." h="27d41717" />
+    <e k="guidedTour_intro_help_fillTool" v="일부 도구는 용도에 따라 채울 수 있습니다. 예를 들어 파종기에는 씨앗, 차량에는 연료, 비료 살포기에는 비료, 분무기에는 제초제가 필요합니다.{{NL}}{{NL}}{{NL}}{{NL}}도구를 대형 자루로 가져가 채우십시오." h="2c34d254" />
+    <e k="guidedTour_intro_help_hireHelper" v="모든 작업을 혼자 할 필요는 없습니다. 다른 일을 하는 동안 돈을 주고 AI 작업자에게 일을 맡기십시오.{{NL}}{{NL}}{{NL}}{{NL}}AI 작업자를 고용하십시오." h="056c756c" />
+    <e k="guidedTour_intro_help_interactWithPeople" v="농장과 맵의 특정 장소에 있는 사람들과 대화할 수 있습니다. 버튼을 눌러 대화하십시오." h="7ada68a2" />
+    <e k="guidedTour_intro_help_leaveVehicle" v="작업을 모두 완료했습니다.{{NL}}{{NL}}{{NL}}{{NL}}차량에서 내리십시오." h="64d32af6" />
+    <e k="guidedTour_intro_help_liftTool" v="작업이 끝나면 도구를 들어 올려야 합니다." h="2d3c18ca" />
+    <e k="guidedTour_intro_help_lowerTool" v="파종기가 켜졌습니다. 이제 파종기를 내려 씨앗이 흙에 심어지도록 해야 합니다." h="15d48b74" />
+    <e k="guidedTour_intro_help_movement" v="이제 기본 인터페이스를 알았으니 다음으로 넘어가겠습니다. 여기 가만히 서 있을 수만은 없습니다.{{NL}}{{NL}}{{NL}}방향 조작으로 표시된 위치까지 이동하십시오." h="71fe45d6" />
+    <e k="guidedTour_intro_help_movement_switch" v="이제 기본 인터페이스를 알았으니 다음으로 넘어가겠습니다. 여기 가만히 서 있을 수만은 없습니다.{{NL}}{{NL}}{{NL}}방향 조작으로 표시된 위치까지 이동하십시오." h="71fe45d6" />
+    <e k="guidedTour_intro_help_switchVehicle" v="다른 차량까지 걸어가도 되고, 차량을 전환해 시간을 아낄 수도 있습니다.{{NL}}{{NL}}{{NL}}{{NL}}버튼을 눌러 차량을 전환하십시오." h="07a8074c" />
+    <e k="guidedTour_intro_help_turnOnTool" v="도구를 켜고 작업을 시작하십시오." h="3a0ddff4" />
+    <e k="guidedTour_intro_help_ui" v="인터페이스부터 시작하겠습니다. 중요한 정보는 모두 화면에서 확인할 수 있습니다." h="75e16a69" />
+    <e k="guidedTour_intro_help_unfoldGraintank" v="수확하려면 먼저 차량을 펼쳐야 합니다.{{NL}}{{NL}}{{NL}}{{NL}}곡물 탱크를 펼치십시오." h="1cad089f" />
+    <e k="guidedTour_intro_help_unfoldPipe" v="콤바인으로 수확한 곡물은 트레일러에 내리거나 저장탑에 바로 내릴 수 있습니다.{{NL}}{{NL}}{{NL}}{{NL}}이를 위해 차량의 파이프를 펼치십시오." h="408a5cb0" />
+    <e k="guidedTour_intro_help_unloadTrailer" v="수확물은 농장 저장탑에 보관하거나, 맵 곳곳에 있는 판매소에서 팔아 돈으로 바꿀 수 있습니다.{{NL}}{{NL}}{{NL}}{{NL}}트레일러의 짐을 내려 수확물을 판매하십시오." h="12cb9968" />
+    <e k="guidedTour_intro_notAvailable" v="아직 게임의 기본에 익숙하지 않다면 리버밴드 스프링스 둘러보기를 권장합니다." h="4bc704c9" />
+    <e k="guidedTour_intro_task_attachCultivator" v="트랙터에 컬티베이터를 장착하십시오" h="12ecf4df" />
+    <e k="guidedTour_intro_task_attachHeader" v="콤바인에 헤더를 장착하십시오" h="7cae553c" />
+    <e k="guidedTour_intro_task_attachSeeder" v="트랙터에 파종기를 장착하십시오" h="7e300199" />
+    <e k="guidedTour_intro_task_chooseCanola" v="유채가 나올 때까지 씨앗을 바꾸십시오" h="281c86d2" />
+    <e k="guidedTour_intro_task_cultivateField" v="경작지를 경작하십시오" h="306135d7" />
+    <e k="guidedTour_intro_task_detachCultivator" v="트랙터에서 컬티베이터를 분리하십시오" h="65e35cec" />
+    <e k="guidedTour_intro_task_detachHeaderTrailer" v="콤바인에서 헤더 트레일러를 분리하십시오" h="4a29dd51" />
+    <e k="guidedTour_intro_task_driveBackwardsToSeeder" v="헛간 안의 파종기에 닿을 때까지 천천히 후진하십시오" h="1bfe85d4" />
+    <e k="guidedTour_intro_task_driveBelowPipe" v="트레일러를 파이프 아래로 몰아 콤바인의 탱크를 비우십시오" h="110db36a" />
+    <e k="guidedTour_intro_task_driveForwardToHeader" v="콤바인을 헤더 쪽으로 천천히 전진시키십시오" h="1d2dc307" />
+    <e k="guidedTour_intro_task_driveToBigbag" v="대형 자루까지 이동하십시오" h="0d2598c8" />
+    <e k="guidedTour_intro_task_driveToElevator" v="곡물 엘리베이터로 가서 월터를 만나십시오" h="6d6ba705" />
+    <e k="guidedTour_intro_task_driveToFarm" v="농장으로 가서 할아버지를 만나십시오" h="518e9eef" />
+    <e k="guidedTour_intro_task_driveToField" v="경작지로 가서 할아버지를 만나십시오" h="422aed0f" />
+    <e k="guidedTour_intro_task_driveToGrain" v="수확할 때가 된 곡물 경작지로 이동하십시오" h="5c88315b" />
+    <e k="guidedTour_intro_task_driveToStubbles" v="수확 후 밑동이 남은, 경작할 준비가 된 경작지로 이동하십시오" h="767db97a" />
+    <e k="guidedTour_intro_task_driveToTipArea" v="하역 구역으로 가서 짐을 내리십시오" h="31edf917" />
+    <e k="guidedTour_intro_task_enterTractor" v="트랙터에 탑승해 작업을 시작하십시오" h="1a003ab3" />
+    <e k="guidedTour_intro_task_fillSeeder" v="파종기에 씨앗을 채우십시오" h="3025479c" />
+    <e k="guidedTour_intro_task_goToBarn" v="오른쪽 헛간에서 할아버지를 만나십시오" h="697b9859" />
+    <e k="guidedTour_intro_task_goToGrandpa" v="할아버지를 만나러 가십시오" h="78842637" />
+    <e k="guidedTour_intro_task_goToTractor" v="헛간 안의 트랙터로 가십시오" h="198ced51" />
+    <e k="guidedTour_intro_task_harvestField" v="경작지를 수확하십시오" h="50c6c517" />
+    <e k="guidedTour_intro_task_hireHelper" v="AI 작업자를 고용해 작업을 맡기십시오" h="7c12cfde" />
+    <e k="guidedTour_intro_task_learnMovement" v="방향 버튼을 눌러 이동하십시오" h="49581940" />
+    <e k="guidedTour_intro_task_learnMovement_switch" v="왼쪽 스틱으로 이동하십시오" h="094dae75" />
+    <e k="guidedTour_intro_task_learnUI" v="UI 요소에 익숙해지십시오" h="401a33bb" />
+    <e k="guidedTour_intro_task_leaveTractor" v="트랙터에서 내리십시오" h="27c4e0d7" />
+    <e k="guidedTour_intro_task_lowerCultivator" v="컬티베이터를 내려 작업을 시작하십시오" h="103d77d9" />
+    <e k="guidedTour_intro_task_lowerSeeder" v="파종기를 지면까지 내리십시오" h="6ea9899d" />
+    <e k="guidedTour_intro_task_sowField" v="경작지에 파종을 시작하십시오" h="5869f2c7" />
+    <e k="guidedTour_intro_task_switchToCombine" v="콤바인으로 전환하십시오" h="49b9e804" />
+    <e k="guidedTour_intro_task_switchToTractor" v="트랙터로 전환하십시오" h="128163ae" />
+    <e k="guidedTour_intro_task_talkWithGrandpa" v="할아버지 월터와 대화하십시오" h="2442faf9" />
+    <e k="guidedTour_intro_task_turnOnCombine" v="콤바인을 켜십시오" h="7f7af38b" />
+    <e k="guidedTour_intro_task_turnOnSeeder" v="파종기를 켜십시오" h="09eb473a" />
+    <e k="guidedTour_intro_task_unfoldGraintank" v="차량을 펼치십시오" h="2167e37a" />
+    <e k="guidedTour_intro_task_unfoldPipe" v="파이프를 펼치십시오" h="5eaef9fb" />
+    <e k="guidedTour_intro_task_unloadTrailer" v="트레일러의 짐을 내리십시오" h="465b2b6c" />
+    <e k="guidedTour_intro_task_waitUntilEmpty" v="콤바인이 빌 때까지 기다리십시오" h="50b984c6" />
+    <e k="guidedTour_intro_welcomeText" v="새 농장에 도착하니 오전 중반입니다. 할아버지 월터가 더 이상 농장을 돌볼 수 없게 되어 이제 플레이어가 농장을 물려받습니다.{{NL}}{{NL}}할아버지를 맞이하러 가기 전에 게임에 익숙해지십시오." h="56d023c0" />
+    <e k="guidedTour_intro_welcomeTitle" v="새 농장에 오신 것을 환영합니다!" h="678c9daa" />
+    <e k="helpLine_Academy" v="도움이 더 필요하십니까?" h="3b4ce3ab" />
+    <e k="helpLine_Academy_Link_Text" v="더 깊이 있는 튜토리얼이 계속 추가되는 Farming Simulator 아카데미를 방문해 보십시오. Discord 서버와 공식 포럼도 방문해 보십시오. 자세한 지식을 기꺼이 나누는 노련한 농부들로 가득합니다!" h="6f0be479" />
+    <e k="helpLine_Academy_Link_Text_title" v="farming-simulator.com/academy 방문" h="5fe3f9b8" />
+    <e k="helpLine_Animals_AnimalCare_Feeding" v="메뉴를 열고 동물 탭을 선택하면 모든 방목장과 헛간에 있는 동물의 현재 상태를 확인할 수 있습니다. 나이, 건강, 생산성은 물론 사료와 물의 양 등 필요한 모든 정보가 여기에 표시됩니다. 헛간에는 물을 따로 공급하지 않아도 됩니다.{{NL}}{{NL}}동물에게 맞는 사료를 방목장/헛간으로 가져와 사료 구역에 넣으십시오. 동물 사료 팔레트나 대형 자루를 사용할 수도 있고(장기적으로는 더 비쌉니다), 직접 수확한 작물을 먹일 수도 있습니다.{{NL}}{{NL}}건강 막대를 보면 먹이를 제대로 주었는지 알 수 있습니다. 건강은 시간이 지나면서 올라가며, 건강이 올라가면 동물이 생산을 시작하고 충분히 자라면 번식할 수 있습니다." h="5b864aad" />
+    <e k="helpLine_Animals_AnimalCare_Products" v="동물 사육에 집중한다면 동물 자체를 팔 수도 있고, 동물이 만든 제품을 팔 수도 있습니다. 제품은 판매소에 바로 팔 수 있습니다. 공장을 소유하고 있다면 공장으로 가져가 추가로 가공할 수 있습니다. 이렇게 하면 최종 제품을 팔 때 더 많은 돈을 벌 수 있습니다.{{NL}}{{NL}}우유: 빵집, 유제품 공장{{NL}}양모: 방적 공장{{NL}}달걀: 빵집{{NL}}꿀: 시리얼 공장" h="68d0d25b" />
+    <e k="helpLine_Animals_Bees" v="꿀벌" h="03d2a4dd" />
+    <e k="helpLine_Animals_Bees_General" v="사료: 필요 없음{{NL}}생산물: 꿀{{NL}}{{NL}}벌집은 꿀을 생산하며, 꿀은 추가로 가공하거나 바로 판매할 수 있습니다. 꿀벌은 유채, 해바라기, 감자 경작지의 수확량을 늘려 주므로 벌집을 경작지 옆에 두십시오. 꿀은 자유롭게 배치할 수 있는 배달 구역으로 배달됩니다.{{NL}}{{NL}}꿀벌은 동물 메뉴에 나타나지 않습니다." h="55edbe7f" />
+    <e k="helpLine_Animals_Chicken_General" v="사료: 밀, 보리, 수수{{NL}}생산물: 달걀{{NL}}성숙 연령: 6개월{{NL}}{{NL}}닭장 옆에 달걀 팔레트가 나타납니다.{{NL}}지게차로 차량에 싣고 판매소에서 팔거나 생산 건물로 배달하십시오.{{NL}}{{NL}}수탉이 없어도 번식할 수 있습니다." h="4b9c2534" />
+    <e k="helpLine_Animals_Cows_General" v="사료: 목초, 건초, 완전 배합 사료{{NL}}생산물: 우유, 거름, 슬러리{{NL}}성숙 연령: 18개월{{NL}}{{NL}}Farming Simulator에는 우유를 생산하는 소와 생산하지 않는 소가 있습니다.{{NL}}품종마다 우유 생산량과 판매 가격이 다릅니다.{{NL}}브라운 스위스와 홀스타인은 낙농용이고, 앵거스와 리무쟁은 판매해 수익을 내기 위해서만 사육합니다.{{NL}}완전 배합 사료(TMR)는 소에게 가장 좋은 사료이며 우유 생산량을 최대로 높여 줍니다. 이 사료에 대한 자세한 내용은 완전 배합 사료를 만드는 방법을 다루는 해당 섹션에서 확인할 수 있습니다." h="4038032e" />
+    <e k="helpLine_Animals_Dog_General" v="건설 모드 메뉴에서 개집을 구해 네 발 달린 친구를 들이십시오. 개는 농장당 한 마리만 키울 수 있습니다.{{NL}}개에게 먹이를 주고, 쓰다듬고, 공을 가지고 놀게 할 수 있습니다. 개는 원하는 만큼 플레이어를 따라다니므로 개를 데리고 자연 속으로 긴 산책을 떠나 보십시오.{{NL}}{{NL}}개는 동물 메뉴에 나타나지 않습니다." h="5a0e4865" />
+    <e k="helpLine_Animals_General_Buying" v="동물은 방목장/헛간에서 바로 구매할 수 있으며, 약간의 비용을 내면 배달됩니다. 트레일러를 구매했다면 동물 상인에게 직접 가서 현장에서 구매한 뒤 직접 수송할 수도 있습니다." h="5645fbee" />
+    <e k="helpLine_Animals_General_General" v="수확을 잠시 쉬고 싶거나 수확이 주된 활동이 아니라면 동물을 돌볼 수도 있습니다. 말, 소, 양, 돼지, 닭을 키울 수 있습니다." h="7d15ef50" />
+    <e k="helpLine_Animals_General_Housing" v="동물에게 가장 먼저 필요한 것은 방목장과 헛간입니다. 자금과 계획에 따라 작은 방목장과 여러 크기의 헛간 중에서 고를 수 있습니다. 헛간이 클수록 더 많은 동물을 키울 수 있습니다.{{NL}}{{NL}}건설 모드 메뉴를 열고 동물 탭으로 이동하십시오. 방목장이나 헛간을 농장에 배치하십시오.{{NL}}{{NL}}헛간에는 수도가 연결되어 있지만 방목장에는 물을 공급해야 합니다. 이를 위해서는 트랙터와 견인식 물 탱크가 필요합니다." h="68d5e3e0" />
+    <e k="helpLine_Animals_General_Housing_title" v="동물 사육 시설" h="7e14b89e" />
+    <e k="helpLine_Animals_General_Manure" v="거름은 자동으로 생산되지 않습니다. 먼저 소 헛간이나 돼지 우리 옆에 별도의 거름 더미를 추가해야 합니다. 거름 더미는 건설 모드 메뉴에서 찾을 수 있습니다.{{NL}}{{NL}}그런 다음 헛간의 전용 구역에 깔짚으로 쓸 짚을 가져와야 합니다. 흩어진 짚과 짚 베일 모두 깔짚으로 쓸 수 있습니다." h="22d272a2" />
+    <e k="helpLine_Animals_General_Manure_title" v="거름을 얻는 방법" h="531fa621" />
+    <e k="helpLine_Animals_General_Reproduction" v="동물의 번식 여부는 나이, 남은 공간, 건강의 세 가지 요인에 따라 결정됩니다.{{NL}}성숙 연령에 이르면 새끼를 낳을 수 있습니다. 단, 헛간에 동물이 더 들어갈 공간이 있어야 합니다. 또한 건강이 100%여야 합니다. 동물에게 알맞은 사료를 먹이면 건강을 100%로 만들 수 있습니다." h="29b5f18d" />
+    <e k="helpLine_Animals_Goat_General" v="사료: 목초, 건초{{NL}}생산물: 염소 우유{{NL}}성숙 연령: 8개월{{NL}}{{NL}}Farming Simulator 25에서는 시리즈 최초로 염소가 등장합니다. 염소가 풀을 뜯고 잘 자라려면 양과 같은 시설이 필요합니다.{{NL}}{{NL}}염소는 염소 우유라는 독특한 우유를 생산하며, 염소 우유는 헛간에서 우유 탱크 팔레트 형태로 가져와야 합니다. 이 우유는 유제품 공장에서 염소 치즈로 가공할 수 있습니다." h="616c3300" />
+    <e k="helpLine_Animals_Horses_General" v="사료: 건초, 귀리, 수수{{NL}}성숙 연령: 22개월{{NL}}{{NL}}말은 훈련시킨 뒤 판매해 수익을 냅니다.{{NL}}그레이, 핀토, 팔로미노, 체슈넛, 베이, 블랙, 씰브라운, 던 등 여러 품종 중에서 고를 수 있습니다. 차이는 외형뿐입니다.{{NL}}{{NL}}말을 구매하면 자동으로 이름이 붙습니다. 이름은 동물 메뉴에서 바꿀 수 있습니다. 말마다 체력 수준도 다릅니다. 체력 수준이 높을수록 가치가 높아집니다. 말을 타서 체력 수준을 높이십시오.{{NL}}{{NL}}말의 위생 관리도 중요합니다. 커서로 말을 바라보면 오른쪽 아래에 정보 상자가 표시됩니다. 건강을 유지하려면 말을 정기적으로 솔질해야 합니다. 말을 바라보면 브러시 기호가 나타나며, 해당 버튼을 눌러 상호작용할 수 있습니다.{{NL}}{{NL}}말을 정기적으로 타십시오. 말에 타고 있을 때 조작 도움말 창이 켜져 있으면 왼쪽 위에 승마 진행도가 표시됩니다. 매일 각 말을 100% 타십시오. 그래야만 말의 신체 상태와, 판매할 때의 가치를 높일 수 있습니다." h="24ec8aee" />
+    <e k="helpLine_Animals_Pigs_General" v="사료: 옥수수, 밀, 보리, 유채, 해바라기, 콩, 감자, 수수, 사탕무{{NL}}생산물: 거름, 슬러리{{NL}}성숙 연령: 6개월{{NL}}{{NL}}Farming Simulator에는 저먼 랜드레이스, 벤트하임 블랙 파이드, 버크셔 등 여러 돼지 품종이 있습니다. 외형 말고는 실질적인 차이가 없습니다.{{NL}}{{NL}}돼지는 직접 재배해야 하는 여러 작물을 먹여야 하므로 사료를 주는 데 가장 손이 많이 가는 동물입니다. 대신 돼지 사료를 구매할 수도 있지만, 당연히 장기적으로는 더 비쌉니다.{{NL}}{{NL}}돼지의 건강과 번식 능력을 유지하려면 사료를 알맞게 배합해 주어야 합니다. 돼지 사료나 각 작물을 돼지 우리의 하역 구역에 내리기만 하면 됩니다. 소에게 필요한 믹서 왜건은 쓰지 않아도 됩니다.{{NL}}{{NL}}기본: 옥수수 또는 수수{{NL}}곡물: 밀 또는 보리{{NL}}단백질: 콩, 유채 또는 해바라기{{NL}}뿌리작물: 감자 또는 사탕무" h="51694143" />
+    <e k="helpLine_Animals_Sheep_General" v="사료: 목초, 건초{{NL}}생산물: 양모{{NL}}성숙 연령: 8개월{{NL}}{{NL}}Farming Simulator에는 벤트하임 랜드레이스, 스타인샤프, 스위스 블랙 브라운 마운틴, 블랙 웰시 마운틴의 네 가지 양 품종이 있습니다. 차이는 외형뿐입니다.{{NL}}{{NL}}양모를 판매하려면 양 방목장에서 팔레트 포크로 팔레트를 집어 방적 공장으로 수송하거나, 추가로 가공하기 위해 자신의 생산 시설로 가져가야 합니다." h="1c78a382" />
+    <e k="helpLine_Animals_TMR_General" v="소에게 완전 배합 사료(TMR)를 먹이면 우유 생산을 최적화할 수 있습니다. 생산성을 100%로 올리는 방법은 이것뿐입니다." h="2db20b68" />
+    <e k="helpLine_Animals_TMR_Ingredients" v="짚, 건초, 사일리지, 무기물 사료입니다. 농장에 목초 경작지와 필요한 기계가 있다면 목초를 수확해 직접 건초로 만들 수 있습니다.{{NL}}{{NL}}모든 재료를 상점에서 구매하는 편이 더 쉽습니다. 짚, 건초, 사일리지 베일은 &quot;물체&quot; &gt; &quot;베일&quot;에서 구매할 수 있습니다. 무기물 사료는 &quot;팔레트&quot; 항목에서 구할 수 있습니다." h="5b4b86d4" />
+    <e k="helpLine_Animals_TMR_MixerWagon" v="이 경우 사료 믹서에서 사료를 준비해 헛간으로 배달해야 합니다. 사료 믹서에 짚, 건초, 사일리지, 무기물 사료를 알맞은 비율로 넣어야 합니다. 믹서 왜건 근처에 있으면 믹서에 올바른 배합 비율이 표시됩니다." h="4c8f8530" />
+    <e k="helpLine_Animals_TMR_MixerWagon_title" v="로봇 대신 믹서 왜건을 사용하는 경우" h="2d81d8ed" />
+    <e k="helpLine_Animals_TMR_Robot" v="이 경우 재료(짚, 건초, 사일리지, 무기물 사료)를 헛간으로 배달하기만 하면 됩니다. 모든 재료가 갖춰져 있으면 로봇이 자동으로 사료를 섞어 동물에게 정기적으로 먹입니다." h="1cb19c76" />
+    <e k="helpLine_Animals_TMR_Robot_title" v="사료 로봇이 있는 헛간을 사용하는 경우" h="66723103" />
+    <e k="helpLine_Animals_waterBuffalo_General" v="사료: 목초, 건초, 완전 배합 사료{{NL}}생산물: 우유, 거름, 슬러리{{NL}}성숙 연령: 18개월{{NL}}{{NL}}Farming Simulator 25에서는 시리즈 최초로 물소가 등장합니다. 물소가 풀을 뜯고 잘 자라려면 소와 같은 시설이 필요합니다.{{NL}}{{NL}}물소는 물소 우유라는 독특한 우유를 생산하며, 이 우유는 유제품 공장에서 맛있는 물소 모짜렐라로 가공할 수 있습니다." h="00e5f0a2" />
+    <e k="helpLine_Containerdesc" v="운송 컨테이너는 크기가 다양하며 통나무를 수송하는 데 쓸 수 있습니다. 상점에서 구매할 수 있지만, Schwarzmüller 3A 같은 저상 트레일러나 비슷한 차량에 실어야 합니다. 컨테이너를 저상 트레일러에 실으려면 알맞은 팔레트 포크와 적절한 휠 로더가 필요합니다.{{NL}}컨테이너에는 자동 적재 기능이 있어 나무를 쉽게 채울 수 있습니다. 운송 컨테이너와 길이가 같은 나무를 실으십시오. 그렇지 않으면 최종 판매 가격이 깎입니다. 내용물이 든 컨테이너는 옛 제재소 근처의 컨테이너 창고에서 팔거나, 기차에 실어 기차 트리거를 통해 팔 수 있습니다. 운송 컨테이너 값은 보상받습니다." h="63f14a89" />
+    <e k="helpLine_CropOverview_CatchCrops_general" v="오일씨앗 무는 수확하지 않는 특수 작물입니다. 이른바 사이짓기 작물로, 비료로 쓰입니다." h="1332ac0b" />
+    <e k="helpLine_CropOverview_CatchCrops_harvest" v="식물이 보이기 시작하면 컬티베이터로 식물을 흙 속에 갈아 넣을 수 있습니다. 녹비가 되어 다음 수확의 수확량을 높여 줍니다." h="01ede800" />
+    <e k="helpLine_CropOverview_ChaffSilage" v="여물 및 사일리지" h="05cbd98e" />
+    <e k="helpLine_CropOverview_ChaffSilage_chaff" v="여물은 사료 수확기와 알맞은 헤더로 작물을 잘게 썰거나 집초 줄을 픽업해 만듭니다. 옥수수, 밀, 보리, 목초, 해바라기, 콩, 귀리, 유채는 다 자라지 않았더라도 벨 수 있습니다.{{NL}}사료 수확기에는 곡물 탱크가 없으므로 트레일러를 연결하거나 다른 차량이 사료 수확기 옆에서 트레일러를 끌고 달려야 합니다.{{NL}}사료 수확기에 사일리지 첨가제를 채우면 수확량이 5% 더 늘어납니다." h="40c610fc" />
+    <e k="helpLine_CropOverview_ChaffSilage_feed" v="이렇게 만든 사일리지는 사일리지 포크나 삽을 장착한 프론트 로더로 집어 믹서 왜건에 붓거나, 사료 로봇이 있는 헛간에 내리거나, 사료통에 바로 내릴 수 있습니다. 목초 베일을 포장해 만든 사일리지 베일은 발효된 사일리지처럼 다룰 수 있습니다." h="03255a17" />
+    <e k="helpLine_CropOverview_ChaffSilage_silage" v="여물이나 목초를 사일리지로 만들려면 벙커 저장탑(바이오가스 공장 또는 자신의 저장탑)에 쏟고, 알맞은 차량으로 더미 위를 여러 번 오가며 다진 뒤, 저장탑을 덮어 발효를 시작해야 합니다. 덮개를 덮으려면 저장탑이 10% 이상 차 있어야 합니다." h="6a67bd4f" />
+    <e k="helpLine_CropOverview_ChaffSilage_silos" v="사일리지를 생산하려면 여물이나 목초를 바이오가스 공장으로 수송하거나 자신의 저장탑에서 발효시켜야 합니다. 아직 저장탑이 없다면 건설 모드 메뉴에서 여러 크기의 저장탑을 배치할 수 있습니다. 저장탑을 추가로 배치하면 '스냅 기능'이 적용되어 먼저 배치한 저장탑 옆에 맞춰 붙습니다. 이 '스냅'은 저장탑이 비어 있을 때만 작동합니다." h="78b29eec" />
+    <e k="helpLine_CropOverview_CornSunflowers_harvest" v="옥수수는 자라는 도중에도 수확할 수 있습니다. 이렇게 하면 여물이 만들어집니다. 자세한 내용은 여물 및 사일리지 섹션을 확인하십시오. 옥수수를 바로 판매하거나 생산 시설로 가져가 추가로 가공하려면 옥수수가 다 자라 마지막 성장 단계에 이르러야 합니다." h="724f0375" />
+    <e k="helpLine_CropOverview_CornSunflowers_machines" v="두 작물 모두 특수한 파종기인 점파기와 콤바인용 새 헤더가 필요합니다. 더 비싼 차량과 도구가 필요한 목화나 사탕수수와 달리 비용 부담이 적습니다." h="72a29564" />
+    <e k="helpLine_CropOverview_Cotton_bale" v="호퍼가 가득 차면 베일을 내려야 합니다. 베일을 판매소로 운반하거나 생산 시설로 가져가 추가로 가공하려면 특수 장비가 필요합니다." h="3338d694" />
+    <e k="helpLine_CropOverview_Cotton_general" v="목화를 파종하려면 점파기가 필요합니다. 씨앗 팔레트나 저장탑에서 점파기를 채우십시오." h="7aa3d913" />
+    <e k="helpLine_CropOverview_Cotton_harvest" v="목화를 수확하려면 자주식 목화 수확기를 사용해야 합니다." h="4bae75fd" />
+    <e k="helpLine_CropOverview_Grain_general" v="Farming Simulator 25에는 6가지 곡물 작물이 있습니다.{{NL}}   - 밀{{NL}}   - 보리{{NL}}   - 수수{{NL}}   - 귀리{{NL}}   - 유채{{NL}}   - 콩{{NL}}{{NL}}모두 같은 콤바인에 곡물 헤더를 장착해 수확합니다. 그래서 처음에는 밀, 보리, 귀리 같은 곡물에 집중하기가 더 쉽습니다.{{NL}}{{NL}}모든 곡물은 동물 사료로 쓸 수 있습니다. 어떤 곡물을 어떤 동물에게 먹일 수 있는지는 동물 도움말 섹션에서 확인할 수 있습니다." h="1ad245cf" />
+    <e k="helpLine_CropOverview_Grain_straw" v="밀, 보리, 귀리를 수확하면 동물에게 쓸 짚도 생산됩니다. 짚은 수확의 부산물로, 콤바인의 짚 줄 배출이 켜져 있으면 자동으로 땅에 떨어집니다. 짚을 모으려면 베일러나 사료 왜건이 필요합니다." h="37e7a82e" />
+    <e k="helpLine_CropOverview_GrapesOlives_care" v="수확량을 최대로 얻으려면 줄 사이를 파쇄하고, 경작하고, 비료를 주어야 합니다. 전용 도구는 상점의 포도 도구/올리브 장비 탭에서 찾을 수 있습니다. 풀이 높이 자라면 파쇄기로 줄 사이 공간을 깨끗하게 유지하십시오. 그다음 Disc-O-Vigne V로 경작하고 비료를 주십시오." h="229991d1" />
+    <e k="helpLine_CropOverview_GrapesOlives_general" v="포도나무와 올리브나무는 줄지어 심습니다. 건설 모드에서 식물을 배치하십시오. 자신의 땅에서 빈 곳을 클릭해 기둥/나무를 세우면 줄이 시작됩니다. 그런 다음 경작지를 가로질러 드래그한 뒤 다른 기둥/나무를 세우면 줄이 완성됩니다. 이 과정을 반복해 과수원을 조성하십시오." h="5674d029" />
+    <e k="helpLine_CropOverview_GrapesOlives_harvest" v="다 자라면 New Holland 전용 도구로 올리브/포도를 수확해 생산 시설로 가져가거나 판매하십시오. 수확 후에는 리프 커터로 포도나무를 가지치기해 다음 계절에 새로 자랄 수 있게 준비해야 한다는 점을 잊지 마십시오. 올리브는 이 단계가 필요 없습니다." h="328c4c82" />
+    <e k="helpLine_CropOverview_Grass_baling" v="목초, 건초, 짚도 베일로 압축할 수 있습니다. 쉽게 픽업할 수 있도록 먼저 윈드로어로 베어 낸 줄을 정리하십시오. 사각 베일이나 원형 베일로 압축한 뒤에는 베일 적재 장비로 모아 농장이나 판매소로 운반하십시오." h="40adf1f0" />
+    <e k="helpLine_CropOverview_Grass_collection" v="목초, 건초, 짚을 더 쉽게 모으려면 윈드로어로 줄지어 모아 두는 것이 좋습니다.{{NL}}목초는 사료 왜건으로 모으거나 베일러로 목초 베일을 만들 수 있습니다. 목초를 모을 때 사료 왜건에, 또는 벨 때 사료 수확기에 사일리지 첨가제를 넣으면 수확량이 5% 늘어납니다." h="1b2aace8" />
+    <e k="helpLine_CropOverview_Grass_general" v="목초는 보통 트랙터에 장착하는 예초기로 벨 수 있습니다. 동물에게 바로 먹이거나, 판매소에서 팔거나, 벙커 저장탑에 넣거나 사일리지 베일로 포장해 사일리지로 발효시킬 수 있습니다." h="30bd1e30" />
+    <e k="helpLine_CropOverview_Grass_hay" v="목초를 벤 뒤에는 건초기로 벤 목초를 뒤집어 주어야 제대로 말라 건초가 됩니다. 건초는 벤 목초보다 약간 더 밝고 채도가 낮아 보입니다. 건초는 동물에게 바로 먹이거나 완전 배합 사료(TMR)의 재료로 쓸 수 있습니다. 동물을 키우지 않는다면 판매소에서 건초를 팔 수도 있습니다." h="053d49b9" />
+    <e k="helpLine_CropOverview_Poplar_general" v="포플러는 엄밀히 말하면 나무이지만, Farming Simulator 25에서는 파종기 외에 임업 기계가 하나도 필요하지 않습니다.{{NL}}{{NL}}다른 작물과 달리 포플러는 시들지 않습니다. 수확할 시간이 넉넉합니다. 포플러는 수확 후 다시 자라며 나무 부스러기를 생산하는 데 쓰입니다." h="46952e86" />
+    <e k="helpLine_CropOverview_RootCrops" v="뿌리작물" h="6e592925" />
+    <e k="helpLine_CropOverview_RootCrops_general" v="감자, 사탕무, 레드 비트를 재배하려면 전용 파종기와 수확기가 필요합니다.{{NL}}감자, 사탕무, 레드 비트를 가장 쉽고 빠르게 수확하는 방법은 자주식 수확기를 사용하는 것입니다. 하지만 이런 기계는 꽤 비싸서 초반에는 예산을 넘기 쉽습니다. 차량은 언제든지 임차할 수 있다는 점을 기억하십시오.{{NL}}{{NL}}비트 수확기는 게임에 있는 두 가지 비트를 모두 수확할 수 있습니다. 사탕무는 수확할 때가 되면 먼저 잎줄기를 제거해야 합니다. 견인식 수확기를 사용한다면 토퍼를 따로 마련해야 합니다. 자주식 수확기용 헤더는 잎줄기 제거와 수확을 한 번에 합니다.{{NL}}{{NL}}레드 비트는 수확 전에 토퍼가 필요 없습니다." h="08b33a03" />
+    <e k="helpLine_CropOverview_RootCrops_processing" v="더 저렴한 방법은 트랙터에 여러 전용 도구를 달아 쓰는 것입니다. 작업은 기본적으로 두 단계로 이루어집니다. 작물이 다 자라면 Grimme KS 75-4 같은 토퍼로 잎을 잘라야 합니다.{{NL}}그다음 Grimme EVO 290 같은 견인식 수확기로 작물을 수확할 수 있습니다." h="19cd897c" />
+    <e k="helpLine_CropOverview_RootCrops_sugarbeetcutter" v="사탕무 커터는 사탕무를 잘게 자르는 데 쓰입니다. 이 도구는 프론트 로더 도구에서 찾을 수 있습니다. 이렇게 자른 사탕무는 바이오가스 공장으로 가져가 사일리지로 발효시키거나 설탕 공장으로 배달해 설탕을 생산할 수 있습니다." h="61e0416e" />
+    <e k="helpLine_CropOverview_Sugarcane_general" v="사탕수수는 일반적인 밭작물이나 뿌리작물과 다릅니다. 다 자라는 데 시간이 더 걸리지만 수확 후 다시 자랍니다. 사탕수수에는 전용 파종·수확 장비가 필요합니다." h="3bbba73e" />
+    <e k="helpLine_CropOverview_Sugarcane_harvest" v="사탕수수를 수확하려면 사탕수수 수확기가 필요합니다. 이 기계는 윗부분의 잎을 제거하고 굵은 사탕수수 줄기를 작고 촘촘한 토막으로 자릅니다. 사료 수확기와 마찬가지로 사탕수수 수확기에는 자체 탱크가 없으므로 경작지에서 덤프 트레일러/트레일러가 함께 다녀야 합니다." h="448a5e2d" />
+    <e k="helpLine_CropOverview_Sugarcane_sowing" v="사탕수수를 파종하려면 Gessner Single Row Billet Planter 같은 빌렛 파종기가 필요합니다. 감자와 마찬가지로 지난 수확에서 얻은 사탕수수 줄기로 기계를 채울 수 있습니다. 덤프 트레일러/트레일러로 줄기를 빌렛 파종기에 바로 쏟거나, 삽을 장착한 텔레핸들러나 휠 로더로 기계를 채울 수 있습니다. 사탕수수 줄기가 없어도 사탕수수를 심을 수 있습니다. 상점에서 사탕수수 팔레트를 구매해 빌렛 파종기를 채우기만 하면 됩니다." h="36bab667" />
+    <e k="helpLine_CropOverview_Sugarcane_tillage" v="사탕수수는 다시 자라므로 경운이 거의 필요 없습니다. '주기적으로 쟁기질 필요' 옵션으로 플레이한다면 수확량을 최대로 얻기 위해 3번 수확한 뒤 땅을 갈아 공기가 통하게 해야 합니다. KUHN DC 401 같은 심토 쟁기를 쓰면 결과가 가장 좋지만 쟁기로도 충분합니다. 땅을 부드럽게 한 뒤 새 사탕수수 줄기를 심을 수 있습니다." h="0dd6efdd" />
+    <e k="helpLine_CropOverview_Sugarcane_transport" v="수확할 때는 보통 사탕수수 전용 덤프 트레일러/트레일러를 사용합니다. 하역 높이가 더 높아서 사탕수수 줄기를 트럭에 바로 쏟아 빠르게 수송할 수 있기 때문입니다. 사탕수수는 저장탑에 저장할 수 없지만, 땅 위 어디에나 쏟아 두고 보관할 수 있습니다. 건설 모드에서 배치할 수 있는 설탕 공장에서 추가로 가공할 수 있습니다." h="03eccb8f" />
+    <e k="helpLine_CropOverview_riceDry" v="장립종 벼" h="2eb74070" />
+    <e k="helpLine_CropOverview_riceDryDesc1" v="장립종 벼는 봄에 아직 물을 대지 않은 논에 파종합니다. 이 벼는 물을 댄 논에 심는 벼보다 성장 기간이 조금 더 길고 수확량도 적습니다. 하지만 벼를 심고 수확하는 데 특별한 기계가 필요하지 않아 게임 초반부터 부담 없이 재배할 수 있습니다.{{NL}}{{NL}}이 품종은 첫 초록 싹이 땅 위로 올라온 뒤에만 논에 물을 대야 합니다. 그렇지 않으면 일부가 싹을 틔우지 못해 논에 빈 곳이 생깁니다." h="6b8d5bb3" />
+    <e k="helpLine_CropOverview_riceDryDesc2" v="벼를 재배할 때는 논에 물을 댄 상태를 일정 기간만 유지해야 한다는 점에 유의해야 합니다. 논에 물이 너무 오래 남아 있으면 벼가 여러 포기 죽습니다. 세 번째 성장 단계에는 논이 말라 있어야 하므로 그전까지 두 달 정도 물을 대 두십시오.{{NL}}{{NL}}벼를 수확할 때가 되면 콤바인이 필요합니다. 수확한 벼는 판매해 수익을 내거나 저장탑에 보관할 수 있습니다." h="7bbcd62f" />
+    <e k="helpLine_CropOverview_riceWetDesc1" v="벼는 봄에 이미 물을 댄 논에 파종합니다. 이 벼는 마른 논에 심는 벼보다 빨리 자라고 수확량도 훨씬 많습니다. 벼를 심으려면 Iseki 전용 파종기가 필요합니다.{{NL}}{{NL}}이 품종은 초록 볏모를 심을 때 논에 물이 차 있어야 합니다." h="71e9c97f" />
+    <e k="helpLine_CropOverview_riceWetDesc2" v="벼를 재배할 때는 논에 물을 댄 상태를 일정 기간만 유지해야 한다는 점에 유의해야 합니다. 논에 물이 너무 오래 남아 있으면 벼가 여러 포기 죽습니다. 모내기 후 두 달 더 논에 물을 대 두었다가, 세 번째 성장 단계에는 논을 말려야 합니다.{{NL}}{{NL}}벼를 수확할 수 있게 되면 Iseki 벼 수확기가 필요합니다. 수확한 벼는 판매해 수익을 내거나 저장탑에 저장할 수 있습니다." h="3e1c6d94" />
+    <e k="helpLine_Economy_MakingMoney_Contracts" v="맵의 다른 가상 농부들을 위해 농사일을 해 주고 돈을 벌 수 있는 계약 시스템입니다. 자세한 내용은 계약 페이지를 확인하십시오." h="507d5ad1" />
+    <e k="helpLine_Economy_MakingMoney_FinanceScreen" v="재무 상태 화면에서 이번 달과 지난 4개월의 모든 수입과 지출을 확인할 수 있습니다. 은행에서 받은 대출도 여기에 표시됩니다.{{NL}}급하게 돈이 더 필요하면 은행에서 $CURRENCY_SYMBOL5000 단위로 대출을 받을 수 있습니다. 단, 매일 하루가 끝날 때 받은 대출의 이자를 내야 합니다." h="68a0986b" />
+    <e k="helpLine_Economy_MakingMoney_General" v="제품을 판매하려면 트레일러에 제품을 싣고 맵에 표시된 판매소 중 한 곳으로 가야 합니다. 가격 창을 열면 판매소마다 무엇을 얼마에 받는지 확인할 수 있습니다.{{NL}}가장 높은 가격을 쳐 주는 판매소에서 파는 것이 가장 좋습니다.{{NL}}{{NL}}배치할 수 있는 판매소를 이용하면 생산물을 최대한 활용할 수 있습니다. 경작지에서 바로 거둔 제품이나 공장에서 가공한 제품을 판매소에서 판매하십시오. 어떤 제품을 어느 판매소에서 팔 수 있는지는 건설 모드 메뉴에서 확인하십시오." h="1b44d5d6" />
+    <e k="helpLine_Economy_MakingMoney_SellingMachines" v="현재 소유한 모든 차량은 차고 항목에 표시됩니다. 모든 자산이 여기에 나열되며 이 메뉴에서 바로 판매할 수 있습니다. 현재 가치는 연식과 사용량에 따라 달라집니다.{{NL}}{{NL}}상점 앞에는 차량과 도구를 세워 두고 판매할 수 있는 구역이 표시되어 있습니다. 차량이나 도구를 상점까지 직접 몰고 온 수고가 있으므로, 이렇게 판매하면 메뉴에서 판매할 때보다 판매 가격의 20%를 더 받습니다." h="68554462" />
+    <e k="helpLine_Economy_MakingMoney_SupplyDemand" v="판매 가능한 모든 상품의 가격은 수요와 공급에 따라 끊임없이 변합니다. 무엇을 얼마나 판매할지 정해 가격에 영향을 줄 수 있습니다.{{NL}}{{NL}}예를 들어 여러 번에 걸쳐 밀만 납품하면 수요가 크게 줄어 그만큼 가격이 떨어집니다. 반대로 거의 판매하지 않는 상품은 가격이 훨씬 빨리 오릅니다." h="4ab9a1e4" />
+    <e k="helpLine_Economy_ProductionChains_FactoriesGeneral" v="공장을 지어 생산망을 만들 수 있습니다. 대부분의 작물과 동물 생산물은 다른 상품으로 가공해 추가 수입을 올릴 수 있습니다.{{NL}}맵에 미리 배치된 공장을 구매하거나, 건설 모드 메뉴에서 공장을 구매해 직접 배치할 수 있습니다." h="5b4da1dd" />
+    <e k="helpLine_Economy_ProductionChains_FactoriesList_CerealFactory" v="시리얼 공장" h="2969a83c" />
+    <e k="helpLine_Economy_ProductionChains_FactoriesList_Dairy" v="유제품 공장" h="175d9f6b" />
+    <e k="helpLine_Economy_ProductionChains_Greenshouses" v="온실은 건설 모드 메뉴의 생산 탭에 있는 배치품입니다. 상추, 토마토, 딸기를 생산하려면 물이 필요합니다. 이 상품은 여러 판매소에서 판매하거나 추가로 가공할 수 있습니다. 온실 옆에 보조 물 탱크를 배치하면 물 저장 용량을 늘릴 수 있습니다." h="04bff2c0" />
+    <e k="helpLine_Economy_SpendingMoney" v="지출" h="78de32d4" />
+    <e k="helpLine_Economy_SpendingMoney_BuyingVehicles" v="차량 상점에서 새 차량과 도구를 구매할 수 있습니다. 맵에서 상점을 바로 방문하거나, 지정된 키를 눌러 언제든지 상점 메뉴를 여십시오.{{NL}}장비는 카테고리나 브랜드별로 나뉘어 있습니다. 차량이나 도구에 추천 조합이 있으면 버튼 하나로 선택할 수 있습니다." h="199b878e" />
+    <e k="helpLine_Economy_SpendingMoney_Wear" v="시간이 지나면 차량과 도구의 상태가 나빠집니다.{{NL}}수리가 필요한 차량은 속도나 엔진 출력이 떨어집니다.{{NL}}{{NL}}차량을 상점이나 자신의 차량 작업장으로 가져가 비용을 내고 수리하십시오. 도장에 남은 사용 흔적을 없애려면 차량을 다시 도색하십시오.{{NL}}{{NL}}100% 손상 수리 -&gt; 구매 가격의 9%{{NL}}50% 손상 수리 -&gt; 구매 가격의 3%{{NL}}25% 손상 수리 -&gt; 구매 가격의 1%" h="50ae0e94" />
+    <e k="helpLine_Economy_SpendingMoney_Workshop" v="일부 차량은 구매할 때 꾸밀 수 있습니다. 꾸밀 수 있는 항목은 차량마다 다릅니다.{{NL}}나중에 꾸미려면 차량을 상점 앞의 표시된 구역으로 가져간 뒤 상점 기호와 상호작용하십시오. 모든 차량이나 도구를 같은 수준으로 꾸밀 수 있는 것은 아닙니다." h="3eb718a7" />
+    <e k="helpLine_FarmingBasics_ArableFarming" v="작물 재배" h="5fadf06a" />
+    <e k="helpLine_FarmingBasics_ArableFarming_crop" v="Farming Simulator 25에는 25가지 작물이 있습니다. 밀, 보리, 유채, 수수, 해바라기, 콩, 옥수수, 귀리, 오일씨앗 무, 감자, 사탕무, 포플러, 사탕수수, 목화, 포도, 올리브, 레드 비트, 당근, 파스닙, 완두콩, 시금치, 강낭콩, 목초, 벼, 장립종 벼입니다. 밭작물을 가꾸는 데는 경작, 파종, 수확의 세 가지 필수 단계가 있습니다. 특수 작물과 그 조건에 대한 자세한 내용은 '특수 작물' 섹션에서 확인하십시오." h="112850f4" />
+    <e k="helpLine_FarmingBasics_Cultivating" v="경작" h="650183fc" />
+    <e k="helpLine_FarmingBasics_Cultivating_general" v="파종 전에 컬티베이터, 얕은 컬티베이터, 원판 써레, 동력 써레로 땅을 부드럽게 하십시오. 흙을 갈려면 도구를 내려야 합니다. 이 도구들은 주로 작업 속도, 작업 너비, 필요한 트랙터 출력에서 차이가 납니다." h="77656851" />
+    <e k="helpLine_FarmingBasics_Cultivating_harrows" v="원판 써레와 동력 써레는 일반 컬티베이터보다 필요한 트랙터 출력이 낮고, 가격이 저렴하며, 작업 속도가 빠릅니다. 원판 써레는 돌을 파내지 않습니다. 직파기를 사용할 수도 있습니다. 일부 직파기는 경작, 파종, 비료 살포까지 한 번에 할 수 있습니다." h="0d8f5660" />
+    <e k="helpLine_FarmingBasics_Cultivating_overview" v="일반 컬티베이터는 잡초 제거에 가장 효과적이지만 작은 돌을 파냅니다. 얕은 컬티베이터는 일반 컬티베이터보다 작업 너비이 넓어 더 많은 면적을 처리하면서도 필요한 출력이 낮습니다. 돌을 파내지는 않지만 더 비싸고 잡초 제거 효과는 떨어집니다." h="2d23be72" />
+    <e k="helpLine_FarmingBasics_Harvesting" v="수확" h="3af57051" />
+    <e k="helpLine_FarmingBasics_Harvesting_general" v="작물을 수확할 때가 되면 알맞은 헤더를 장착한 콤바인을 사용하십시오. 콤바인을 펼치고, 필요하면 헤더도 펼치십시오. 콤바인을 켜고 작물을 거두십시오.{{NL}}수확물을 트레일러에 내려 수송하십시오. 그런 다음 판매소에서 판매하거나, 나중에 쓰기 위해 저장탑에 보관하거나, 알맞은 생산 시설에서 가공할 수 있습니다." h="774c06e0" />
+    <e k="helpLine_FarmingBasics_MapFilters_filters" v="- &quot;작물 유형&quot; 필터는 어느 경작지에서 어떤 작물이 자라는지 보여 줍니다. 새 작물을 파종할 때까지는 수확한 뒤에도 상태가 바뀌지 않습니다.{{NL}}{{NL}}- &quot;성장&quot; 필터는 경작지가 어느 단계에 있는지 보여 줍니다. 어떤 토양 경작을 했는지, 경작지의 작물이 어느 성장 단계인지 표시합니다.{{NL}}{{NL}}- &quot;토양 구성&quot; 필터는 경작지의 수확량을 늘리는 데 도움이 됩니다. 경작지에 잡초나 돌이 있는지 보여 줍니다. 잡초와 돌을 없애 수확량을 높이십시오.{{NL}}{{NL}}- &quot;핫스팟&quot; 필터는 맵에서 판매소와 자신의 차량 및 도구가 어디에 있는지 알려 줍니다. 차량 아이콘을 클릭하고 '재설정' 버튼을 누르면 차량을 상점으로 되돌릴 수 있습니다. 판매소를 클릭하면 바로 '방문'할 수 있습니다.{{NL}}{{NL}}농지 화면에서는 구매할 수 있는 땅을 볼 수 있습니다. 경작지를 클릭하면 소유하기 위해 내야 하는 가격과 함께 강조 표시됩니다." h="30dca3ae" />
+    <e k="helpLine_FarmingBasics_MapFilters_filters_switch" v="- &quot;작물 유형&quot; 필터는 어느 경작지에서 어떤 작물이 자라는지 보여 줍니다. 새 작물을 파종할 때까지는 수확한 뒤에도 상태가 바뀌지 않습니다.{{NL}}{{NL}}- &quot;성장&quot; 필터는 경작지가 어느 단계에 있는지 보여 줍니다. 어떤 토양 경작을 했는지, 경작지의 작물이 어느 성장 단계인지 표시합니다.{{NL}}{{NL}}- &quot;토양 구성&quot; 필터는 경작지의 수확량을 늘리는 데 도움이 됩니다. 경작지에 잡초나 돌이 있는지 보여 줍니다. 잡초와 돌을 없애 수확량을 높이십시오.{{NL}}{{NL}}- &quot;핫스팟&quot; 필터는 맵에서 판매소와 자신의 차량 및 도구가 어디에 있는지 알려 줍니다. 차량 아이콘을 선택하고 '재설정' 버튼을 누르면 차량을 상점으로 되돌릴 수 있습니다. 판매소를 선택하면 바로 '방문'할 수 있습니다.{{NL}}{{NL}}농지 화면에서는 구매할 수 있는 땅을 볼 수 있습니다. 경작지를 선택하면 소유하기 위해 내야 하는 가격과 함께 강조 표시됩니다." h="0cced40a" />
+    <e k="helpLine_FarmingBasics_MapFilters_general" v="맵 왼쪽의 필터를 통해 많은 정보를 볼 수 있습니다. 각 경작지의 상태와 각 작물의 성장 단계를 볼 수 있습니다. 이를 통해 수확할 때가 된 작물이나 관리가 필요한 작물을 파악할 수 있습니다." h="25b8a1ec" />
+    <e k="helpLine_FarmingBasics_Plowing_general" v="감자, 옥수수, 사탕무 같은 뿌리작물을 수확한 뒤에는 쟁기질이 필요합니다. 쟁기로 경작지를 만들 수도 있습니다. 경작지를 넓히거나, 여러 경작지를 합치거나, 완전히 새 경작지를 만들 수 있습니다. 쟁기를 쓰면 잡초가 자라는 것을 막고 다음 수확의 수확량을 늘릴 수 있습니다. 경작지에 돌이 드러납니다." h="51a25bae" />
+    <e k="helpLine_FarmingBasics_Plowing_spader" v="가래나 심토 쟁기를 쓸 수도 있습니다. 심토 쟁기는 훨씬 빨리 작업하며 필요한 트랙터 출력이 낮습니다. 하지만 경작지를 만들 수 없고, 잡초를 막지 못하며, 더 큰 돌을 파냅니다." h="2ed19ce2" />
+    <e k="helpLine_FarmingBasics_SowingPlanting_directseeder" v="씨앗을 뿌리는 또 다른 방법은 직파입니다. 이 방법을 쓰면 경작 단계를 하나 줄일 수 있습니다. 직파기를 사용하면 시간을 아낄 수 있지만, 미리 땅을 경작할 때보다 잡초가 더 빨리 생긴다는 점을 항상 명심하십시오." h="08c88e0e" />
+    <e k="helpLine_FarmingBasics_SowingPlanting_sowing" v="파종기나 점파기로 작물을 심을 수 있습니다. 먼저 팔레트나 저장탑의 씨앗으로 기계를 채우십시오. 파종할 작물을 선택하십시오. 기계를 내리고 켜십시오. 계절 성장을 켜고 플레이한다면 작물 캘린더를 참고하십시오.{{NL}}{{NL}}씨앗 팔레트는 상점에서 구매할 수 있습니다. 저장탑은 건설 모드 메뉴에서 농지에 배치할 수 있습니다. 일부 파종기는 경작, 파종, 비료 살포를 한 번에 할 수 있습니다. 도구의 특성에 대해 자세히 알아보려면 상점의 도구 설명을 확인하십시오." h="2eb738b3" />
+    <e k="helpLine_FirstSteps_ConstructionMenu_buildings" v="건설 모드 메뉴에는 5개의 탭과 여러 하위 분류가 있습니다. 농가, 기계를 둘 차고와 헛간은 물론, 작물과 자원을 보관할 창고, 고압 세척기 같은 도구도 찾을 수 있습니다.{{NL}}{{NL}}여기서 새 우리로 동물 제국을 넓히거나 온실, 공장, 판매소를 구매해 원하는 대로 배치할 수 있습니다." h="76d86900" />
+    <e k="helpLine_FirstSteps_ConstructionMenu_geneal" v="건설 모드 메뉴에는 땅을 원하는 대로 꾸미고 꿈의 농장을 지을 수 있는 다양한 옵션이 있습니다." h="06cddb54" />
+    <e k="helpLine_FirstSteps_ConstructionMenu_landscaping" v="여기서는 기능적인 것뿐 아니라 농장을 꾸밀 장식도 구매할 수 있습니다. 그래도 부족하다면 지형 형성 탭의 도구로 맵의 지형을 바꿀 수 있습니다." h="21ff8073" />
+    <e k="helpLine_FirstSteps_Contracts_general" v="Farming Simulator 25에는 맵의 다른 가상 농부들을 위해 농사일을 해 주고 돈을 벌 수 있는 계약 시스템이 있습니다.{{NL}}{{NL}}메뉴의 계약 화면으로 가면 다양한 계약이 있으며, 계약은 시간이 지나면서 바뀝니다. 바로 수락해 자신의 기계를 쓰거나, 고용주에게서 장비를 빌릴 수 있습니다. 기계를 빌리면 약간의 비용을 내야 합니다. 필요한 기계는 근처 상점 앞에 나타납니다.{{NL}}{{NL}}작업이 끝나면 계약 메뉴로 돌아가 돈을 받으십시오. 빌린 기계는 모두 자동으로 주인에게 반납됩니다." h="6a8e7112" />
+    <e k="helpLine_FirstSteps_Farmer" v="어떤 농부가 되시겠습니까?" h="00a6ab1f" />
+    <e k="helpLine_FirstSteps_Farmer_agriculture" v="전통적인 농업은 Farming Simulator의 핵심입니다. 초보 농부 모드에서는 바로 작업을 시작할 수 있도록 몇 가지 기계를 갖추고 시작합니다. 작물 재배의 여러 과정마다 할 일이 많아 일상적인 농사일이 매우 다양합니다." h="0427ee59" />
+    <e k="helpLine_FirstSteps_Farmer_animals" v="일부 맵에서는 '초보 농부' 모드로 게임을 시작하면 농장에 바로 이용할 수 있는 축사가 있습니다. 동물이 잘 자라고 생산물을 만들려면 사료와 보살핌이 필요합니다. 하지만 걱정하지 마십시오. 돌보지 않더라도 생산물을 더 이상 만들지 않을 뿐입니다." h="771d04d5" />
+    <e k="helpLine_FirstSteps_Farmer_forestry" v="목재 수확은 수익성이 좋은 일입니다. 다만 농업만큼 다양하지는 않으며, 기계를 다루려면 어느 정도의 기술과 상당한 자금이 필요합니다." h="6cf6b95b" />
+    <e k="helpLine_FirstSteps_Farmer_general" v="먼저 어떤 농부가 되고 싶은지 정해야 합니다. 집중할 수 있는 전문 분야는 세 가지입니다." h="112463a9" />
+    <e k="helpLine_FirstSteps_Seasons_cropCalendar" v="계절 작물 캘린더를 끄지 않았다면 작물을 심고 수확할 수 있는 시기가 정해집니다. 작물마다 성장 기간과 수확 시기가 다릅니다. 필요한 모든 정보는 메뉴의 작물 캘린더 페이지에서 찾을 수 있습니다.{{NL}}{{NL}}계절 작물 캘린더가 없으면 언제든지 심고 수확할 수 있습니다. 그래도 각 작물의 성장 기간은 같습니다. 가격은 연중 시기에 따라 변동한다는 점을 명심하십시오." h="449635b0" />
+    <e k="helpLine_FirstSteps_Seasons_general" v="Farming Simulator 25에는 사실감을 높이는 계절 주기가 있습니다. Farming Simulator 시리즈를 처음 접한다면 게임 설정에서 계절 성장을 끄는 것이 도움이 될 수 있습니다." h="29dfd9cf" />
+    <e k="helpLine_FirstSteps_Seasons_months" v="게임 설정에서 한 달의 길이를 1일에서 28일 사이로 바꿀 수 있습니다. 경험이 적은 플레이어라면 한 달 길이를 최대 3일로 하는 것이 적당합니다. 일수가 많을수록 게임을 더 오래 즐길 수 있지만, 바쁘게 지내기 위해 매일 찾아야 하는 작업도 많아집니다. 변경 사항은 바로 적용되지 않고 다음 계절이 시작될 때 적용됩니다." h="681414e1" />
+    <e k="helpLine_FirstSteps_Seasons_snow" v="눈은 켜거나 끌 수 있으며 차량 조작에 영향을 줍니다.{{NL}}{{NL}}미끄러운 도로에서는 조심하고, 겨울 장비를 미리 준비해 두는 것이 좋습니다. 서둘러 제설 소금을 뿌리거나 제설기로 농장의 도로를 치우십시오." h="71df53d0" />
+    <e k="helpLine_FirstSteps_Seasons_visual" v="게임 플레이 중 시간이 흐르면서 게임의 모습이 바뀝니다. 나무는 잎이 돋았다가 가을이 되면 주황색으로 물들고, 겨울에는 잎이 모두 떨어진 채 앙상하게 서 있습니다." h="0f72013e" />
+    <e k="helpLine_FirstSteps_Seasons_weather" v="일기 예보는 결정에 영향을 줍니다. 비가 오는 동안에도 작물을 수확할 수는 있지만, 수확량이 절반으로 줄어든다는 점을 감수해야 합니다.{{NL}}오른쪽 위의 일기 예보 아이콘을 잘 살피십시오. 날씨 아이콘이 2개 표시되면 오른쪽 아이콘이 6시간 후의 날씨를 보여 줍니다." h="417636b8" />
+    <e k="helpLine_FirstSteps_Shop_dealer" v="구매한 모든 것은 근처 상점 앞에 나타납니다. 불이 켜진 아이콘 두 개가 보입니다. 하나는 상점, 하나는 작업장 아이콘입니다. 딜러 작업장의 지정된 구역에 기계를 세우면 차량을 꾸미거나, 수리하거나, 다시 도색할 수 있습니다. 차량의 상태와 가치에 대한 정보도 표시됩니다." h="2be6d8bc" />
+    <e k="helpLine_FirstSteps_Shop_new" v="상점에는 계획에 필요한 모든 것이 있으며, 네 가지 탭 묶음에 걸쳐 여러 카테고리로 나뉘어 있습니다. 브랜드 탭에는 게임에 있는 모든 브랜드가 표시됩니다. 차량 및 도구 탭은 여러 카테고리로 이루어져 있습니다. 물체 탭에서는 대형 자루, 팔레트, 베일처럼 파종, 비료 살포, 동물 먹이 주기에 중요한 물품을 구매할 수 있습니다. 참고: 대부분의 차량과 도구는 다양한 구성 및 도색 옵션으로 원하는 대로 꾸밀 수 있습니다." h="5ec446ce" />
+    <e k="helpLine_FirstSteps_Shop_used" v="돈을 아끼고 싶다면 중고 차량 판매를 찾아보십시오. 판매되는 기계가 계속 바뀝니다. 할인 폭은 다양하며 꽤 클 수도 있어, 보유 장비를 더 일찍 업그레이드할 수 있습니다. 중고 기계는 새것처럼 효율적으로 작동하려면 수리와 세척이 필요할 수 있다는 점을 명심하십시오." h="27926fef" />
+    <e k="helpLine_FirstSteps_Start" v="시작하는 방법" h="7049f8d6" />
+    <e k="helpLine_FirstSteps_Start_general" v="Farming Simulator는 정해진 목표 없이 완전히 자유로운 게임 세계를 제공하므로 &quot;정답&quot;인 방법 하나가 있는 것이 아니라 여러 가능성이 있습니다. 어떤 농부가 될지 이미 정했다면 그 길을 시작하십시오. 목표는 돈을 벌고, 더 큰 기계를 갖추고, 마음에 드는 농장을 짓는 것입니다.{{NL}}{{NL}}   - 전통적인 농사일을 하고 싶다면 가격 메뉴에서 어떤 작물이 돈이 되는지, 연중 언제 팔기에 가장 좋은지 확인하십시오.{{NL}}   - 동물을 키우고 싶다면 동물 도움말 섹션에서 자세한 정보를 찾아보십시오.{{NL}}   - 임업을 하고 싶다면 해당 섹션을 확인하십시오.{{NL}}{{NL}}추가로 돈을 벌면서 기본 방식과 절차를 익힐 수 있도록 현재 가능한 계약을 확인해 보는 것도 좋습니다." h="3f580191" />
+    <e k="helpLine_FirstSteps_Start_guidedTour" v="리버밴드 스프링스에서 '초보 농부 모드'를 시작할 때마다 제공되는 가이드 투어에서 농업의 가장 기본적인 게임플레이 방식과 조작법을 배울 수 있습니다. 이 모드에서는 시작용 기본 차량과 도구도 제공됩니다." h="6d658dbb" />
+    <e k="helpLine_FirstSteps_StartingEquipment" v="시작 장비" h="77969a97" />
+    <e k="helpLine_FirstSteps_StartingEquipment_general" v="쉬운 모드로 시작하지 않았다면 농사를 시작하기 위해 갖춰야 할 기계가 몇 가지 있습니다.{{NL}}{{NL}}- 트랙터가 필요합니다. 단, 모든 도구에는 필요 출력이 있다는 점에 유의하십시오(예: 쟁기). 트랙터의 힘이 부족하면 기계를 다루기 어렵습니다.{{NL}}- 파종 전에 경작지를 준비하려면 컬티베이터가 필요합니다.{{NL}}- 작물을 파종하려면 파종기와 파종기에 채울 씨앗이 필요합니다.{{NL}}- 잡초를 없애려면 제초기가 필요합니다.{{NL}}- 토양에 비료와 석회를 뿌리려면 비료 살포기가 필요합니다. 모든 비료 살포기에 석회를 채울 수 있는 것은 아닙니다. 상점을 둘러볼 때 아이콘을 확인하십시오!{{NL}}- 알맞은 헤더를 장착한 콤바인이 필요합니다. 여러 작물을 수확할 수 있는 곡물 헤더로 시작하는 것을 권장합니다. 계절 성장을 켜고 플레이한다면 수확 시기에만 콤바인을 임차하는 편이 비용 면에서 더 효율적일 수 있습니다.{{NL}}- 작물을 판매소로 수송할 트레일러도 필요합니다." h="097fd64a" />
+    <e k="helpLine_FirstSteps_Worker_combinedjobs" v="&quot;납품&quot; 작업은 미리 실어 둔 제품을 하역소로 가져가는 간단한 작업입니다. 메뉴에서 알맞은 하역소를 선택해야 합니다. 이 작업을 반복으로 설정할 수도 있으며, 그러면 작업자가 가능한 한 계속 배달합니다.{{NL}}&quot;적재 후 납품&quot;은 여러 작업을 하나로 합친 것입니다. 작업자가 선택한 적재소에서 요청한 제품을 차량에 채웁니다. 또한 제품을 수송할 하역소도 선택할 수 있습니다. 마지막으로 이 작업을 &quot;반복&quot; 작업으로 만들 수 있으며, 그러면 선택한 제품이 있는 한 작업자가 이 작업을 계속합니다." h="1800bfa4" />
+    <e k="helpLine_FirstSteps_Worker_general" v="작업에는 &quot;이동&quot;, &quot;적재 후 납품&quot;, &quot;납품&quot;, &quot;경작지 작업&quot; 등 여러 종류가 있습니다.{{NL}}&quot;납품&quot;과 &quot;적재 후 납품&quot; 같은 일부 작업은 차량에 트레일러가 연결되어 있거나 내부 탱크가 있을 때만 선택할 수 있습니다.{{NL}}차량과 작업을 선택한 뒤 목표 위치를 설정할 수 있습니다. 맵을 클릭해 작업자가 갈 위치를 정한 다음, 차량이 목적지에 도착했을 때 주차할 방향을 조정할 수 있습니다." h="1b2d0314" />
+    <e k="helpLine_FirstSteps_Worker_general_switch" v="작업에는 &quot;이동&quot;, &quot;적재 후 납품&quot;, &quot;납품&quot;, &quot;경작지 작업&quot; 등 여러 종류가 있습니다.{{NL}}&quot;납품&quot;과 &quot;적재 후 납품&quot; 같은 일부 작업은 차량에 트레일러가 연결되어 있거나 내부 탱크가 있을 때만 선택할 수 있습니다.{{NL}}차량과 작업을 선택한 뒤 목표 위치를 설정할 수 있습니다. 맵을 눌러 작업자가 갈 위치를 정한 다음, 차량이 목적지에 도착했을 때 주차할 방향을 조정할 수 있습니다." h="79ad5187" />
+    <e k="helpLine_FirstSteps_Worker_overview" v="농장 일은 바쁠 수 있습니다. 작업자를 고용해 일부 작업을 맡길 수 있습니다. 메뉴에서 맵 아이콘을 선택하고 &quot;작업 만들기&quot; 섹션으로 이동하십시오.{{NL}}맵 개요에서 소유한 차량을 선택해 그 차량의 작업을 정하십시오.{{NL}}차량을 운전하는 중에 해당 단축키를 눌러 &quot;작업 만들기&quot; 섹션으로 바로 갈 수도 있습니다.{{NL}}&quot;활성 작업자&quot; 화면에서 여러 작업을 만들 수 있습니다.{{NL}}먼저 맵에서 차량 아이콘 중 하나를 선택한 다음 &quot;작업 만들기&quot;를 클릭하십시오. 오른쪽 메뉴에서 만들 작업의 종류를 선택할 수 있습니다." h="0116b262" />
+    <e k="helpLine_FirstSteps_Worker_overview_switch" v="농장 일은 바쁠 수 있습니다. 작업자를 고용해 일부 작업을 맡길 수 있습니다. 메뉴에서 맵 아이콘을 선택하고 &quot;작업 만들기&quot; 섹션으로 이동하십시오.{{NL}}맵 개요에서 소유한 차량을 선택해 그 차량의 작업을 정하십시오.{{NL}}차량을 운전하는 중에 해당 단축키를 눌러 &quot;작업 만들기&quot; 섹션으로 바로 갈 수도 있습니다.{{NL}}&quot;활성 작업자&quot; 화면에서 여러 작업을 만들 수 있습니다.{{NL}}먼저 맵에서 차량 아이콘 중 하나를 선택한 다음 &quot;작업 만들기&quot;를 클릭하십시오. 오른쪽 메뉴에서 만들 작업의 종류를 선택할 수 있습니다." h="0116b262" />
+    <e k="helpLine_FirstSteps_Worker_simplejobs" v="&quot;이동&quot; 작업은 가장 기본적인 작업으로, 작업자를 맵의 특정 위치로 보냅니다.{{NL}}&quot;경작지 작업&quot;은 AI 작업자를 보내 경작지를 수확하거나 작업하게 합니다. 알맞은 도구를 장착해야 한다는 점을 명심하십시오." h="1d6b6f71" />
+    <e k="helpLine_FirstSteps_Worker_start" v="특정 작업을 수행할 수 없으면 문제가 되는 옵션 옆에 느낌표와 짧은 메시지가 표시됩니다. 모든 설정이 끝나면 &quot;작업 시작&quot; 버튼을 누르십시오.{{NL}}활성 작업자는 작업과 현재 활동이 표시된 목록에서 볼 수 있습니다." h="4dac5075" />
+    <e k="helpLine_Forestry_FellingTrees_Chainsaw" v="원하는 전기톱을 들고 나무 앞에 서십시오. 톱을 원하는 방향으로 돌리기만 하면 됩니다. 초록색으로 빛나는 고리가 나타나면 자를 준비가 된 것입니다. 해당 버튼을 누르기만 하면 됩니다. 나무는 항상 톱질하는 방향으로 쓰러집니다." h="65c7f08b" />
+    <e k="helpLine_Forestry_FellingTrees_General" v="수확 방법은 심은 나무의 종류에 따라 다릅니다. 낙엽수를 심었다면 전기톱으로 베어야 합니다. 낙엽수는 고르지 않게 자라므로 바로 판매하기보다 나무 부스러기로 가공하는 편이 경제적으로 더 낫습니다.{{NL}}{{NL}}반면 침엽수는 전기톱(사이프러스, 잣나무)이나 하베스터(가문비나무, 소나무)로 벨 수 있습니다. 줄기가 길고 고르므로 판매하거나 추가 가공을 위해 배달하기에 알맞습니다." h="2af5d9fc" />
+    <e k="helpLine_Forestry_FellingTrees_HarvestingMachine" v="하베스터를 쓰면 침엽수 수확 단계를 크게 줄일 수 있습니다. 먼저 차량에 탑승하고 해당 버튼으로 원하는 통나무 길이를 선택한 뒤 나무로 이동하십시오. 기계를 켜십시오. 크레인의 헤드를 최대한 아래로 내리십시오. 해당 버튼을 눌러 나무를 베면 끝입니다!" h="06435b7f" />
+    <e k="helpLine_Forestry_FellingTrees_HarvestingMachine_title" v="하베스터" h="200cefc8" />
+    <e k="helpLine_Forestry_LogsWoodChips_Logs" v="목재는 목공소, 제재소, 바이오매스 난방 시설에서 판매할 수 있습니다. 알맞은 판매소를 정했다면 목재를 채우고 고정한 로더를 해당 구역으로 운반해 목재를 내리십시오.{{NL}}원하는 통나무 길이에 맞춰 로더를 고르거나, 고른 로더에 맞춰 통나무를 자르십시오. 그렇지 않으면 수송이 까다롭고 위험할 수 있습니다.{{NL}}장력 벨트로 통나무를 고정하십시오. 해당 버튼을 누르거나 차량에서 내려 직접 고정할 수 있습니다." h="0be86554" />
+    <e k="helpLine_Forestry_LogsWoodChips_WoodChips" v="나무 부스러기는 잘게 부순 나무입니다. 먼저 벤 나무줄기 형태의 원료가 필요합니다. 낙엽수가 나무 부스러기로 가공하기에 가장 알맞으므로 먼저 더 작은 조각으로 자르십시오.{{NL}}{{NL}}목재 크러셔를 구매해 차량에 연결하고, 펼친 뒤 켜십시오. 이제 크레인으로 땅에 있는 나무 조각을 집어 컨베이어 벨트 위에 올려야 합니다. 나무가 컨베이어 벨트에 제대로 놓이면 기계 안으로 빨려 들어가 부스러기가 됩니다.{{NL}}{{NL}}통나무를 더 작은 조각으로 잘랐다면 손으로 컨베이어 벨트에 올릴 수도 있지만, 시간이 조금 더 걸릴 수 있습니다.{{NL}}{{NL}}가격 탭을 보고 가장 좋은 판매소를 찾으십시오. 나무 부스러기는 파머스 마켓이나 바이오매스 난방 시설에 팔 수 있습니다. 판매소를 정했다면 그곳으로 가서 지정된 구역에 나무 부스러기를 내리십시오." h="01e07fb8" />
+    <e k="helpLine_Forestry_PlantingTrees_General" v="밀이나 감자 같은 작물과 달리 토양을 준비할 필요가 없습니다. 나무는 어떤 토양에도 심을 수 있습니다. 경작, 쟁기질, 비료나 농약 살포가 필요 없습니다.{{NL}}{{NL}}나무를 심으려면 전용 묘목 식재기가 필요합니다. 상점에서 묘목 팔레트를 구매해 Damcon PL 75 묘목 식재기에 실으십시오.{{NL}}{{NL}}자신의 땅에서 나무를 심을 곳으로 가십시오. 기계를 내리고 켠 뒤 (가능하면) 직선으로 조심스럽게 운전하십시오. 묘목 식재기가 자동으로 묘목을 하나씩 심습니다. 묘목을 모두 심었는데 나무를 더 심고 싶다면 다시 채우십시오.{{NL}}{{NL}}나무 종류마다 성장 기간이 다릅니다. 나무 종류에 따라 성장 기간은 게임 내 2일에서 24일까지 다양합니다." h="70c2e8fb" />
+    <e k="helpLine_Forestry_PlantingTrees_LandscapingTrees" v="건설 모드의 지형 형성 탭에서 다양한 나무를 찾을 수 있습니다. 크기별로 고를 수 있습니다. 나무가 클수록 가격이 비쌉니다. 이 나무들로 농장과 소유지를 꾸밀 수 있지만, 실제 임업용으로는 권장하지 않습니다." h="7b560e6b" />
+    <e k="helpLine_Forestry_RemovingStumps_General" v="나무를 베고 나면 농지에 그루터기가 남습니다. 새 나무를 심거나 땅을 다른 용도로 쓰려면 먼저 남은 것을 없애야 합니다. 필요한 것은 트랙터와 임업 파쇄기 두 가지뿐입니다.{{NL}}{{NL}}트랙터 뒤쪽을 파쇄기에 맞춰 대고 해당 버튼을 눌러 장착하십시오. 그루터기로 이동하십시오.{{NL}}파쇄기를 내리고 켜십시오. 이제 그루터기 위로 지나가기만 하면 됩니다. 그루터기가 너무 높으면 파쇄기를 알맞게 조정할 수 있습니다. 이것으로 끝입니다." h="359a6718" />
+    <e k="helpLine_Forestry_TreeTypes_General1" v="게임에는 총 12종의 나무가 있으며, 낙엽수와 침엽수의 두 범주로 나뉩니다.{{NL}}{{NL}}침엽수: 가문비나무, 소나무, 잣나무, 사이프러스{{NL}}낙엽수: 자작나무, 오크, 버드나무, 단풍나무, 파고다 도그우드, 샤그바크 히코리, 아메리카느릅나무, 다우니 서비스베리{{NL}}{{NL}}나무는 전기톱이나 하베스터로 수확합니다.{{NL}}{{NL}}- 낙엽수는 모두 전기톱으로 직접 벱니다.{{NL}}- 사이프러스와 잣나무(둘 다 침엽수)도 전기톱으로 벱니다.{{NL}}- 가문비나무와 소나무(침엽수)는 하베스터로 벱니다." h="2c8d2429" />
+    <e k="helpLine_Forestry_TreeTypes_General2" v="줄기의 굵기와 길이, 가지의 양은 나무 종류에 따라 다릅니다. 이는 판매 가치와 가능한 가공 방식에 직접 영향을 줍니다. 가지가 많은 나무는 가지를 잘라 내지 않으면 수익이 줄어듭니다. 원한다면 가지로 나무 부스러기를 만들 수 있습니다.{{NL}}{{NL}}팁: 침엽수는 목재 생산용, 낙엽수는 나무 부스러기 생산용입니다." h="5cc9ec49" />
+    <e k="helpLine_IconOverview_Greenery" v="초목" h="0d5931ff" />
+    <e k="helpLine_IconOverview_Shop_Text" v="정보, 출력, 필요 출력, 최고 속도, 작업 속도, 연료, 변속기, 무게, 최대 적재 중량, 작업 너비, 작물 종류, 씨앗{{NL}}사각 베일 길이, 원형 베일 지름, 동물, 용량, 호환성, 작업 시간, 나이, 휠 유형, 임차 품목, 번호판, 상태," h="52641da7" />
+    <e k="helpLine_IconOverview_Transmission" v="변속기" h="12ed6b20" />
+    <e k="helpLine_IconOverview_Yield" v="수확량 증가" h="075baad2" />
+    <e k="helpLine_IconOverview_fillType" v="작물 종류" h="3fa114ba" />
+    <e k="helpLine_IconOverview_roundBale" v="원형 베일 지름" h="36933cf1" />
+    <e k="helpLine_IconOverview_squareBale" v="사각 베일 길이" h="46d57959" />
+    <e k="helpLine_ImproveYield" v="수확량 향상" h="7383d440" />
+    <e k="helpLine_ImproveYield_Fertilizing" v="비료 살포" h="21b08923" />
+    <e k="helpLine_ImproveYield_FertilizingBonus" v="파종 후 경작지에 비료를 주고 분무기로 살포하면 수확량을 늘릴 수 있습니다. 비료를 두 번 뿌리면(뿌릴 때마다 수확량 보너스 +23%) 최대 비료 수준에 이릅니다. 유기 비료는 살포량 2배를 켜서 최대 비료 수준에 이를 수 있지만 시간이 더 걸립니다." h="1ae1934b" />
+    <e k="helpLine_ImproveYield_FertilizingBuy" v="액체 비료와 고체 비료는 상점에서 탱크나 대형 자루로 구매하거나 저장탑에서 바로 실을 수 있습니다. 거름 살포기와 슬러리 탱크를 사용하면 동물의 거름과 슬러리로 비료를 줄 수도 있습니다. 소화액도 쓸 수 있습니다. 소화액은 바이오가스 공장에 사일리지를 배달하면 나오는 부산물입니다." h="16ada0a6" />
+    <e k="helpLine_ImproveYield_Liming" v="석회 살포" h="5dff786a" />
+    <e k="helpLine_ImproveYield_LimingBonus" v="수확 3번마다 석회를 뿌리면 수확량 보너스 15%를 얻습니다. 경작지에 석회가 필요해지면 경작지 정보에 &quot;석회 필요&quot; 표시가 나타납니다. 석회는 상점에서 팔레트로 구매하거나 석회 판매소에서 포장되지 않은 상태로 구매할 수 있습니다." h="75821162" />
+    <e k="helpLine_ImproveYield_LimingSpread" v="경작지에 뿌리려면 석회를 채울 수 있는 비료 살포기가 필요합니다. 모든 모델로 석회를 뿌릴 수 있는 것은 아닙니다. 비료 살포기를 고를 때 상점에서 석회 아이콘을 확인하십시오." h="32b0df9e" />
+    <e k="helpLine_ImproveYield_Mulching" v="파쇄" h="34a5b77a" />
+    <e k="helpLine_ImproveYield_MulchingGeneral" v="파쇄는 토양 위에 유기물 층을 덮어 토양을 개선하고, 그 결과 작물의 수확량을 높여 줍니다.{{NL}}{{NL}}경작지를 경작하기 전에, 작물을 수확하고 남은 밑동에 파쇄기를 사용하십시오. 밑동이 남는 모든 작물에 효과가 있습니다. 다음 수확에서 수확량 보너스를 받습니다." h="4c18069c" />
+    <e k="helpLine_ImproveYield_MulchingSpecial" v="포도나무나 올리브나무를 재배할 때는 (수확 후 남은 밑동을 처리할 때와 달리) 먼저 경작하고, 얼마 뒤 새 풀이 자라기 시작하면 파쇄합니다. 기본적으로 잡초가 자라지 않도록 풀을 깎는 작업입니다. 또한 모든 것을 보기 좋고 깔끔하게 유지하기 위해서입니다.{{NL}}{{NL}}상점의 임업 장비 카테고리에는 임업 파쇄기도 있습니다. 나무를 벤 뒤 남은 덤불과 그루터기를 없애는 데 씁니다." h="1c329bdb" />
+    <e k="helpLine_ImproveYield_RemovingWeeds" v="잡초를 없애는 방법은 제초기 사용, 괭이 사용, 분무기로 제초제 살포의 세 가지입니다. 제초기는 가장 작은 잡초만 제거하므로 서둘러야 합니다. 괭이로는 작은 잡초와 더 큰 잡초를 제거할 수 있고, 분무기로는 가장 큰 잡초도 제거할 수 있습니다. 다만 잡초가 다 자란 뒤에야 살포를 시작하면 일부 잡초가 남을 수 있습니다. 제초제는 상점에서 팔레트로 구매해 분무기에 채울 수 있습니다. 분무기는 상점의 '수확량 향상' 카테고리에 있습니다." h="4c0f6a59" />
+    <e k="helpLine_ImproveYield_Rolling" v="다지기" h="29dc2949" />
+    <e k="helpLine_ImproveYield_RollingBonus" v="파종을 마친 땅을 롤러로 다지면 추가 수확량 보너스를 받습니다. 경작지에 남은 작은 돌도 다시 땅속으로 눌러 넣어집니다.{{NL}}{{NL}}상점의 '초원 관리' 항목에 있는 롤러는 목초를 벤 뒤에 사용할 수 있습니다. 갓 벤 목초를 롤러로 다지면 다음 수확을 위한 비료 단계를 1단계 얻습니다. 이미 자란 목초를 롤러로 다지면 첫 성장 단계로 돌아갑니다." h="60828dda" />
+    <e k="helpLine_Misc_CharacterCustomization_clothes" v="새 부츠나 새 바지가 필요하십니까? 헤어스타일을 바꾸거나 선글라스를 쓰고 싶으십니까? 문제없습니다.{{NL}}{{NL}}상점 메뉴의 옷장으로 가서 언제든지 원하는 대로 외모를 바꾸십시오." h="3dafa06f" />
+    <e k="helpLine_Misc_LoadingMachines_FrontLoaderVehicle" v="1. 상점의 차량 카테고리에서 프론트 로더 차량을 구매하십시오.{{NL}}2. 프론트 로더 도구를 구매해 장착하십시오.{{NL}}3. 이제 사용할 수 있습니다.{{NL}}{{NL}}팁: 부착물과 도구의 필요 출력과 무게를 항상 염두에 두십시오!{{NL}}{{NL}}팁: 부착물/도구를 선택할 때 개요 화면에서 조합 버튼을 클릭하면 필요한 부착물/도구와 함께 쓸 수 있는지 확인할 수 있습니다." h="0f8b1859" />
+    <e k="helpLine_Misc_LoadingMachines_FrontLoaderVehicle_switch" v="1. 상점의 차량 카테고리에서 프론트 로더 차량을 구매하십시오.{{NL}}2. 프론트 로더 도구를 구매해 장착하십시오.{{NL}}3. 이제 사용할 수 있습니다.{{NL}}{{NL}}팁: 부착물과 도구의 필요 출력과 무게를 항상 염두에 두십시오!{{NL}}{{NL}}팁: 부착물/도구를 선택할 때 개요 화면에서 조합 버튼을 누르면 필요한 부착물/도구와 함께 쓸 수 있는지 확인할 수 있습니다." h="6e0b66cc" />
+    <e k="helpLine_Misc_LoadingMachines_FrontLoaderVehicle_title" v="프론트 로더 차량에서 프론트 로더 도구 사용" h="7d61a457" />
+    <e k="helpLine_Misc_LoadingMachines_General" v="적재 기계를 사용하면 농장과 공장에서 물품을 수송하고, 싣고, 내릴 수 있습니다.{{NL}}{{NL}}- 수확한 작물{{NL}}- 베일{{NL}}- 팔레트{{NL}}- 거름{{NL}}- 대형 자루{{NL}}- 통나무{{NL}}{{NL}}모든 적재 기계는 여러 작업에 두루 도움이 됩니다. 특히 초지를 운영하거나 가축을 돌볼 때 유용합니다. 하지만 일부 기계는 좀 더 특화되어 있습니다.{{NL}}{{NL}}- 프론트 로더는 싣기/내리기에 두루 쓰이는 만능 기계입니다.{{NL}}- 휠 로더는 임업의 통나무나 컨테이너 같은 무거운 물건에 사용됩니다.{{NL}}- 스키드 스티어 로더는 민첩해서 좁은 공간에서 적재할 때 알맞습니다.{{NL}}- 텔레핸들러는 고층 선반 창고처럼 높은 곳에 닿아야 할 때 사용됩니다.{{NL}}{{NL}}베일을 집거나 대형 자루 같은 물품을 싣고 내리는 등 가장 흔한 작업은 프론트 로더로 충분합니다. 다만 도구와 함께 쓰는 프론트 로더는 기본적으로 두 종류가 있으므로 알아 둘 것이 더 있습니다." h="6d6c0962" />
+    <e k="helpLine_Misc_LoadingMachines_Tractor" v="1. 상점에서 트랙터 구성을 프론트 로더 부착품을 달 수 있게 설정하십시오.{{NL}}2. 상점의 &quot;도구&quot; 카테고리에서 트랙터용 프론트 로더 부착품을 구매해 장착하십시오.{{NL}}3. 프론트 로더 도구를 구매해 장착하십시오.{{NL}}4. 이제 사용할 수 있습니다!" h="0cf09c86" />
+    <e k="helpLine_Misc_LoadingMachines_Tractor_title" v="트랙터에서 프론트 로더 도구 사용" h="6cb8cce0" />
+    <e k="helpLine_Misc_LoadingMachines_Types" v="먼저 프론트 로더에는 여러 종류가 있으므로 구분해야 합니다. 익숙하지 않다면 처음에는 헷갈릴 수 있습니다.{{NL}}{{NL}}- 프론트 로더(차량): 차량 카테고리에 있는 독립형 차량입니다.{{NL}}- 프론트 로더(부착품): 트랙터가 도구를 쓸 수 있게 해 주는 확장 장치로, 도구 카테고리에 있습니다.{{NL}}- 프론트 로더 도구: 독립형 차량이나 트랙터 부착품에 다는 부착물입니다." h="7dd160ae" />
+    <e k="helpLine_Misc_Transport_Bales" v="트랙터, 프론트 로더 부착품, 베일 스파이크가 필요합니다. 수송할 베일이 몇 개뿐이라면 판매소나 동물 헛간으로 하나씩 가져가면 됩니다.{{NL}}수송할 베일이 많다면 베일 로더를 권장합니다. 베일 왜건이 수송하려는 베일을 실을 수 있는지 확인하십시오." h="0aa2eb0c" />
+    <e k="helpLine_Misc_Transport_Bales_title" v="베일" h="7442f536" />
+    <e k="helpLine_Misc_Transport_ByHand" v="통나무와 가지 같은 작은 물체는 손으로 집어 떨어뜨리거나 던질 수 있습니다. 들 수 있는 물체를 바라보면 화면 가운데에 손 모양 아이콘이 나타납니다." h="31ed6eae" />
+    <e k="helpLine_Misc_Transport_Logs" v="통나무를 수송하려면 트랙터와 통나무 로더가 필요합니다. 자동 적재 기능이 없으므로 크레인 집게로 통나무를 집어 적재 구역 위로 들어 올린 뒤 놓아야 합니다. 그런 다음 장력 벨트로 통나무를 고정하십시오. 해당 버튼을 누르거나 차량에서 내려 직접 고정할 수 있습니다." h="276efc4c" />
+    <e k="helpLine_Misc_Transport_Pallets" v="팔레트를 수송하려면 프론트 로더 부착품과 팔레트 포크를 단 트랙터가 필요합니다. 팔레트 포크로 팔레트를 헛간으로 옮기고, 달걀과 양모 같은 동물 생산물 팔레트를 트럭에 싣거나 판매소로 바로 옮기십시오.{{NL}}수송을 쉽게 하려면 팔레트를 실을 수 있는 픽업트럭을 마련하는 것도 좋습니다. 물론 트랙터와 팔레트 포크로 한 번에 한 팔레트씩 판매소까지 배달할 수도 있습니다.{{NL}}{{NL}}자세한 내용은 &quot;적재 기계&quot;를 확인하십시오." h="7f9422f8" />
+    <e k="helpLine_Misc_Transport_Trailer" v="수확한 작물을 수송하고 판매하려면 트랙터와 트레일러가 필요합니다. 대부분의 트레일러는 포장되지 않은 모든 제품을 수송할 수 있습니다. 트레일러가 원하는 제품을 수송하기에 알맞은지는 상점이나 차고에서 확인할 수 있습니다." h="094019ae" />
+    <e k="helpLine_Misc_Transport_Train" v="기차는 다른 차량처럼 이용할 수 있지만, 기차역 중 한 곳에서 시간당 요금을 내고 빌려야 합니다. 기차를 이용하면 훨씬 많은 제품을 싣고 맵을 가로질러 옮겨 판매할 수 있습니다. 동물, 포도, 올리브, 목초, 여물, 사일리지, 우유, 사탕수수, 돌, 거름, 슬러리는 수송할 수 없다는 점을 명심하십시오." h="094dc87c" />
+    <e k="helpLine_Misc_Transport_Vehicles" v="저상 트레일러를 단 트럭을 구매하거나 빌려 차량과 도구를 농장까지 쉽게 수송하십시오." h="3f3aac76" />
+    <e k="helpLine_NewMissions" v="새로운 계약" h="13be0bce" />
+    <e k="helpLine_Rollercoasterdesc" v="롤러코스터는 실버런 숲 마을의 큰 프로젝트이므로 구매할 수 없습니다. 완공하려면 조립식 벽, 금속, 바닥 타일, 긴 널빤지, 목재 빔, 의자, 배럴, 양동이, 널빤지, 지붕널, 계단 난간, 탁자가 필요합니다. 이 자원들을 롤러코스터로 배달해 건설을 시작하십시오.{{NL}}건설이 끝나면 탑승 예약을 잊지 마십시오!" h="398e7191" />
+    <e k="helpLine_SawmillNew" v="남쪽 제재소는 누구도 구매할 수 없습니다. 이곳에서 목재를 팔 수 있습니다. 완제품은 약간의 비용을 내고 구매할 수 있습니다." h="1181fe31" />
+    <e k="helpLine_TransportMissionsdesc" v="두 번째 새 계약 유형은 수송 계약입니다. 벤 나무를 남쪽 제재소로 수송하는 일을 맡습니다. 수거 지점은 맵 어디든 될 수 있습니다. 손상에 대한 책임은 플레이어에게 있으므로 엉뚱한 목적지로 배달하지 않도록 주의하십시오." h="56e96fe6" />
+    <e k="helpLine_animals_moreFoodtext" v="당근, 파스닙, 레드 비트 등 새로운 채소 품종이 출시되어 이제 동물에게 먹이를 주고 돼지와 말의 메뉴에 활기를 불어넣을 수 있는 선택의 폭이 넓어졌습니다.{{NL}}{{NL}}새로운 유형의 사료는 다음과 같이 사료 계획에 포함됩니다.{{NL}}{{NL}}돼지{{NL}}기본 사료: 옥수수 또는 수수{{NL}}곡물: 밀 또는 보리{{NL}}단백질: 콩, 유채 또는 해바라기{{NL}}뿌리작물: 감자, 사탕무, 당근, 파스닙 또는 레드 비트{{NL}}{{NL}}말{{NL}}기본 사료: 귀리 또는 수수{{NL}}건초{{NL}}뿌리작물: 당근, 파스닙 또는 레드 비트" h="7dc59f96" />
+    <e k="helpLine_boatyarddesc" v="미리 배치된 건물이 더 늘었습니다! 이 조선소는 구매할 수 있습니다. 소유주가 없으면 일반 판매소 역할을 합니다. 소유주라면 선장 모자를 꼭 챙기십시오. 조선소에는 목재 빔, 널빤지, 바닥 타일, 금속, 천이 필요합니다. 보트가 완성되어 진수되면 조선소 소유주에게 대금이 지급됩니다. 다른 농장이 조선소를 소유하고 있어도 자원을 납품하여 도울 수 있지만, 대금을 받으려면 조선소 소유주와 이야기해야 합니다." h="69ac94f7" />
+    <e k="helpLine_creatingRidgesdesc_1" v="이제 새 작물 품종을 심기 전에 Grimme GF 800 이랑 장비로 이랑을 만들 수 있습니다. 이 새로운 단계는 채소 경작지를 더욱 사실적으로 보이게 할 뿐만 아니라 비료 단계도 추가합니다." h="19d2f052" />
+    <e k="helpLine_creatingRidgesdesc_2" v="재배 자체에는 이전의 뿌리작물과 마찬가지로 전용 파종 장비와 수확 장비가 필요합니다. Kverneland의 정밀 파종기를 사용하면 이랑에 바로 씨앗을 심을 수 있습니다. 이전과 달리 심는 줄을 현실적으로 곧게, 서로 90도 각도로 배치할 수 있습니다." h="60d69113" />
+    <e k="helpLine_creatingRidgesdesc_3" v="수확은 트랙터와 전용 장비를 함께 사용하여 합니다. 자주식 수확기도 있습니다. 더 많은 예산이 필요하지만 작업 폭이 더 넓다는 장점이 있습니다." h="20bcca95" />
+    <e k="helpLine_deadwoodMissionsdesc" v="새로운 계약 유형인 죽은 나무 계약이 있습니다. 숲 주인이 자기 땅에 있는 죽은 나무를 베어 달라고 플레이어를 고용합니다. 계약을 수락하면 죽은 나무를 찾을 수 있는 구역이 맵에 표시됩니다. 또한 해당 나무에는 &lt;!&gt; 표시가 되어 있어 어떤 나무가 맞는지 알 수 있습니다. 표시가 없는 나무를 베지 않도록 주의하십시오. 그렇지 않으면{{NL}}페널티를 받습니다. 계약 대상 나무를 베면 판매하여 추가 수입을 얻을 수 있습니다. 계약 보상을 수령하기 전에 나무를 모두 판매하십시오. 그러지 않으면 숲 주인이 나무를 처리합니다." h="1013d178" />
+    <e k="helpLine_destructibleRocksMissionsdesc" v="마지막으로 지정된 구역에서 표시된 바위를 파괴하는 암석 제거 계약이 있습니다. 이 계약에는 스키드 스티어 로더용 유압 해머가 필요합니다. 표시된 바위만 파괴하도록 주의하십시오. 그렇지 않으면 페널티를 받습니다." h="43c94750" />
+    <e k="helpLine_farmingBasics_improveYield_Yield" v="수확량을 늘리기 위한 경작지 관리법은 여러 가지가 있습니다. 비료를 두 번 살포하고(각각 +23%), 세 번 수확할 때마다 석회를 뿌리고(+15%), 수확 후 남은 밑동에 파쇄기를 사용합니다(+5%).{{NL}}수확량이 35% 줄어드는 것을 예방하려면 잡초를 제거하고(안 할 경우 20% 감소) 옥수수, 감자, 사탕무, 사탕수수 같은 뿌리작물을 수확한 다음에 쟁기를 사용해야 합니다(안 할 경우 15% 감소)." h="19397b3d" />
+    <e k="helpLine_farmingBasics_improveYield_limeHerbicide" v="석회와 제초제는 상점에서 팔레트로 구매하거나 맵 곳곳에 미리 배치된 여러 저장탑에서 구매할 수도 있습니다. 또한 건설 모드 메뉴에서 배치할 수 있는 저장탑도 있습니다." h="33ffba21" />
+    <e k="helpLine_farmingBasics_improveYield_mulcherroller" v="수확 후 남은 밑동에 파쇄기를 사용하면 수확량이 5% 증가합니다. 수확량을 높이는 데 도움이 되는 또 다른 도구는 롤러입니다. 그래스롤러는 작은 돌을 땅속으로 밀어 넣고 비료 한 단계 효과를 줍니다. 경작지용 롤러도 작은 돌을 제거하며, 수확량을 5% 높입니다." h="07baa6b5" />
+    <e k="helpLine_farmingBasics_improveYield_removeweeds" v="잡초를 제거하는 방법에는 세 가지가 있습니다. 제초제를 뿌리는 방법, 제초기를 사용하는 방법, 괭이를 사용하는 방법입니다. 제초기는 가장 작은 잡초만 제거하므로 서둘러야 합니다. 괭이로는 작은 잡초와 더 큰 잡초를 제거할 수 있고, 분무기로는 가장 큰 잡초까지 제거할 수 있습니다. 하지만 잡초가 다 자란 뒤에야 살포를 시작하면 일부 잡초가 남을 수 있습니다." h="21bfec96" />
+    <e k="helpLine_farmingBasics_improveYield_stones" v="경작지를 경작하거나 쟁기질할 때는 언제든 돌이 파헤쳐질 수 있습니다. 도구와 차량으로 돌 위를 지나가면 손상될 수 있으니 주의하십시오. 작은 돌은 롤러로 제거할 수 있지만 큰 돌은 수거해야 합니다. 돌 수집기로 경작지의 돌을 수거하여 파편 분쇄기에서 판매하십시오." h="29b12c73" />
+    <e k="helpLine_hydraulicHammer" v="유압 해머" h="4da66fde" />
+    <e k="helpLine_hydraulicHammerdesc" v="해머 타임! 곳곳의 숲에 거대한 바위가 흩어져 있습니다. 유압 해머로 내 농지에 있는 바위를 부숴 조약돌로 만드십시오. 조약돌은 수거하여 파편 분쇄기에서 판매할 수 있습니다." h="46f20b65" />
+    <e k="helpLine_markingspraydesc" v="숲을 칠하십시오! 어떤 나무를 베고 어떤 나무를 남길지 정할 때 쓸 편리한 도구가 생겼습니다. 여러 색상의 마킹 스프레이로 나무를 표시할 수 있습니다. 올바른 나무를 베도록 여러 가지 아이콘을 나무에 뿌리는 옵션도 있습니다." h="32468cc0" />
+    <e k="helpLine_mineshaftdesc" v="새로운 생산 건물입니다! 이 갱도는 생산망을 넓히는 데 도움이 됩니다. 광산은 항상 가동되며 구매할 수 없습니다. 철광석은 옆에 있는 더미에 모이며, 누구나 이 더미를 이용할 수 있습니다.{{NL}}철광석은 철 용광로에서 더 정제할 수 있습니다. 여기서 생산된 금속은 다른 생산 시설에 쓸 수 있습니다." h="76de7a34" />
+    <e k="helpLine_oldSawmill" v="잘라 낸 나무를 이곳 물에 넣으면 오래된 제재소에 판매할 수 있습니다. 길이가 1.50m보다 짧으면 대신 나무 부스러기로 만들어집니다. 제재소를 소유하고 있으면 생산 시설로도 쓸 수 있습니다. 오래된 제재소를 다시 판매하려면 건설 메뉴에서 연못과 상호작용하십시오." h="3193ddc6" />
+    <e k="helpLine_oldSawmillWoodchips" v="작은 나무와 가지를 이 기계에 넣어 평소보다 더 많은 나무 부스러기를 생산하십시오." h="69410c22" />
+    <e k="helpLine_pianoFactorydesc" v="중앙 유럽 맵에는 특별 판매소도 있습니다. 바로 피아노 제작소입니다.{{NL}}소유자가 없으면 일반 판매소처럼 작동합니다. 소유자라면 명품 피아노를 생산하고 판매하여 수익을 올릴 수 있습니다.{{NL}}피아노 공장에는 피아노 제작을 위한 판자가 필요합니다. 공장에 들어가서 눈앞에서 피아노가 만들어지는 과정을 지켜볼 수 있습니다. 피아노가 판매되면 피아노는 판매실에서 사라집니다." h="57a394e7" />
+    <e k="helpLine_productionChainsdesc" v="기존 생산 시설의 새 건물 모델 외에도, 새로운 작물에 맞춘 새 공장도 Farming Simulator에 추가됩니다. Zielonka에서 플레이한다면 이미 배치된 공장을 구매하거나, 건설 모드 메뉴에서 직접 공장을 구매하여 건설할 수 있습니다." h="4ad87e50" />
+    <e k="helpLine_riceFieldsDesc" v="벼 사업을 시작하려면 논이 필요합니다. 포도, 올리브와 마찬가지로 논은 건설 모드 메뉴에서 만들 수 있습니다. 포도나 올리브와 달리 줄이 아니라 경작지 전체를 만듭니다. 논도 일반 경작지처럼 경작할 수 있습니다.{{NL}}{{NL}}논을 만든 뒤 두 가지 벼(장립종 벼와 벼) 중에서 고를 수 있습니다.{{NL}}차이점은 물을 대기 전에 심는지, 물을 댄 뒤에 심는지입니다. 장립종 벼는 마른 논에 심으며, 특수 기계를 살 필요 없이 논, 파종기, 헤더가 달린 콤바인만 있으면 되므로 비용이 적게 듭니다.{{NL}}물을 댄 논에 심는 벼는 파종과 수확에 벼 전용 장비가 필요하지만 수확량이 훨씬 많습니다." h="4a9d36f7" />
+    <e k="helpLine_riceWeedsFertilizerDesc" v="논에는 물을 대기 전까지만 비료를 줄 수 있습니다. 즉, 심기 전이나 후에 비료를 줄 수 있지만 첫 녹색 싹이 수면 위로 올라오기 전이어야 합니다.{{NL}}{{NL}}잡초는 성장 초기 단계에 논에 물이 부족할 때만 자랍니다. 이 잡초는 제거할 수 없습니다. 장립종 벼는 논에 물을 대기 전에 일반적인 방법으로 잡초를 제거할 수 있습니다.{{NL}}{{NL}}성장 단계에 따라 논에 물을 대거나 마른 상태로 두어야 합니다. 이 단계에서 물이 필요한지 알 수 있도록 매일 논의 물 펌프를 확인하는 것을 잊지 마십시오. 물 펌프는 필요할 때만 작동합니다." h="53a02d97" />
+    <e k="helpLine_rootVegetables" v="뿌리채소" h="596fd877" />
+    <e k="helpLine_rootVegetablesDesc" v="감자와 사탕무 외에도 당근, 파스닙, 레드 비트를 재배할 수 있습니다. Farming Simulator에서 재배할 수 있는 뿌리채소의 종류가 늘어났습니다." h="55ee913a" />
+    <e k="helpLine_vegetablesDesc" v="Farming Simulator의 채소 종류가 늘어나고 있습니다. 당근, 파스닙, 레드 비트에 이어 이제 시금치, 강낭콩, 완두콩도 재배할 수 있습니다.{{NL}}{{NL}}뿌리채소와 달리 특수 파종기가 필요 없고 이랑을 만들 필요도 없습니다. 흙을 준비한 뒤 파종기로 채소를 파종합니다.{{NL}}{{NL}}채소를 수확할 때가 되면 전용 수확기가 필요합니다. 세 품종마다 전용 수확기가 따로 있고 구입 비용이 금세 농장의 감당 능력을 넘어설 수 있으므로, 어떤 채소로 시작할지 처음에 정해야 합니다." h="622fa5d7" />
+    <e k="helpLine_winchdesc" v="윈치를 사용하면 숲에서 나무를 더 접근하기 쉬운 지형으로 끌어낼 수 있습니다. 윈치를 트랙터에 장착하고 걸어서 윈치로 다가가십시오. 윈치 로프를 당겨 나무 하나 이상에 고정하십시오. 트랙터에 타고 있지 않아도 로프 길이를 조절할 수 있습니다. 윈치가 내장된 차량도 있습니다." h="5fef1255" />
+    <e k="helpLine_yarderdesc" v="언덕과 계곡 때문에 통나무를 운반하기가 어렵습니다. 집재기를 사용하면 통나무를 편리하게 운반할 수 있습니다. 도구를 알맞은 트랙터에 장착하고 적합한 지점을 찾으십시오.{{NL}}그런 다음 집재기 로프를 알맞은 나무에 직접 걸어 설치해야 합니다. 설치가 끝나면 캐리지를 직접 조종하거나 '따라가기 모드'로 캐리지를 제자리로 옮길 수 있습니다.{{NL}}통나무를 캐리지에 걸면 먼 거리나 지나갈 수 없는 지형 너머로 운반할 수 있습니다. 통나무를 걸려면 통나무에 다가가 로프로 캐리지에 거십시오." h="2b176146" />
+    <e k="hintMobile_01" v="돈을 벌려면 생산한 것(작물, 가축, 가축의 생산물)을 판매해야 합니다." h="3b8a69a3" />
+    <e k="hintMobile_02" v="비나 우박이 내리면 작물을 수확할 수 없으므로 날씨가 좋아질 때까지 기다려야 합니다." h="614792d0" />
+    <e k="hintMobile_03" v="무엇을 어떻게 해야 할지 모르겠습니까? 일시 중지 메뉴의 도움말을 확인하십시오." h="32ce2c4b" />
+    <e k="hintMobile_04" v="작물을 심은 후에 경작지에 비료를 주거나 농약을 살포하면 수확량을 높일 수 있습니다." h="6c9af57a" />
+    <e k="hintMobile_07" v="목초는 보통 트랙터에 장착하는 예초기로 벱니다. 그 후에는 건초기로 벤 목초를 뒤집어 말려 건초를 만들 수 있습니다." h="40b5bd9f" />
+    <e k="hint_01" v="베일 포장기를 사용하면 목초 베일을 사일리지 베일로 만들 수 있습니다." h="46fc5893" />
+    <e k="hint_05" v="무엇을 어떻게 해야 할지 모르겠습니까? 게임 내 메뉴의 도움말을 확인하십시오." h="23693371" />
+    <e k="hint_06" v="환경을 바꿔 보십시오! 원한다면 숲도 경작지로 바꿀 수 있습니다. 나무를 베고 그루터기를 제거한 후 쟁기로 경작지를 만드십시오." h="71580815" />
+    <e k="hint_07" v="너무 무겁지 않은 작은 목재 조각은 손으로도 옮길 수 있습니다." h="43a605c0" />
+    <e k="hint_12" v="일부 차량은 다른 바퀴, 더 강력한 엔진, 다른 색상, 프론트 로더 장착부 같은 추가 사양을 선택할 수 있습니다." h="61f332d0" />
+    <e k="hint_13" v="감자나 사탕무를 수확하기 전에 먼저 위에 있는 잎을 제거해야 합니다." h="58d48f9a" />
+    <e k="hint_17" v="재무 상태 화면에서는 해당 월 및 이전 4개월 동안의 모든 수입과 지출을 볼 수 있습니다. 급하게 돈이 필요하다면 은행에서 $CURRENCY_SYMBOL5000 단위로 대출받을 수 있습니다." h="6f6d8a8e" />
+    <e k="hint_18" v="목재 판매는 수익성이 좋으며 일반적인 경작지 작업에서 벗어나 새로운 일을 해 볼 기회가 됩니다. 나무는 전기톱이나 하베스터로 벨 수 있습니다. 판매하기 전에 곁가지를 치고 통나무로 잘라야 합니다." h="5f8d2dce" />
+    <e k="hint_20" v="목초는 보통 트랙터에 장착하는 예초기로 벱니다. 그 후에는 건초기로 벤 목초를 뒤집어 말려 건초를 만들 수 있습니다." h="40b5bd9f" />
+    <e k="hint_21" v="목초를 더 쉽게 모으려면 윈드로어로 줄지어 모아 두는 것이 좋습니다. 목초는 사료 왜건으로 모으거나 베일러로 베일을 만들 수 있습니다." h="5b089d7f" />
+    <e k="hint_24" v="맵의 경작지는 대부분 컴퓨터가 조종하는 다른 농부들이 소유합니다. 이들은 직접 경작지를 돌보지만 항상 도움이 필요하며 플레이어를 도급업자로 고용할 수 있습니다. 계약 메뉴에서 작업 게시판을 확인하십시오." h="1d79954c" />
+    <e k="hint_25" v="소유한 토지에서 쟁기로 새 경작지를 만들 수 있습니다." h="11a91ded" />
+    <e k="hint_26" v="파종기와 점파기에는 씨앗이 필요합니다. 상점에서 씨앗 포대를 구매할 수 있습니다." h="74db2b8b" />
+    <e k="hint_27" v="밀, 보리, 귀리를 수확할 때 콤바인으로 짚 줄을 만들 수 있습니다." h="72d659b0" />
+    <e k="hint_28" v="짚 줄은 베일러로 베일로 묶을 수 있습니다. 또는 사료 왜건으로 짚을 모을 수도 있습니다. 짚은 가축의 깔짚으로 쓰거나 완전 배합 사료(TMR)를 만드는 데 쓸 수 있습니다." h="79cd6ed2" />
+    <e k="hint_29" v="젖소는 항상 우유를 생산하지만 잘 먹여서 생산량을 늘릴 수 있습니다. 젖소에게 줄 수 있는 최고의 먹이는 건초, 짚, 무기물 사료 및 사일리지를 믹서 왜건에서 배합하여 만든 완전 배합 사료입니다." h="288bc83d" />
+    <e k="hint_30" v="새 나무는 저절로 생겨나지 않습니다. 전용 묘목 식재기로 심어야 합니다. 상점에서 묘목 팔레트를 구매할 수 있습니다." h="71653dc1" />
+    <e k="hint_31" v="목재 크러셔로 통나무를 분쇄하여 나무 부스러기로 판매할 수도 있습니다." h="2161456e" />
+    <e k="hint_32" v="차량을 수리하려면 상점이나 자기 소유의 차량 작업장으로 가져가십시오." h="2722358f" />
+    <e k="hint_34" v="목화를 수확하려면 자주식 목화 수확기를 사용해야 합니다. 수확기 탱크가 가득 차면 커다란 목화 베일을 내려야 합니다. 판매소로 운반하려면 특수 트레일러가 필요합니다." h="75880a62" />
+    <e k="hotspot_rentTrain" v="기차 임차" h="0e94dc9d" />
+    <e k="info_baleCounter" v="베일 카운터" h="4ddf62a4" />
+    <e k="info_baleloaderLoweringTable" v="받침대를 내리는 중입니다. 잠시 기다리십시오..." h="622d84cc" />
+    <e k="info_baleloaderTiltingTable" v="받침대를 기울이는 중입니다. 잠시 기다리십시오..." h="340a40ec" />
+    <e k="info_balestackerLoweringTable" v="프레임을 올리는 중입니다. 잠시 기다리십시오..." h="7fe1fcd8" />
+    <e k="info_balestackerTiltingTable" v="프레임을 내리는 중입니다. 잠시 기다리십시오..." h="009f7286" />
+    <e k="info_bunkerSiloNotEmpty" v="벙커 저장탑이 비어 있지 않습니다. 안에 든 내용물도 모두 제거됩니다." h="2b3ca605" />
+    <e k="info_emptyTankToContinueThreshing" v="작업을 계속하려면 탱크를 비우십시오" h="6b62f854" />
+    <e k="info_fillLevel" v="적재량" h="5560de5c" />
+    <e k="info_husbandryMissingLiquidManureTank" v="근처에 슬러리 저장조 없음" h="1798cb26" />
+    <e k="info_husbandryNotEmpty" v="이 건물 안에 동물이 있습니다. 먼저 동물을 판매하십시오!" h="63f16bac" />
+    <e k="info_manureFillLevel" v="거름 적재량" h="5aecad70" />
+    <e k="info_objectStorageNotEmpty" v="창고가 비어 있지 않습니다. 보관 중인 물품이 모두 사라집니다!" h="671b6592" />
+    <e k="info_slidingFloorBackward" v="슬라이딩 플로어 뒤로" h="5c330d01" />
+    <e k="info_slidingFloorForward" v="슬라이딩 플로어 앞으로" h="5d2168c7" />
+    <e k="info_tankNotEmpty" v="탱크가 비어 있지 않습니다. 다음 물품도 판매됩니다:" h="22a2e6e6" />
+    <e k="info_tipSideBack" v="후방" h="03d197ab" />
+    <e k="info_tipSideBackGrainDoor" v="곡물 배출구" h="0844815b" />
+    <e k="info_tipSideStrawBlower" v="짚 송풍기" h="56094805" />
+    <e k="info_transmission_manualWithPowerShiftGroups" v="수동 + 파워 시프트" h="419d6e00" />
+    <e k="info_transmission_powerShift" v="파워 시프트" h="4e6ec3ab" />
+    <e k="info_waterFillLevel" v="물 적재량" h="0da74c14" />
+    <e k="infohud_bale" v="베일" h="03d19c40" />
+    <e k="infohud_beehive_noPalletLocationB" v="꿀을 받으려면 배치하십시오!" h="70daea61" />
+    <e k="infohud_damage" v="손상" h="756d4dda" />
+    <e k="infohud_fillLevel" v="적재량" h="34d32141" />
+    <e k="infohud_fillType" v="적재물 종류" h="17f80a64" />
+    <e k="infohud_mass" v="질량" h="054af58c" />
+    <e k="infohud_rentedBy" v="임차인:" h="6b4a793f" />
+    <e k="infohud_storageIsEmpty" v="창고가 비어 있습니다" h="7451915f" />
+    <e k="ingameNotification_bunkerSiloCovered" v="벙커 저장탑이 덮였습니다." h="547c8ceb" />
+    <e k="ingameNotification_bunkerSiloOpened" v="벙커 저장탑이 열렸습니다." h="04f774ba" />
+    <e k="ingameNotification_deletedEmptySprayCan" v="빈 스프레이 통이 폐기되었습니다." h="498b7642" />
+    <e k="ingameNotification_playerSuperStrengthActivated" v="놀이기구를 타며 느낀 아드레날린과 흥분으로 괴력이 생겼습니다!" h="33985918" />
+    <e k="ingameNotification_wrongMissionTreeCutDown" v="안 돼! 나무를 잘못 베었습니다. 나무 표시를 잘 확인하십시오!" h="6388b4ed" />
+    <e k="inputCategory_VEHICLE_FRONTLOADER" v="차량 - 프론트 로더" h="289756d2" />
+    <e k="inputCategory_VEHICLE_GEARBOX" v="차량 - 변속기" h="281e24e0" />
+    <e k="input_ACTIVATE_OBJECT" v="물체 사용" h="51f00da3" />
+    <e k="input_ANIMAL_PET" v="쓰다듬기" h="01054630" />
+    <e k="input_AXIS_CRANE_SUPPORT_1" v="크레인 지지대" h="74e53b1b" />
+    <e k="input_AXIS_CRANE_SUPPORT_2" v="크레인 지지대 2" h="1a8772bd" />
+    <e k="input_AXIS_FRONTLOADER_TOOL3_1" v="도구 축 3 높이기" h="5aefa8ba" />
+    <e k="input_AXIS_FRONTLOADER_TOOL3_2" v="도구 축 3 낮추기" h="7e99f7d2" />
+    <e k="input_AXIS_FRONTLOADER_TOOL4_1" v="도구 축 4 높이기" h="5aefa8bb" />
+    <e k="input_AXIS_FRONTLOADER_TOOL4_2" v="도구 축 4 낮추기" h="7e99f7d3" />
+    <e k="input_AXIS_FRONTLOADER_TOOL5_1" v="도구 축 5 높이기" h="5aefa8bc" />
+    <e k="input_AXIS_FRONTLOADER_TOOL5_2" v="도구 축 5 낮추기" h="7e99f7d4" />
+    <e k="input_AXIS_HYDRAULICATTACHER1_1" v="유압 연결부 올리기" h="507ea8a6" />
+    <e k="input_AXIS_HYDRAULICATTACHER1_2" v="유압 연결부 내리기" h="3aac51d0" />
+    <e k="input_AXIS_HYDRAULICATTACHER2_1" v="유압 연결부 올리기 2" h="7a979a8f" />
+    <e k="input_AXIS_HYDRAULICATTACHER2_2" v="유압 연결부 내리기 2" h="29787f9c" />
+    <e k="input_AXIS_PHOTOMODE_CHANGE_SUN_PITCH_1" v="태양 높이" h="46020153" />
+    <e k="input_AXIS_PHOTOMODE_CHANGE_SUN_PITCH_2" v="태양 높이" h="46020153" />
+    <e k="input_AXIS_PHOTOMODE_CHANGE_SUN_ROTATE_1" v="태양 회전" h="2b61ff53" />
+    <e k="input_AXIS_PHOTOMODE_CHANGE_SUN_ROTATE_2" v="태양 회전" h="2b61ff53" />
+    <e k="input_AXIS_RUN" v="달리기" h="0105d46c" />
+    <e k="input_AXIS_RUN_1" v="달리기" h="0105d46c" />
+    <e k="input_BALE_COUNTER_RESET" v="베일 카운터 재설정" h="0adf872a" />
+    <e k="input_BALE_WRAPPER_DROP_CUSTOM" v="원형 베일 세워 내리기" h="58f06079" />
+    <e k="input_CONSTRUCTION_ACTION_PRIMARY" v="내려놓기" h="584557ee" />
+    <e k="input_CONSTRUCTION_DESTRUCT_TOGGLE" v="철거 전환" h="724c3d0e" />
+    <e k="input_CONSTRUCTION_LEVEL" v="평탄화" h="2457e921" />
+    <e k="input_CONSTRUCTION_PAINT" v="칠하기" h="6a022927" />
+    <e k="input_CONSTRUCTION_SOFTEN" v="부드럽게" h="27028c86" />
+    <e k="input_CRABSTEERING_ALLWHEEL" v="크랩 조종(전체)" h="11ae95fe" />
+    <e k="input_DECREASE_TIMESCALE" v="배속 감소" h="4d5c99b0" />
+    <e k="input_DOUBLED_SPRAY_AMOUNT" v="분무기 살포량 변경" h="57d88954" />
+    <e k="input_FOLDABLESTEPS_NEXT_NEG" v="이전 접기 상태 전환" h="07fb4838" />
+    <e k="input_FOLDABLESTEPS_NEXT_POS" v="다음 접기 상태 전환" h="000260cd" />
+    <e k="input_FOLD_STATE_NEXT_NEG" v="이전 접기 상태 전환" h="07fb4838" />
+    <e k="input_FOLD_STATE_NEXT_POS" v="다음 접기 상태 전환" h="000260cd" />
+    <e k="input_GOEWEIL_BALE_COUNTER_RESET" v="베일 카운터 재설정" h="0adf872a" />
+    <e k="input_HANDS_LEVEL" v="수평 맞추기" h="44b28b26" />
+    <e k="input_INCREASE_TIMESCALE" v="배속 증가" h="3ccc5032" />
+    <e k="input_MENU_MAP_AXIS_LEFT_RIGHT_1" v="메뉴 맵 오른쪽" h="1eb58eb7" />
+    <e k="input_MENU_MAP_AXIS_LEFT_RIGHT_2" v="메뉴 맵 왼쪽" h="13f2077d" />
+    <e k="input_PALLET_FILLER_BUY_PALLETS" v="새 상자 구매" h="0e0a8130" />
+    <e k="input_PICKUP_DROP_OBJECT" v="물체 집기/놓기" h="3dc04a17" />
+    <e k="input_RESET_HEAD_TRACKING" v="헤드 트래킹 재설정" h="051eb2d8" />
+    <e k="input_SHIFT_GEAR_DOWN" v="기어 내리기" h="32e0f856" />
+    <e k="input_SHIFT_GEAR_UP" v="기어 올리기" h="7ef94a18" />
+    <e k="input_SHIFT_GROUP_DOWN" v="기어 그룹 내리기" h="026cfd5e" />
+    <e k="input_SHIFT_GROUP_UP" v="기어 그룹 올리기" h="272a91fc" />
+    <e k="input_SHOPLIST_DOWN" v="상점 목록 아래로 스크롤" h="3da4f515" />
+    <e k="input_SHOPLIST_END" v="상점 목록 끝으로 이동" h="73295298" />
+    <e k="input_SHOPLIST_HOME" v="상점 목록 시작으로 이동" h="34121025" />
+    <e k="input_SHOPLIST_UP" v="상점 목록 위로 스크롤" h="26c15f00" />
+    <e k="input_TOGGLE_AI_STEERING_LINES" v="조향선 표시 전환" h="01ec0b13" />
+    <e k="input_TOGGLE_BALE_TYPES" v="베일 크기 변경" h="0884e68f" />
+    <e k="input_TOGGLE_BEACON_LIGHTS" v="경광등 전환" h="5a0674d9" />
+    <e k="input_TOGGLE_CHOPPER" v="짚 줄 배출/절단 전환" h="787d5a76" />
+    <e k="input_TOGGLE_CUT_LENGTH_BACK" v="절단 길이 변경 (역방향)" h="07441b9d" />
+    <e k="input_TOGGLE_HIGH_BEAM_LIGHT" v="상향등" h="1badfe03" />
+    <e k="input_TOGGLE_LIGHT_FRONT" v="전방 조명" h="1b73949d" />
+    <e k="input_TOGGLE_TIPSIDE" v="하역 방향" h="44b5f90f" />
+    <e k="input_TOGGLE_TIPSTATE" v="하역" h="041b74b8" />
+    <e k="input_TOGGLE_TIPSTATE_GROUND" v="땅에 하역" h="6170c7bb" />
+    <e k="input_TOGGLE_TURNLIGHT_HAZARD" v="비상등" h="1433d749" />
+    <e k="input_TOGGLE_WOOD_HARVESTER_TILT" v="하베스터 헤드 틸트" h="57e946ef" />
+    <e k="input_TOGGLE_WORK_LIGHT_BACK" v="후방 작업등" h="234c98f1" />
+    <e k="input_TOGGLE_WORK_LIGHT_FRONT" v="전방 작업등" h="58b36a6f" />
+    <e k="input_TREE_AUTOMATIC_ALIGN" v="하베스터를 대상 나무에 정렬" h="570e0f8a" />
+    <e k="input_WINCH_ATTACH" v="윈치에 나무 걸기" h="56e64566" />
+    <e k="input_WOOD_HARVESTER_DROP" v="하베스터에서 나무 떨어뜨리기" h="0e0216b3" />
+    <e k="input_YARDER_ATTACH" v="집재기에 나무 걸기" h="3231ff7d" />
+    <e k="input_YARDER_CARRIAGE_ATTACH" v="집재기에 나무 걸기" h="3231ff7d" />
+    <e k="input_YARDER_SETUP_ROPE" v="집재기 로프 설치" h="198494b1" />
+    <e k="input_photoMode_TAKE_SCREENSHOT" v="스크린샷 찍기" h="3fbd41e9" />
+    <e k="introduction_continueTextTouch" v="계속하려면 아무 곳이나 탭" h="1748a573" />
+    <e k="introduction_tourFillLevelSeedType" v="선택한 작물 종류와 적재량" h="1e1bc89f" />
+    <e k="introduction_tourVehicleSelection" v="현재 조종 중인 차량" h="3e3b07b2" />
+    <e k="mapDE_description" v="Erlengrat에 오신 것을 환영합니다!" h="7c845697" />
+    <e k="mapDE_title" v="Erlengrat" h="0ed89a4f" />
+    <e k="message_greatDemandStartText" v="잠시 동안 %s에서 %s을(를) 훨씬 높은 가격에 사들입니다. 이 제안은 앞으로 %d시간 동안 유지됩니다." h="150bcc68" />
+    <e k="message_greatDemandStartTitle" v="%s에서 %s 수요 급증" h="411fdc6a" />
+    <e k="message_newDlcsRestartText" v="새로 설치한 다운로드 콘텐츠를 사용하려면 메인 메뉴에서 현재 진행 상황을 다시 불러오십시오." h="2dbe4c46" />
+    <e k="message_noSpaceForFillType" v="이 물품을 보관할 공간이 더 이상 없습니다." h="5521cada" />
+    <e k="message_selectedSiloIsEmpty" v="선택한 저장탑이 비어 있습니다!" h="559828d7" />
+    <e k="message_unlockExtraContent" v="추가 콘텐츠 '%{contentName}s'을(를) 잠금 해제했습니다!" h="547e312d" />
+    <e k="modHub_addedToDownloads" v="'%s' 모드가 다운로드 목록에 추가되었습니다!" h="3134384f" />
+    <e k="modHub_authorDisclaimer_ps" v="표시된 작성자는 PlayStation™Network 계정에 해당하지 않습니다." h="78e5ea07" />
+    <e k="modHub_installFailed" v="설치하지 못했습니다. 다시 시도하십시오!" h="354b75f9" />
+    <e k="modHub_installNoFreeSpace" v="디스크 공간이 부족하여 모드를 설치할 수 없습니다.{{NL}}필요한 공간: %u KB{{NL}}사용 가능한 공간: %u KB{{NL}}계속하려면 다른 모드를 제거하십시오." h="4e46938f" />
+    <e k="modHub_installSuccessful" v="'%s' 모드가 성공적으로 설치되었습니다!" h="59ace844" />
+    <e k="modHub_invalid_key" v="이 키에 해당하는 아이템이 없습니다!" h="4c69ff63" />
+    <e k="modHub_invalid_key_format" v="잘못된 키 형식입니다!" h="1b2c6b97" />
+    <e k="modHub_mapsEU" v="유럽 맵" h="5385cb14" />
+    <e k="modHub_mapsNA" v="북미 맵" h="05f47be3" />
+    <e k="modHub_mapsOthers" v="기타/판타지 맵" h="0722a761" />
+    <e k="modHub_mapsSA" v="남미 맵" h="1ea93753" />
+    <e k="modHub_noExtraContent" v="아직 잠금 해제된 것이 없습니다. 추가 콘텐츠 키를 입력하여 새 아이템을 잠금 해제하십시오!" h="581d3347" />
+    <e k="modHub_noMods" v="이용할 수 있는 콘텐츠가 없습니다!" h="4f64882a" />
+    <e k="modHub_testing" v="테스트 중" h="3c08e93c" />
+    <e k="modHub_uninstallModFailed" v="모드를 제거할 수 없습니다. 다시 시도하십시오!" h="099ee3d8" />
+    <e k="modHub_unlock" v="새 아이템 잠금 해제" h="184b5aa2" />
+    <e k="modHub_unlock_key" v="추가 콘텐츠 키를 입력하십시오" h="066cd378" />
+    <e k="object_farmhouse" v="농가" h="35e5f8a8" />
+    <e k="presence_idle" v="메뉴에서" h="21edaaa9" />
+    <e k="savegameDownload_done" v="저장 데이터를 다운로드했습니다." h="1a5c9b53" />
+    <e k="savegameDownload_savegameNotFound" v="저장 데이터를 찾을 수 없습니다!" h="20ab3102" />
+    <e k="savegameDownload_unknownError" v="저장 데이터를 다운로드할 수 없습니다!" h="4a2e0e87" />
+    <e k="savegameMigration_invalidSavegameIndex" v="저장 데이터가 없습니다. 먼저 저장 데이터를 선택하십시오!" h="403ad7c9" />
+    <e k="savegameMigration_migrationInProgressPleaseWait" v="저장 데이터 이전 중입니다. 잠시 기다려 주십시오." h="52094937" />
+    <e k="savegameMigration_unknownError" v="저장 데이터 전송 중 오류가 발생했습니다. 다시 시도해 주십시오." h="1182fb74" />
+    <e k="savegameUpload_done" v="저장 데이터를 업로드했습니다." h="5fa76e4a" />
+    <e k="savegameUpload_enterUploadKey" v="개인 지원 키 입력" h="325878e9" />
+    <e k="savegameUpload_invalidSavegameIndex" v="저장 데이터가 없습니다. 먼저 저장 데이터를 선택하십시오!" h="403ad7c9" />
+    <e k="savegameUpload_loadFailed" v="저장 데이터를 업로드할 수 없습니다. 다시 시도해 주십시오." h="2939f971" />
+    <e k="savegameUpload_unknownError" v="저장 데이터를 업로드하는 중에 오류가 발생했습니다. 다시 시도해 주십시오." h="4eeea17e" />
+    <e k="savegameUpload_uploadInProgressPleaseWait" v="저장 데이터를 업로드하는 중입니다. 잠시 기다려 주십시오..." h="4f3beb65" />
+    <e k="setting_LODDistance" v="LOD 거리" h="24418a22" />
+    <e k="setting_adaptiveVSync" v="적응형 수직 동기화" h="60884526" />
+    <e k="setting_applyingChanges" v="변경 사항 적용 중..." h="7ad93b04" />
+    <e k="setting_automaticMotorStart" v="엔진 자동 시동" h="0ccecfa9" />
+    <e k="setting_easyArmControl" v="간편 암 조작" h="249b2183" />
+    <e k="setting_fixedSeasonalVisuals" v="표시 월 고정" h="2f17e3f0" />
+    <e k="setting_foliageDrawDistance" v="초목 표시 거리" h="5b1275e6" />
+    <e k="setting_foliageLODDistance" v="초목 LOD 거리" h="22c04b1d" />
+    <e k="setting_foliageShadows" v="초목 그림자" h="6d323a58" />
+    <e k="setting_fuelUsageDefault" v="보통" h="3f06dee4" />
+    <e k="setting_gearShiftMode" v="변속 모드" h="5807341e" />
+    <e k="setting_gyroscopeSteering_switch" v="가속도계 조종" h="391e566c" />
+    <e k="setting_hardwareProfileSelect" v="하드웨어 프로필을 선택하십시오" h="7fd9df27" />
+    <e k="setting_hdrContrast" v="HDR 대비" h="79a17ced" />
+    <e k="setting_helperRefill" v="AI 작업자 보충" h="2f1e0d67" />
+    <e k="setting_helperRefillFertilizer" v="AI 작업자 보충 - 비료" h="6f2c0f86" />
+    <e k="setting_helperRefillFuel" v="AI 작업자 보충 - 연료" h="0638e5fb" />
+    <e k="setting_helperRefillManure" v="AI 작업자 보충 - 거름" h="1ef3ece0" />
+    <e k="setting_helperRefillSeed" v="AI 작업자 보충 - 씨앗" h="112b1441" />
+    <e k="setting_helperRefillSlurry" v="AI 작업자 보충 - 슬러리" h="4613ddb0" />
+    <e k="setting_hints" v="힌트" h="5ea835b4" />
+    <e k="setting_hudSpeedGauge" v="속도계 표시 값" h="0ac4d97b" />
+    <e k="setting_maxNumTireTracks" v="최대 타이어 자국" h="2f280f3e" />
+    <e k="setting_objectDrawDistance" v="물체 표시 거리" h="1daad329" />
+    <e k="setting_photoMode_dayTime" v="시각: %s" h="46bafcb8" />
+    <e k="setting_photoMode_dof" v="피사계 심도" h="43591dd0" />
+    <e k="setting_photoMode_groundFogDensity" v="농도" h="18f7be89" />
+    <e k="setting_photoMode_heightFog" v="고도 안개" h="5875c1da" />
+    <e k="setting_photoMode_heightFogDensity" v="농도" h="18f7be89" />
+    <e k="setting_photoMode_snowHeight" v="적설량" h="096338ce" />
+    <e k="setting_photoMode_snowShader" v="눈 효과" h="22de2834" />
+    <e k="setting_photoMode_wetnessScale" v="지면 습기" h="06fc80dc" />
+    <e k="setting_plannedDaysPerPeriod" v="월별 일수" h="506193c9" />
+    <e k="setting_plantGrowthRate" v="식물 성장" h="140f5cb6" />
+    <e k="setting_plantGrowthRateState1" v="느림" h="061ba689" />
+    <e k="setting_plantGrowthRateState3" v="빠름" h="045ad650" />
+    <e k="setting_plantWithering" v="식물 시듦" h="5e1d75c8" />
+    <e k="setting_plowingRequired" v="주기적 쟁기질 필요" h="07d91163" />
+    <e k="setting_realBeaconLightBrightness" v="경광등 밝기" h="176b4ef9" />
+    <e k="setting_realBeaconLights" v="사실적인 경광등" h="4261cbf6" />
+    <e k="setting_shadingRateQuality" v="셰이딩 비율" h="09ec50eb" />
+    <e k="setting_steeringBackSpeed" v="조종 복귀 속도" h="0cdb0911" />
+    <e k="setting_stonesEnabled" v="돌" h="5d7c7704" />
+    <e k="setting_terrainLODDistance" v="지형 LOD 거리" h="16dbf3a6" />
+    <e k="setting_timeScale" v="배속" h="0422fbc9" />
+    <e k="setting_trailerLoss" v="트레일러 적재물 유실" h="2a1ad73e" />
+    <e k="setting_valar" v="화면 공간 셰이딩 비율" h="7cff16a8" />
+    <e k="setting_voiceInputSensitivity" v="음성 입력 감도" h="4cf65cdd" />
+    <e k="setting_volumeNoFocus" v="창 비활성 시 게임 볼륨" h="2d8fca1b" />
+    <e k="setting_volumetricFogQuality" v="볼류메트릭 포그 품질" h="4673211f" />
+    <e k="setting_woodHarvesterAutoCut" v="하베스터 자동 절단" h="018e1282" />
+    <e k="shopItem_bhp" v="바이오매스 난방 시설" h="5c1b29c8" />
+    <e k="shopItem_cerealFactory" v="시리얼 공장" h="2969a83c" />
+    <e k="shopItem_comfortSupportWheel" v="편의 서포트 휠" h="3f42f502" />
+    <e k="shopItem_dairy" v="유제품 공장" h="175d9f6b" />
+    <e k="shopItem_decoPlant" v="장식 식물" h="3f15e97e" />
+    <e k="shopItem_electricityGernerator01" v="소형 태양광 패널" h="31ae1402" />
+    <e k="shopItem_electricityGernerator02" v="대형 태양광 패널" h="680568f0" />
+    <e k="shopItem_electricityGernerator04" v="소형 풍력 발전기" h="47e6c15a" />
+    <e k="shopItem_electricityGernerator05" v="대형 풍력 발전기" h="3f491318" />
+    <e k="shopItem_fenceAS_03" v="아시아 판자 울타리" h="4238438f" />
+    <e k="shopItem_fenceAS_06" v="판자 벽" h="452cf944" />
+    <e k="shopItem_fenceAS_08Gate" v="다크 레드 벽돌 기둥이 있는 문" h="3761bf10" />
+    <e k="shopItem_fenceEU_01Gate02" v="와이드 풍화 정원 문" h="5700269f" />
+    <e k="shopItem_fenceEU_02Gate02" v="와이드 틸 금속 문" h="113cee49" />
+    <e k="shopItem_fenceEU_03Gate02" v="와이드 레드 금속 문" h="7e7f2ab7" />
+    <e k="shopItem_fenceEU_04Gate02" v="벽돌 기둥이 있는 와이드 금속 문" h="02a3043b" />
+    <e k="shopItem_fenceEU_05Gate02" v="돌기둥이 있는 와이드 일몰 문" h="722e62c8" />
+    <e k="shopItem_fenceEU_06Gate02" v="캡 포스트가 있는 와이드 문" h="0dde8bfe" />
+    <e k="shopItem_fenceEU_07Gate02" v="와이드 화이트 정원 문" h="6a698014" />
+    <e k="shopItem_fenceEU_08Gate02" v="와이드 맨션 문" h="67322a20" />
+    <e k="shopItem_fenceEU_09Gate02" v="와이드 3-레일 문" h="32ccee2b" />
+    <e k="shopItem_fenceEU_10Gate02" v="와이드 2-레일 문" h="4a003c50" />
+    <e k="shopItem_fenceEU_11Gate02" v="와이드 단순한 금속 문" h="282fba13" />
+    <e k="shopItem_fenceEU_12Gate02" v="와이드 블루 문" h="0f4661be" />
+    <e k="shopItem_fenceEU_13" v="로열 울타리" h="69b871b1" />
+    <e k="shopItem_fenceEU_13Gate01" v="로열 문" h="154f4591" />
+    <e k="shopItem_fenceEU_13Gate02" v="와이드 로열 문" h="12106903" />
+    <e k="shopItem_fenceEU_14Gate02" v="장식품이 있는 낡은 와이드 문" h="7b117af1" />
+    <e k="shopItem_fenceEU_15Gate02" v="와이드 고귀한 일몰 문" h="3d2304e0" />
+    <e k="shopItem_fenceEU_16" v="잔가지 울타리" h="5b361bde" />
+    <e k="shopItem_fenceEU_16Gate01" v="잔가지 문" h="3885584b" />
+    <e k="shopItem_fenceEU_16Gate02" v="와이드 잔가지 문" h="3950e973" />
+    <e k="shopItem_fenceEU_17Gate02" v="와이드 그린 문" h="79e3c01d" />
+    <e k="shopItem_fenceEU_18Gate02" v="와이드 그레이-그린 문" h="05746e88" />
+    <e k="shopItem_fenceEU_19Gate02" v="와이드 일출 문" h="253a3c70" />
+    <e k="shopItem_fenceEU_20" v="세월에 바랜 브라운 벽" h="25a7955d" />
+    <e k="shopItem_fenceEU_20Gate01" v="세월에 바랜 브라운 문" h="2382bfbe" />
+    <e k="shopItem_fenceEU_20Gate02" v="세월에 바랜 와이드 브라운 문" h="254ebc15" />
+    <e k="shopItem_fenceUS_01" v="미국 교외 울타리" h="6e15e329" />
+    <e k="shopItem_fenceUS_01Gate01" v="와이드 미국 교외 울타리 문" h="5ff1b0f3" />
+    <e k="shopItem_fenceUS_01Gate02" v="미국 교외 도어" h="39411ce4" />
+    <e k="shopItem_fenceUS_01Gate03" v="미국 교외 문" h="39a45db9" />
+    <e k="shopItem_fenceUS_01Gate04" v="미국 교외 아치형 문" h="170d24ed" />
+    <e k="shopItem_fenceUS_03" v="골함석 울타리" h="04eb8ea2" />
+    <e k="shopItem_fenceUS_03Gate01" v="골함석 도어" h="4eecc25a" />
+    <e k="shopItem_fenceUS_03Gate02" v="골함석 문" h="4f50032f" />
+    <e k="shopItem_fenceUS_03Gate03" v="와이드 골함석 문" h="53c38f13" />
+    <e k="shopItem_fenceUS_04" v="강철 가림 울타리" h="43d574e7" />
+    <e k="shopItem_fenceUS_04Gate" v="강철 가림 문" h="5c7ebe97" />
+    <e k="shopItem_fenceUS_06" v="높은 피켓 울타리" h="22532850" />
+    <e k="shopItem_fenceUS_06Gate01" v="높은 피켓 도어" h="7c188ada" />
+    <e k="shopItem_fenceUS_06Gate02" v="높은 피켓 문" h="7c7bcbaf" />
+    <e k="shopItem_fenceUS_08Gate04" v="와이드 프레임 메시 문" h="7f8193d4" />
+    <e k="shopItem_fenceUS_09" v="미국 목장 울타리" h="57e1f54b" />
+    <e k="shopItem_fenceUS_09Gate01" v="미국 목장 도어" h="6fcd6b32" />
+    <e k="shopItem_fenceUS_09Gate02" v="미국 목장 아치웨이 문" h="781d6ad5" />
+    <e k="shopItem_fenceUS_09Gate03" v="미국 목장 아치웨이 트라이앵글 문" h="32347d85" />
+    <e k="shopItem_fenceUS_09Gate04" v="와이드 미국 목장 문" h="55d85660" />
+    <e k="shopItem_fenceUS_10Gate04" v="레드 금속 높은 문" h="189feb8a" />
+    <e k="shopItem_fenceUS_10Gate05" v="와이드 레드 금속 높은 문" h="22dcdd04" />
+    <e k="shopItem_fenceUS_10Gate06" v="와이드 레드 금속 문" h="7e7f2ab7" />
+    <e k="shopItem_fenceUS_11Gate03" v="와이드 정원 문" h="0e3f190c" />
+    <e k="shopItem_fenceUS_12Gate03" v="와이드 브라운 금속 문" h="26f8b186" />
+    <e k="shopItem_fenceUS_13Gate04" v="와이드 목재 레일 문" h="3d2554fb" />
+    <e k="shopItem_flieglSemitrailer" v="저상 트레일러" h="40bc9018" />
+    <e k="shopItem_frontloaderBaleFork" v="베일 스파이크" h="16910cf8" />
+    <e k="shopItem_frontloaderBaleGrab" v="베일 핸들러" h="17e75e05" />
+    <e k="shopItem_frontloaderLogFork" v="통나무 포크" h="7ad279c2" />
+    <e k="shopItem_frontloaderManureGrabFork" v="그래플 포크" h="1ed6da01" />
+    <e k="shopItem_frontloaderRoundBaleFork" v="원형 베일 포크" h="7f28cf72" />
+    <e k="shopItem_frontloaderShovel" v="범용 버킷" h="052ca4ef" />
+    <e k="shopItem_greenHousesSaplings" v="볏모용 온실" h="0a17867e" />
+    <e k="shopItem_heatingPlant" v="난방 시설" h="49db9ee2" />
+    <e k="shopItem_kroneCutterTrailer" v="헤더 트레일러" h="68cd0c34" />
+    <e k="shopItem_picnicShelter01" v="사각형 피크닉 쉼터" h="7be2835d" />
+    <e k="shopItem_picnicShelter02" v="원형 피크닉 쉼터" h="322b082f" />
+    <e k="shopItem_playgroundMakerHall" v="놀이터 제작소" h="4051a1a8" />
+    <e k="shopItem_ropeMaker" v="로프 공방" h="7c8cd7f7" />
+    <e k="shopItem_shack02" v="고상식 판잣집" h="01af5b09" />
+    <e k="shopItem_skidSteerBaleFork" v="베일 스피어" h="168ffbc3" />
+    <e k="shopItem_skidSteerLogFork" v="덤불·통나무 포크" h="77fa37b5" />
+    <e k="shopItem_skidSteerShovel" v="범용 버킷" h="052ca4ef" />
+    <e k="shopItem_streetLightN" v="도로 조명 %s" h="166b1265" />
+    <e k="shopItem_telehandlerBaleFork" v="베일 포크" h="70bffdbd" />
+    <e k="shopItem_telehandlerBaleGrab" v="포장 베일 핸들러" h="34f5ba52" />
+    <e k="shopItem_telehandlerLogFork" v="통나무 포크" h="7ad279c2" />
+    <e k="shopItem_telehandlerShovel" v="범용 버킷" h="052ca4ef" />
+    <e k="shopItem_timberTrailerSemi" v="목재 세미트레일러" h="19076c88" />
+    <e k="shopItem_wagonBuilder" v="왜건 공방" h="7e764b59" />
+    <e k="shopItem_waterTower" v="물 탱크" h="1e3829f3" />
+    <e k="shopItem_weatherStation" v="기상 관측소" h="7b3e5bde" />
+    <e k="shopItem_wheelLoaderLogFork" v="통나무 포크" h="7ad279c2" />
+    <e k="shopItem_wheelLoaderShovel" v="범용 버킷" h="052ca4ef" />
+    <e k="shopItem_windTurbine" v="풍력 발전기" h="77603a2d" />
+    <e k="shop_doYouWantToBuyAnimals" v="%{animalType}s %{numAnimals}d마리를 %{price}s에 구매하시겠습니까?" h="6d9a1f6d" />
+    <e k="shop_doYouWantToBuyAnimalsSingular" v="%{animalType}s %{numAnimals}d마리를 %{price}s에 구매하시겠습니까?" h="540652b1" />
+    <e k="shop_doYouWantToLease" v="%s에 임차하시겠습니까?" h="4a6b0bb8" />
+    <e k="shop_doYouWantToMoveAnimalsToFarm" v="%{animalType}s %{numAnimals}d마리를 축사로 옮기시겠습니까?" h="6f047bb4" />
+    <e k="shop_doYouWantToMoveAnimalsToFarmSingular" v="%{animalType}s %{numAnimals}d마리를 축사로 옮기시겠습니까?" h="5b99884d" />
+    <e k="shop_doYouWantToMoveAnimalsToSpawnPlace" v="이 동물(%s)을 내리시겠습니까?" h="7db22b72" />
+    <e k="shop_doYouWantToMoveAnimalsToSpawnPlaceSingular" v="이 동물(%s)을 내리시겠습니까?" h="4fa85b9a" />
+    <e k="shop_doYouWantToMoveAnimalsToTrailer" v="%{animalType}s %{numAnimals}d마리를 트레일러로 옮기시겠습니까?" h="5c032c8c" />
+    <e k="shop_doYouWantToMoveAnimalsToTrailerSingular" v="%{animalType}s %{numAnimals}d마리를 트레일러로 옮기시겠습니까?" h="2e852c98" />
+    <e k="shop_doYouWantToSellAnimals" v="%{animalType}s %{numAnimals}d마리를 %{price}s에 판매하시겠습니까?" h="5be51c36" />
+    <e k="shop_doYouWantToSellAnimalsSingular" v="%{animalType}s %{numAnimals}d마리를 %{price}s에 판매하시겠습니까?" h="2402fcaf" />
+    <e k="shop_fruitTypes" v="작물 종류" h="673a9325" />
+    <e k="shop_initialCosts" v="초기 임차 비용" h="163f362e" />
+    <e k="shop_leasedItems" v="임차한 아이템" h="33e13c80" />
+    <e k="shop_maxPower" v="최대 출력:" h="19dbe481" />
+    <e k="shop_messageAllPalletsBought" v="구매한 팔레트를 홀에서 수령할 수 있습니다." h="182acc16" />
+    <e k="shop_messageAnimalCouldNotBeUnloaded" v="동물을 내릴 수 없습니다!" h="106648d3" />
+    <e k="shop_messageAnimalDoesNotSupportUnloading" v="내릴 수 없는 동물 유형입니다!" h="0dbdf338" />
+    <e k="shop_messageAnimalGlobalLimitReached" v="축사에 충분한 공간이 없습니다!" h="5532abc2" />
+    <e k="shop_messageAnimalRideableLimitReached" v="헛간 밖에 있는 말이 너무 많습니다. 먼저 말을 헛간으로 데려가십시오!" h="2a356c33" />
+    <e k="shop_messageAnimalTypeNotSupportedByTrailer" v="이 트레일러가 지원하지 않는 동물 유형입니다!" h="7858e31c" />
+    <e k="shop_messageBoughtAnimals" v="동물을 구매했습니다." h="0538df45" />
+    <e k="shop_messageBoughtHandToolInventory" v="도구를 구매해 창고에 보관했습니다. '수공구' 메뉴에서 꺼낼 수 있습니다." h="528fcc13" />
+    <e k="shop_messageBuyingAnimals" v="동물을 구매하는 중입니다..." h="72847e52" />
+    <e k="shop_messageCannotSellFarmlandWithPlaceables" v="배치품이 있는 토지는 판매할 수 없습니다. 먼저 배치품을 판매해야 합니다." h="33f80f37" />
+    <e k="shop_messageConfigurationChangeFailed" v="구성을 변경할 수 없습니다!" h="2883b5e1" />
+    <e k="shop_messageConfigurationChanged" v="구성이 변경되었습니다." h="66ef63e1" />
+    <e k="shop_messageFailedToLoadObject" v="물체를 구매할 수 없습니다. 다시 시도하십시오." h="1d963a35" />
+    <e k="shop_messageFailedToLoadVehicle" v="차량/도구를 구매할 수 없습니다. 다시 시도하십시오." h="36f59797" />
+    <e k="shop_messageFailedToReturnLastVehicleText" v="마지막 남은 차량은 반납할 수 없습니다." h="49343b36" />
+    <e k="shop_messageFailedToReturnVehicle" v="반납 실패! 나중에 다시 시도하십시오." h="32e9d7fe" />
+    <e k="shop_messageFailedToSellLastVehicleText" v="마지막 남은 차량은 판매할 수 없습니다." h="6d90efe7" />
+    <e k="shop_messageFailedToSellObject" v="판매 실패! 나중에 다시 시도하십시오." h="63c7de05" />
+    <e k="shop_messageFailedToSellVehicle" v="판매 실패! 나중에 다시 시도하십시오." h="63c7de05" />
+    <e k="shop_messageGardenCenterPurchaseReady" v="상점에서 구매한 품목을 수령할 수 있습니다." h="71953401" />
+    <e k="shop_messageHusbandryBuyBarnFirst" v="먼저 축사를 구매해야 합니다." h="6988feec" />
+    <e k="shop_messageHusbandryDoesNotExist" v="축사가 더 이상 존재하지 않습니다!" h="0f58e5aa" />
+    <e k="shop_messageLeasingReady" v="임차한 차량을 상점에서 수령할 수 있습니다." h="7c1f253f" />
+    <e k="shop_messageLeasingVehicle" v="선택 항목을 임차하는 중입니다..." h="060b86af" />
+    <e k="shop_messageNoHusbandries" v="축사나 방목장이 없습니다! 동물을 구매하려면 먼저 축사를 배치하십시오!" h="652fe5fc" />
+    <e k="shop_messageNoPermissionToBuyVehicleText" v="현재 차량이나 도구를 구매하거나 임차할 권한이 없습니다." h="389a281e" />
+    <e k="shop_messageNoPermissionToReturnVehicleText" v="현재 차량이나 도구를 반납할 권한이 없습니다." h="4e58c7be" />
+    <e k="shop_messageNoPermissionToSellVehicleText" v="현재 차량이나 도구를 판매할 권한이 없습니다." h="6ef95e73" />
+    <e k="shop_messageNoSpace" v="배송 공간이 막혀 있습니다! 다른 물건을 치우십시오." h="4bad0b8f" />
+    <e k="shop_messageNotEnoughSlotsToBuy" v="모든 아이템 슬롯이 가득 찼습니다! 슬롯을 더 확보하려면 먼저 차량, 도구, 배치품 일부를 판매해야 합니다." h="2374a0f1" />
+    <e k="shop_messageNotEnoughSlotsToBuyAllPallets" v="남은 슬롯이 부족합니다." h="1d671ef6" />
+    <e k="shop_messageNotEnoughSpaceAnimals" v="축사에 충분한 공간이 없습니다!" h="31974c3c" />
+    <e k="shop_messageNotEnoughSpaceAnimalsArea" v="동물을 내릴 공간이 없습니다!" h="3bd7b71f" />
+    <e k="shop_messageNotEnoughSpaceToBuyAllPallets" v="홀에 공간이 부족합니다." h="6e633439" />
+    <e k="shop_messageSellingAnimals" v="동물을 판매하는 중입니다..." h="3aaa4a19" />
+    <e k="shop_messageSellingVehicle" v="차량/도구를 판매 중입니다..." h="1a8bd933" />
+    <e k="shop_messageSoldAnimals" v="동물을 판매했습니다." h="43052423" />
+    <e k="shop_messageSoldObject" v="물체를 판매했습니다." h="566a4152" />
+    <e k="shop_messageSoldVehicle" v="차량/도구를 판매했습니다." h="58980376" />
+    <e k="shop_messageTourItemsCannotBeSold" v="둘러보기 중에는 차량/도구를 판매할 수 없습니다. 먼저 둘러보기를 마치십시오." h="5299b5b2" />
+    <e k="shop_moveToFarm" v="축사로 이동" h="28047db2" />
+    <e k="shop_moveToSpawnPlace" v="동물 내리기" h="2cfd9172" />
+    <e k="shop_movedToFarm" v="동물을 축사로 옮겼습니다!" h="41a1265b" />
+    <e k="shop_movedToSpawnPlace" v="동물을 내렸습니다!" h="3e0032a3" />
+    <e k="shop_movedToTrailer" v="동물을 트레일러로 옮겼습니다!" h="52e71028" />
+    <e k="shop_neededPower" v="필요 출력:" h="6f5aac5d" />
+    <e k="shop_starterPackChaff" v="여물" h="06bde9d8" />
+    <e k="shop_starterPackRiceLongGrain" v="장립종 벼" h="2eb74070" />
+    <e k="shop_youLease" v="임차" h="3a52c890" />
+    <e k="station_alpine_cheesery" v="Erlengrat 치즈 공방" h="2374863c" />
+    <e k="station_fr_bakery" v="들판 화덕 빵집" h="741429a9" />
+    <e k="station_fr_bales" v="베일 판매" h="279bdf36" />
+    <e k="station_fr_cheeseDairy" v="프로마주 드 륀 치즈 공방" h="70f14dc5" />
+    <e k="station_liquidManure" v="슬러리" h="05a6aa45" />
+    <e k="station_us_grainSiloRailroad02" v="동쪽 곡물 조합" h="7995c242" />
+    <e k="station_us_trainStation" v="기차역" h="03841b98" />
+    <e k="station_waffleHutNorth" v="와플헛 북쪽" h="0dfe2491" />
+    <e k="station_waffleHutSouth" v="와플헛 남쪽" h="65c37d41" />
+    <e k="statistic_animalRequirementsHorse" v="말이 건강을 유지하려면 깨끗한 깔짚용 짚, 물, 사료(건초 50%, 귀리 50%)가 필요합니다. 체력을 높이려면 매일 말을 타고 나가야 합니다. 주기적으로 빗질하고 씻겨 주어야 합니다. 말의 가치는 체력, 건강, 청결도에 따라 결정됩니다." h="589e06e7" />
+    <e k="statistic_animalRequirementsMain" v="가축에게는 항상 물이 필요합니다! 또한 깨끗한 먹이 공간이 필요하며, 일부 가축은 짚도 필요합니다. 배합 사료의 구성은 다음과 같습니다:" h="5807de07" />
+    <e k="statistic_baleCount" v="생산한 베일" h="1cbf5528" />
+    <e k="statistic_chickenOwned" v="보유한 닭" h="47d0c89f" />
+    <e k="statistic_collectibles" v="모은 수집품" h="1c743fbe" />
+    <e k="statistic_cowOwned" v="소유한 소" h="162fdf1e" />
+    <e k="statistic_cutTreeCount" v="벌목한 나무" h="1eefaef6" />
+    <e k="statistic_fertilizedTime" v="비료 살포 시간" h="002017ff" />
+    <e k="statistic_fillType" v="작물 종류" h="6d3efb41" />
+    <e k="statistic_hectaresSeeded" v="파종 면적" h="6a97015d" />
+    <e k="statistic_hectaresThreshed" v="수확 면적" h="740f5cd4" />
+    <e k="statistic_hectaresWorked" v="작업 면적" h="72339cb2" />
+    <e k="statistic_liquidManureStorage" v="슬러리" h="76301ae3" />
+    <e k="statistic_missionCount" v="계약 완료" h="314d71ac" />
+    <e k="statistic_playTime" v="플레이 시간" h="3c8fbb36" />
+    <e k="statistic_plowedHectares" v="쟁기질한 헥타르" h="068962ef" />
+    <e k="statistic_plowedTime" v="쟁기질 시간" h="6685fa2d" />
+    <e k="statistic_sheepOwned" v="소유한 양" h="2210f5cf" />
+    <e k="statistic_sownHectares" v="파종한 헥타르" h="0b06d064" />
+    <e k="statistic_sownTime" v="파종 시간" h="45beda49" />
+    <e k="statistic_sprayedHectares" v="살포한 헥타르" h="69788e2d" />
+    <e k="statistic_sprayedTime" v="살포 시간" h="14ced9e8" />
+    <e k="statistic_storedBales" v="저장된 베일" h="7c8474f9" />
+    <e k="statistic_strawStorage" v="짚" h="21396349" />
+    <e k="statistic_threshedTime" v="수확 시간" h="1d7c19d4" />
+    <e k="statistic_yearsPlayed" v="플레이 연수" h="101e4df1" />
+    <e k="storeItem_americanElm_stage03" v="중간 아메리카느릅나무" h="755fab48" />
+    <e k="storeItem_apple_stage03" v="사과나무" h="39bb1f53" />
+    <e k="storeItem_armoirePallet" v="옷장 팔레트" h="7480ec1e" />
+    <e k="storeItem_aspen_stage03" v="작은 아스펜" h="493a4989" />
+    <e k="storeItem_aspen_stage04" v="중간 아스펜" h="2f8d3b2f" />
+    <e k="storeItem_aspen_stage05" v="큰 아스펜" h="38f0ffc0" />
+    <e k="storeItem_baleNet" v="원형 베일 그물망" h="138b2e28" />
+    <e k="storeItem_baleTwine" v="사각 베일 노끈" h="3cb61ea4" />
+    <e k="storeItem_barrelFactory" v="배럴 공장" h="70d80c6a" />
+    <e k="storeItem_barrelPallet" v="배럴 팔레트" h="4597e26b" />
+    <e k="storeItem_beech_stage03" v="작은 너도밤나무" h="58e4def1" />
+    <e k="storeItem_beech_stage04" v="중간 너도밤나무" h="3f37d097" />
+    <e k="storeItem_beech_stage05" v="큰 너도밤나무" h="489b9528" />
+    <e k="storeItem_betulaErmanii_stage02" v="작은 사스래나무" h="79e3e6b2" />
+    <e k="storeItem_betulaErmanii_stage03" v="중간 사스래나무" h="4d178016" />
+    <e k="storeItem_betulaErmanii_stage04" v="큰 사스래나무" h="67bd7bdd" />
+    <e k="storeItem_birch_stage04" v="중간 자작나무" h="3fc46e78" />
+    <e k="storeItem_boardsStackPallet" v="널빤지 팔레트" h="5d9a03dd" />
+    <e k="storeItem_boxelder_stage01" v="작은 박스엘더" h="23465f95" />
+    <e k="storeItem_boxelder_stage02" v="중간 박스엘더" h="2232bb8e" />
+    <e k="storeItem_boxelder_stage03" v="큰 박스엘더" h="6efee08a" />
+    <e k="storeItem_buildableFarmHouse02" v="농가 1" h="7ed54165" />
+    <e k="storeItem_buildableFarmHouse03" v="농가 2" h="7ed54166" />
+    <e k="storeItem_buildableFarmHouse04" v="농가 3" h="7ed54167" />
+    <e k="storeItem_buildableFarmHouse05" v="농가 4" h="7ed54168" />
+    <e k="storeItem_canolaOilPallet" v="카놀라유 팔레트" h="57d0a83f" />
+    <e k="storeItem_catTreePallet" v="캣타워 팔레트" h="265c4ed2" />
+    <e k="storeItem_cementBagsPallet" v="시멘트 포대 팔레트" h="43940325" />
+    <e k="storeItem_cerealsPallet" v="시리얼 팔레트" h="367132d1" />
+    <e k="storeItem_cherry_stage02" v="작은 체리" h="2d4f7744" />
+    <e k="storeItem_cherry_stage03" v="중간 체리" h="09c11f1c" />
+    <e k="storeItem_cherry_stage04" v="큰 체리" h="57ceb558" />
+    <e k="storeItem_chineseElm_stage02" v="작은 참느릅나무" h="6b08aab2" />
+    <e k="storeItem_chineseElm_stage03" v="중간 참느릅나무" h="12dff597" />
+    <e k="storeItem_chineseElm_stage04" v="큰 참느릅나무" h="6326baf4" />
+    <e k="storeItem_cooper" v="배럴 공방" h="6ff18289" />
+    <e k="storeItem_cypress_stage02" v="작은 사이프러스" h="24867737" />
+    <e k="storeItem_cypress_stage03" v="중간 사이프러스" h="72af5a9a" />
+    <e k="storeItem_cypress_stage04" v="큰 사이프러스" h="63a33b9e" />
+    <e k="storeItem_dieselTank01" v="소형 경유 탱크" h="4c34a196" />
+    <e k="storeItem_dieselTank02" v="중형 경유 탱크" h="740bec7a" />
+    <e k="storeItem_dieselTank03" v="대형 경유 탱크" h="4452b1d8" />
+    <e k="storeItem_downyServiceberry_stage02" v="중간 다우니 서비스베리" h="5555c44f" />
+    <e k="storeItem_flourBoxPallet" v="밀가루 팔레트" h="59bc9e45" />
+    <e k="storeItem_gardenShed05" v="금속판 정원 헛간" h="43480806" />
+    <e k="storeItem_giantSequoia_stage01" v="작은 세쿼이아" h="5b5219c6" />
+    <e k="storeItem_giantSequoia_stage02" v="중간 세쿼이아" h="297afd2a" />
+    <e k="storeItem_giantSequoia_stage03" v="큰 세쿼이아" h="1a6ede2e" />
+    <e k="storeItem_goldenRain_stage02" v="작은 모감주나무" h="75ed8f75" />
+    <e k="storeItem_goldenRain_stage03" v="중간 모감주나무" h="1dc4da5a" />
+    <e k="storeItem_goldenRain_stage04" v="큰 모감주나무" h="6e0b9fb7" />
+    <e k="storeItem_hoermannCargoHangar" v="벌크 홀" h="2eb57a71" />
+    <e k="storeItem_hoermannGarageRoundHall" v="벌크 홀" h="2eb57a71" />
+    <e k="storeItem_hoermannGarageSolarPanels" v="태양광 지붕이 있는 저장소" h="3ed1a006" />
+    <e k="storeItem_hoermannProductionBuilding" v="태양광 패널이 있는 생산 건물" h="4fe46aad" />
+    <e k="storeItem_hoermannStorageBuilding" v="태양광 패널이 있는 저장소" h="6afdd8e2" />
+    <e k="storeItem_japaneseZelkova_stage02" v="작은 느티나무" h="35b918e1" />
+    <e k="storeItem_japaneseZelkova_stage03" v="중간 느티나무" h="23ae91ef" />
+    <e k="storeItem_japaneseZelkova_stage04" v="큰 느티나무" h="04698ee3" />
+    <e k="storeItem_jarredGreenBeansPallet" v="강낭콩 단지 팔레트" h="7ffae368" />
+    <e k="storeItem_liquidManureTank" v="슬러리 저장조" h="584951dd" />
+    <e k="storeItem_liquidManureTankExtensionLarge" v="슬러리 확장 저장조 대형" h="3f886b60" />
+    <e k="storeItem_liquidManureTankExtensionSmall" v="슬러리 확장 저장조 소형" h="3bff99d9" />
+    <e k="storeItem_lodgepolePine_stage01" v="작은 로지폴 소나무" h="375cd941" />
+    <e k="storeItem_lodgepolePine_stage02" v="중간 로지폴 소나무 (1)" h="28ddbb9d" />
+    <e k="storeItem_lodgepolePine_stage02Var2" v="중간 로지폴 소나무 (2)" h="28ddbc20" />
+    <e k="storeItem_lodgepolePine_stage03" v="큰 로지폴 소나무 (1)" h="7fa46bd0" />
+    <e k="storeItem_lodgepolePine_stage03Var2" v="큰 로지폴 소나무 (2)" h="7fa46c53" />
+    <e k="storeItem_northernCatalpa_stage02" v="작은 미국 개오동나무" h="23212a19" />
+    <e k="storeItem_northernCatalpa_stage03" v="중간 미국 개오동나무" h="1116a327" />
+    <e k="storeItem_northernCatalpa_stage04" v="큰 미국 개오동나무" h="71d1a01a" />
+    <e k="storeItem_oak_stage02" v="중간 오크" h="03913c49" />
+    <e k="storeItem_objectStorage" v="베일 및 팔레트 창고" h="661a4689" />
+    <e k="storeItem_oliveOilPallet" v="올리브유 팔레트" h="1c4bab77" />
+    <e k="storeItem_pagoda_stage02" v="중간 파고다 도그우드" h="5e5ff8bf" />
+    <e k="storeItem_pepperGrinderPallet" v="후추 분쇄기 팔레트" h="1077f6aa" />
+    <e k="storeItem_pine_stage04" v="중간 소나무" h="5376412f" />
+    <e k="storeItem_pine_stage06" v="늙은 소나무" h="51c278d6" />
+    <e k="storeItem_playgroundMakerShip" v="놀이터" h="77876714" />
+    <e k="storeItem_ponderosaPine_stage02" v="작은 폰데로사 소나무" h="151e7347" />
+    <e k="storeItem_ponderosaPine_stage03" v="중간 폰데로사 소나무" h="68520caa" />
+    <e k="storeItem_ponderosaPine_stage04" v="큰 폰데로사 소나무" h="02f80872" />
+    <e k="storeItem_poplar_stage02" v="중간 포플러" h="4bd0abcd" />
+    <e k="storeItem_prefabWallPallet" v="조립식 벽 팔레트" h="19562d9b" />
+    <e k="storeItem_preservedFoodBeetRootPallet" v="보존식품 레드 비트 팔레트" h="10c8e3fe" />
+    <e k="storeItem_riceBagsPallet" v="쌀 자루 팔레트" h="2771949a" />
+    <e k="storeItem_riceBoxPallet" v="쌀 상자 팔레트" h="51f0591f" />
+    <e k="storeItem_riceSaplingPallet" v="볏모 팔레트" h="61f84f1f" />
+    <e k="storeItem_roundBaleDryGrass" v="원형 베일 건초" h="263b0f6d" />
+    <e k="storeItem_roundBaleSilage" v="원형 베일 사일리지" h="4f62fac0" />
+    <e k="storeItem_roundBaleWheat" v="원형 베일 짚 (밀)" h="3c025840" />
+    <e k="storeItem_shack" v="판잣집" h="1f994d66" />
+    <e k="storeItem_shagbark_stage02" v="중간 샤그바크 히코리" h="4ee4a649" />
+    <e k="storeItem_shagbark_stage04" v="늙은 샤그바크 히코리" h="0f3b8ac0" />
+    <e k="storeItem_silageAdditive" v="사일리지 첨가제" h="16842b10" />
+    <e k="storeItem_slurryTank" v="탱크" h="2dd6f126" />
+    <e k="storeItem_slurryTankSemi" v="세미트레일러 탱크" h="6bfeaec5" />
+    <e k="storeItem_spruce_stage04" v="중간 가문비나무" h="50323c2d" />
+    <e k="storeItem_spruce_stage06" v="늙은 가문비나무" h="3370e528" />
+    <e k="storeItem_squareBaleDryGrass" v="사각 베일 건초" h="4a092d1c" />
+    <e k="storeItem_squareBaleSilage" v="사각 베일 사일리지" h="6d642f2a" />
+    <e k="storeItem_squareBaleWheat" v="사각 베일 짚 (밀)" h="1808719d" />
+    <e k="storeItem_stonePine_stage02" v="중간 잣나무" h="20e4244f" />
+    <e k="storeItem_sunflowerOilPallet" v="해바라기유 팔레트" h="17802029" />
+    <e k="storeItem_tiliaAmurensis_stage02" v="작은 피나무" h="45dba513" />
+    <e k="storeItem_tiliaAmurensis_stage03" v="중간 피나무" h="59432311" />
+    <e k="storeItem_tiliaAmurensis_stage04" v="큰 피나무" h="7c32fa01" />
+    <e k="storeItem_waterTank01" v="보조 물 탱크" h="04dea9a5" />
+    <e k="storeItem_waterTank02" v="물 탱크" h="1e3829f3" />
+    <e k="storeItem_weighingStationSmall" v="소형 무게 확인 스테이션" h="68929dec" />
+    <e k="storeItem_wheelLoaderGeneralPurposeBucket" v="범용 버킷 - 고강도" h="7ff5fe04" />
+    <e k="storeItem_wheelLoaderHighTipBucket" v="하이 팁 버킷" h="5f3525ad" />
+    <e k="storeItem_wheelLoaderRockBucket" v="바위 버킷 - 스페이드 노즈" h="7a23b012" />
+    <e k="storeItem_wheelLoaderUnloadingGrapple" v="하역 그래플" h="34d3ac62" />
+    <e k="storeItem_woodTurner" v="목선반 공방" h="45c64998" />
+    <e k="toolTip_activeSuspensionCamera" v="켜면 실내 카메라가 시트 서스펜션의 움직임을 따라가 더 현실감 있는 느낌을 줍니다." h="644fc842" />
+    <e k="toolTip_autoHelp" v="화면 왼쪽 위에 조작 정보 상자를 표시합니다." h="30eb8f3d" />
+    <e k="toolTip_brightness" v="게임의 밝기를 설정합니다." h="159bcd29" />
+    <e k="toolTip_cameraCheckCollision" v="방해되는 물체를 감지하면 차량 외부 카메라가 자동으로 확대됩니다." h="471f8be7" />
+    <e k="toolTip_cloudShadowsQuality" v="구름 그림자를 켜거나 끕니다." h="54cdb58d" />
+    <e k="toolTip_directionChangeMode" v="차량의 진행 방향을 자동으로 바꿀지, 버튼을 눌러 수동으로 바꿀지 정합니다." h="456d7074" />
+    <e k="toolTip_disasterDestructionState" v="재해 발생 시 파괴 효과를 적용할지 정합니다." h="36199d0e" />
+    <e k="toolTip_dlss" v="Nvidia DLSS(딥 러닝 슈퍼 샘플링)입니다. 장면을 낮은 해상도로 렌더링한 뒤 Nvidia DLSS로 화면 해상도에 맞게 업스케일링합니다. 이 값을 낮추면 성능이 향상될 수 있으며, 특히 화면 해상도가 높을수록 효과가 큽니다." h="177f297a" />
+    <e k="toolTip_drsTargetFPS" v="DRS의 목표 FPS를 정합니다." h="5aca00d8" />
+    <e k="toolTip_easyArmControl" v="크레인의 간편 조작 기능을 켭니다." h="1c392b1d" />
+    <e k="toolTip_economicDifficulty" v="경제 난이도는 구매 및 판매 가격에 영향을 줍니다. 계약 수익도 이 요소에 따라 정해집니다." h="4f395115" />
+    <e k="toolTip_enableHDR" v="HDR을 활성화하거나 비활성화합니다." h="50962738" />
+    <e k="toolTip_fertilizerStates" v="최대 수확량을 얻기 위해 경작지에 비료를 줘야 하는 횟수입니다." h="6eed32d6" />
+    <e k="toolTip_fidelityFxSR" v="AMD FidelityFX Super Resolution 1은 고도로 최적화된 최첨단 공간 업스케일링 기술로, 높은 프레임 속도에서도 뛰어난 화질을 제공합니다." h="4ca5a3e5" />
+    <e k="toolTip_fidelityFxSR30FrameInterpolation" v="AMD FidelityFX Super Resolution 3 프레임 생성은 기존 입력에서 계산된 추가 프레임을 생성하여 프레임 속도를 높입니다. 전용 전체 화면 모드에서는 작동하지 않습니다." h="7ecb23c5" />
+    <e k="toolTip_fixedSeasonalVisuals" v="특정 달의 모습을 항상 표시할지 설정합니다. 계절에 따라 바뀌는 모습을 보려면 끄십시오." h="03ef8cb4" />
+    <e k="toolTip_foliageDrawDistance" v="초목(작물, 덤불)이 렌더링되는 거리를 조정합니다. 이 값을 낮추면 성능이 향상될 수 있습니다." h="73ae1996" />
+    <e k="toolTip_foliageLODDistance" v="초목을 얼마나 먼 거리까지 렌더링할지 조정합니다. 이 값을 낮추면 성능이 향상될 수 있습니다." h="092f39d7" />
+    <e k="toolTip_foliageShadows" v="초목이 그림자를 드리울지 설정합니다." h="28abcb47" />
+    <e k="toolTip_frameLimit" v="초당 최대 프레임 수를 조정합니다." h="6039136f" />
+    <e k="toolTip_gearShiftMode" v="이 설정은 수동 변속기 차량의 변속 모드를 바꿉니다." h="46eee483" />
+    <e k="toolTip_helpIcons" v="게임 세계에 일부 장소에 관한 정보를 담은 빛나는 아이콘을 표시합니다." h="5d8c5529" />
+    <e k="toolTip_helperRefillFertilizer" v="AI 작업자가 살포하는 비료를 자동으로 보충할지 설정합니다. AI 작업자 비용이 증가합니다." h="2456ee93" />
+    <e k="toolTip_helperRefillFuel" v="AI 작업자가 소모하는 연료를 자동으로 보충할지 설정합니다. AI 작업자 비용이 증가합니다." h="1479700a" />
+    <e k="toolTip_helperRefillManure" v="AI 작업자가 살포하는 거름을 자동으로 보충할지 설정합니다. 구매 비용만큼 AI 작업자 비용이 증가합니다." h="7a496481" />
+    <e k="toolTip_helperRefillSeed" v="AI 작업자가 파종하는 씨앗을 자동으로 보충할지 설정합니다. AI 작업자 비용이 증가합니다." h="5d18e4e1" />
+    <e k="toolTip_helperRefillSlurry" v="AI 작업자가 살포하는 슬러리를 자동으로 보충할지 설정합니다. 구매 비용만큼 AI 작업자 비용이 증가합니다." h="2039ad82" />
+    <e k="toolTip_hudSpeedGauge" v="속도계에 표시할 값을 정합니다." h="6aea24e4" />
+    <e k="toolTip_lightQuality" v="차량과 건물에 쓰이는 조명의 범위와 개수를 조정합니다. 이 값을 낮추면 성능이 향상될 수 있습니다." h="3cc71e9f" />
+    <e k="toolTip_limeRequired" v="높은 수확량을 유지하려면 주기적으로 경작지에 석회를 뿌려야 하는지 설정합니다." h="518e13e8" />
+    <e k="toolTip_maxNumMirrors" v="게임에 표시되는 백미러 수를 설정합니다. 이 값을 낮추면 성능이 향상될 수 있습니다." h="0f37f304" />
+    <e k="toolTip_msaa" v="멀티샘플 안티 앨리어싱(MSAA)으로 물체 가장자리를 매끄럽게 합니다. 이 값을 낮추면 성능이 향상될 수 있습니다." h="2d6d2913" />
+    <e k="toolTip_objectDrawDistance" v="물체가 렌더링되는 거리를 조정합니다. 이 값을 낮추면 성능이 향상될 수 있습니다." h="13e6d4fa" />
+    <e k="toolTip_performanceMode" v="프레임 품질보다 높은 프레임 속도를 우선합니다." h="6f0796cd" />
+    <e k="toolTip_plannedDaysPerPeriod" v="한 달의 일수를 설정합니다. 변경 사항은 다음 계절에 적용됩니다!" h="6b3fa7b6" />
+    <e k="toolTip_plantWithering" v="작물을 경작지에 너무 오래 두면 시듭니다." h="314ed5fc" />
+    <e k="toolTip_plowingRequired" v="높은 수확량을 유지하려면 주기적으로 경작지를 쟁기질해야 하는지 설정합니다." h="23a4c9c5" />
+    <e k="toolTip_ppaaSharpnessDisabled" v="이 설정을 사용하려면 PPAA 모드를 켜야 합니다." h="3d7ee1d3" />
+    <e k="toolTip_realBeaconLightBrightness" v="사실적인 경광등의 밝기를 바꿉니다." h="468af483" />
+    <e k="toolTip_realBeaconLights" v="경광등 불빛이 표면에 반사될지 조정합니다." h="796126e3" />
+    <e k="toolTip_savegameName" v="이 저장 데이터의 이름을 입력하십시오." h="35ea412e" />
+    <e k="toolTip_scalingMode" v="이 설정에서 지오메트리 가장자리를 부드럽게 하는 후처리 매개변수를 선택할 수 있습니다. 이 매개변수는 성능에 영향을 줄 수 있습니다." h="49bc8198" />
+    <e k="toolTip_scalingModeQuality" v="원하는 업스케일링 매개변수를 선택합니다. 게임 성능과 품질 중 무엇을 우선할지 고를 수 있습니다." h="279a6521" />
+    <e k="toolTip_seasonalGrowth" v="계절과 식물의 시듦을 따르는 성장 달력을 켭니다. 작물이 다 자랄 수 있을 때만 심을 수 있습니다." h="1e200504" />
+    <e k="toolTip_shadowMapFiltering" v="그림자의 품질을 조정합니다. 이 값을 낮추면 성능이 향상될 수 있습니다." h="4ea2deb5" />
+    <e k="toolTip_shadowQuality" v="그림자의 해상도를 조정합니다. 이 값을 낮추면 성능이 향상될 수 있습니다." h="4c204455" />
+    <e k="toolTip_showFieldInfo" v="주변 경작지, 차량, 배치품의 정보 상자를 표시합니다." h="6fb47f48" />
+    <e k="toolTip_snowEnabled" v="눈이 땅에 쌓이며 차량으로 밀어 옮길 수 있습니다." h="47937333" />
+    <e k="toolTip_softShadows" v="광원 및 그림자를 드리우는 물체와의 거리에 따라 그림자를 사실적으로 부드럽게 만듭니다." h="3f335528" />
+    <e k="toolTip_terrainLODDistance" v="지형이 렌더링되는 거리를 조정합니다. 이 값을 낮추면 성능이 향상될 수 있습니다." h="330edc81" />
+    <e k="toolTip_textureFiltering" v="텍스처의 이미지 품질을 향상합니다. 바이리니어는 향상 폭이 가장 작고, 트라이리니어는 중간이며, 비등방성 필터링은 가장 큽니다. 이 값을 낮추면 성능이 향상될 수 있습니다." h="00c89fcc" />
+    <e k="toolTip_useWorldCamera" v="차량 카메라가 주변 환경에 맞춰 수평을 유지하려고 합니다." h="0d9084e8" />
+    <e k="toolTip_vSync" v="수직 동기화는 티어링을 방지하지만, 그래픽 프로세서와 모니터에 따라 프레임 속도에 영향을 줄 수 있습니다." h="47b79e60" />
+    <e k="toolTip_valar" v="화면 공간 셰이딩 비율은 휘도와 속도를 기반으로 성능을 최적화하며, 대신 시각적 충실도가 약간 떨어집니다." h="23bc863c" />
+    <e k="toolTip_voiceInputSensitivity" v="자동 음성 활성화의 감도입니다. 감도가 높으면 잡음이 더 많이 들어갈 수 있습니다." h="7cbf672d" />
+    <e k="toolTip_voiceMode" v="이 설정은 음성을 다른 플레이어에게 보내는 시점을 바꿉니다. 키 설정에서 조정할 수 있습니다." h="34afd02a" />
+    <e k="toolTip_volumeMaster" v="전체 오디오 볼륨입니다. 모든 종류의 소리에 똑같이 적용됩니다." h="508b326b" />
+    <e k="toolTip_volumeMeshTessallation" v="적재물 더미와 세부 물체의 표시 품질을 조정합니다. 이 값을 낮추면 성능이 향상될 수 있습니다." h="609b8d86" />
+    <e k="toolTip_volumeNoFocus" v="게임 창이 비활성 상태일 때 게임 볼륨을 조정합니다." h="64583ff2" />
+    <e k="toolTip_volumetricFogQuality" v="볼류메트릭 포그 품질을 조정합니다." h="0a5bfcef" />
+    <e k="toolTip_woodHarvesterAutoCut" v="가지치기가 끝나면 나무가 자동으로 절단됩니다." h="1f3315e1" />
+    <e k="treeMarker_arrow" v="화살표" h="64fdfd88" />
+    <e k="treeType_apple" v="사과나무" h="39bb1f53" />
+    <e k="treeType_ash" v="물푸레나무" h="01015fc7" />
+    <e k="treeType_chestnut" v="밤나무" h="1745152e" />
+    <e k="treeType_locust" v="아까시나무" h="45fddd4b" />
+    <e k="twister_destroyedNotification" v="이런, 트위스터가 농장에 파괴의 흔적을 남겼습니다..." h="50d0effb" />
+    <e k="typeDesc_baleLoader" v="베일 로더" h="3c6fc8d6" />
+    <e k="typeDesc_baleTrailer" v="베일 트레일러" h="060323b3" />
+    <e k="typeDesc_baleWrapper" v="베일 포장기" h="250c3e33" />
+    <e k="typeDesc_cutterTrailer" v="헤더 트레일러" h="3f601dcf" />
+    <e k="typeDesc_defoliator" v="탈엽기" h="76c93a9c" />
+    <e k="typeDesc_forageWagon" v="사료 왜건" h="26b5dee8" />
+    <e k="typeDesc_forestryMulcher" v="임업 파쇄기" h="5358f6da" />
+    <e k="typeDesc_harvestingHeader" v="헤더" h="09f9bd61" />
+    <e k="typeDesc_hydraulicHammer" v="유압 해머" h="7bdb7053" />
+    <e k="typeDesc_loaderVehicle" v="적재 차량" h="3fd7666c" />
+    <e k="typeDesc_lowLoader" v="저상 트레일러" h="1747cf5b" />
+    <e k="typeDesc_manureBarrel" v="슬러리 탱크" h="16064c46" />
+    <e k="typeDesc_mulcher" v="파쇄기" h="1c985474" />
+    <e k="typeDesc_planter" v="점파기" h="236f407f" />
+    <e k="typeDesc_strawBlower" v="짚 송풍기" h="55b7dacb" />
+    <e k="typeDesc_tipper" v="덤프 트레일러" h="2b13feb1" />
+    <e k="typeDesc_topLiftingHarvester" v="뽑기식 수확기" h="73394ffe" />
+    <e k="typeDesc_treePlanter" v="묘목 식재기" h="040ea994" />
+    <e k="typeDesc_vinePrepruner" v="예비 전정기" h="1375d127" />
+    <e k="typeDesc_weight" v="웨이트" h="65ee1e59" />
+    <e k="typeDesc_woodProcessor" v="프로세서" h="36f221d9" />
+    <e k="ui_ESRBUpdateInfo" v="ESRB 등급이 사용자 상호작용에 더해 상호작용 요소인 게임 내 구매(DLC)를 포함하도록 업데이트되었습니다.{{NL}}이 게임에서 DLC를 구매할 수 있기 때문에 추가되었습니다. 이 변경 사항은 ESRB 등급에만 영향을 미치며 게임 자체에는 영향을 미치지 않습니다." h="2114ebe9" />
+    <e k="ui_achievementsSynchronizing" v="업적을 동기화하는 중입니다. 잠시 기다려 주십시오..." h="52f7819c" />
+    <e k="ui_actionRemapped" v="'%s'이(가) %s(으)로 다시 지정되었습니다." h="551b0e93" />
+    <e k="ui_activateClientAccounts" v="먼저 관리 메뉴에서 다른 플레이어의 개별 계정을 활성화하십시오." h="5f798359" />
+    <e k="ui_activateGamepads" v="게임 패드/스티어링 휠을 활성화하시겠습니까?" h="7976229c" />
+    <e k="ui_adminLoginGranted" v="관리자로 로그인했습니다." h="28e43ed3" />
+    <e k="ui_adminLoginNotSupported" v="서버가 관리자 로그인을 지원하지 않습니다." h="037bbd37" />
+    <e k="ui_aiSettingsHeadlands" v="선회 구역" h="6dc19b0d" />
+    <e k="ui_aiSettingsWorkHeadlands" v="선회 구역 작업" h="4b57939c" />
+    <e k="ui_ai_pickTargetRotation" v="목표 방향 선택" h="46ae4930" />
+    <e k="ui_allProductionPointsOwned" v="이미 모든 생산 시설을 보유하고 있습니다." h="0d51133f" />
+    <e k="ui_animalUnloadFrom" v="내리기:" h="3e865f04" />
+    <e k="ui_blockPlayerConfirm" v="'%s' 플레이어를 차단하시겠습니까? 이 플레이어로부터 어떤 연락도 받지 않으며, 서로가 호스트하는 게임에 참가할 수 없게 됩니다." h="6f331cc2" />
+    <e k="ui_buyProductAmount" v="%d l의 %s을(를) %s에 구매하시겠습니까?" h="15e05de3" />
+    <e k="ui_chooseDifferentNickname" v="다른 닉네임을 선택해 주십시오." h="6c5ac735" />
+    <e k="ui_chooseDifficulty" v="난이도를 선택해 주십시오" h="6dc0b6a7" />
+    <e k="ui_chooseLicensePlate" v="번호판 선택" h="628164d5" />
+    <e k="ui_clientPermissions" v="다른 플레이어의 권한" h="59f07871" />
+    <e k="ui_cloudSavegame" v="클라우드 저장 데이터" h="0dd3306d" />
+    <e k="ui_colorPicker_material" v="재질" h="17459ce0" />
+    <e k="ui_confirmationPickupHandtool" v="'%s'을(를) 집으시겠습니까?" h="1b465575" />
+    <e k="ui_confirmationStoreHandtool" v="'%s'을(를) 보관하시겠습니까?{{NL}}수공구 개요에서 도구를 다시 가져갈 수 있습니다." h="7db34740" />
+    <e k="ui_connectingPleaseWait" v="연결 중입니다. 기다려 주십시오..." h="057322d2" />
+    <e k="ui_connectingToMasterServer" v="서버에 연결하는 중입니다. 기다려 주십시오." h="68eaee04" />
+    <e k="ui_connectionFailed" v="서버에 연결할 수 없습니다." h="4347d8b6" />
+    <e k="ui_connectionLostBanned" v="호스트가 서버 접속을 차단했습니다." h="09277590" />
+    <e k="ui_connectionLostKeyInUse" v="활성화/제품 키가 이미 사용 중입니다. 나중에 다시 시도해 주십시오." h="64f78734" />
+    <e k="ui_connectionLostKicked" v="호스트가 서버에서 플레이어를 추방했습니다." h="7cfa48f3" />
+    <e k="ui_consolePressStart" v="A를 누르십시오" h="39165b12" />
+    <e k="ui_constructionDeleteConfirmationRiceField" v="논을 제거하시겠습니까?" h="1355206a" />
+    <e k="ui_constructionFreeModeWarning" v="물체를 자유 모드로 배치하면 물체나 차량의 기능에 문제가 생길 수 있지만, 더 자유롭게 배치할 수 있습니다. 지형은 직접 평탄화해야 합니다. 사용에 따른 책임은 플레이어에게 있습니다." h="64bfd226" />
+    <e k="ui_construction_cancelCurrentField" v="경작지 생성을 취소하시겠습니까?" h="7e367ac5" />
+    <e k="ui_construction_cancelCustomFence" v="사용자 지정 울타리 생성을 취소하시겠습니까?{{NL}}울타리가 기본 윤곽선으로 재설정됩니다." h="6c48ad6f" />
+    <e k="ui_construction_cornerAngleTooLarge" v="모서리 각도가 너무 큽니다" h="48ffebcb" />
+    <e k="ui_construction_couldNotLoadItem" v="아이템을 불러올 수 없습니다" h="39d1a6d1" />
+    <e k="ui_construction_cowBarnNoMilk" v="주의! 이곳은 번식용 축사이므로 우유를 생산할 수 없습니다." h="40ad9117" />
+    <e k="ui_construction_customFenceFailed" v="사용자 지정 울타리를 만들지 못했습니다.{{NL}}다른 윤곽선을 사용해 보십시오." h="59a14247" />
+    <e k="ui_construction_fenceHusbandryFailed" v="방목장을 만들지 못했습니다. 울타리 모양을 조정하십시오!" h="23b6b9dd" />
+    <e k="ui_construction_loadingItem" v="아이템 불러오는 중..." h="3b640cb1" />
+    <e k="ui_construction_maxNumberOfFieldsReached" v="최대 경작지 수에 도달했습니다" h="366d5fff" />
+    <e k="ui_construction_overlapsWithObject" v="다른 물체와 겹칩니다" h="3f1f8698" />
+    <e k="ui_construction_riceFieldMaxSizeReached" v="최대 경작지 크기에 도달했습니다" h="1df58cc9" />
+    <e k="ui_construction_spaceAlreadyOccupied" v="이미 사용 중인 공간입니다" h="6363b243" />
+    <e k="ui_construction_terrainTooSteep" v="지형이 너무 가파릅니다" h="49a0c97b" />
+    <e k="ui_consumable_riceSaplings" v="볏모" h="7180c350" />
+    <e k="ui_continueGame" v="계속하려면 A를 누르십시오" h="1e886f64" />
+    <e k="ui_continueGame_ps" v="계속하려면 X를 누르십시오" h="3c88c717" />
+    <e k="ui_continueGame_ps_xo" v="계속하려면 O를 누르십시오" h="1a88a4c6" />
+    <e k="ui_continueGame_switch" v="계속하려면 A를 누르십시오" h="1e886f64" />
+    <e k="ui_coop_dedicated_short" v="이용 가능한 모든 제공자 개요" h="7fd6c75a" />
+    <e k="ui_coop_join_short" v="이용 가능한 모든 멀티플레이어 게임 개요" h="1d0a96aa" />
+    <e k="ui_cowLiquidManureSilo" v="소 슬러리 구덩이" h="35126ae3" />
+    <e k="ui_cowManureHeap" v="소 거름 더미" h="5e52f36c" />
+    <e k="ui_createJobEmpty" v="작업을 만들 차량을 선택하십시오." h="246a7bd7" />
+    <e k="ui_creatingGame" v="게임이 만들어질 때까지 기다려 주십시오..." h="066fb04f" />
+    <e k="ui_deletingSavegame" v="저장 데이터 삭제 중..." h="1f7a2d70" />
+    <e k="ui_demolitionModeEnter" v="철거 모드 시작" h="22d80b57" />
+    <e k="ui_demolitionModeExit" v="철거 모드 종료" h="45a4b655" />
+    <e k="ui_difficulty" v="난이도" h="4b328c5c" />
+    <e k="ui_dlcsCorruptRedownload" v="설치된 다운로드 콘텐츠 일부가 손상되어 사용할 수 없습니다. 다시 다운로드하십시오." h="0b3c5b6c" />
+    <e k="ui_doYouWantToBlockThisServer" v="이 서버를 호스트하는 플레이어를 차단하시겠습니까? 이 플레이어가 호스트하는 게임은 서버 목록에 표시되지 않습니다." h="621d8a08" />
+    <e k="ui_doYouWantToCoverTheSilo" v="저장탑(%{fillLevel}s)을 덮으시겠습니까?" h="2ab054d4" />
+    <e k="ui_duration" v="플레이 시간" h="3c8fbb36" />
+    <e k="ui_ensureAxisToMapInNeutral" v="이 대화 상자가 열리기 전에 매핑할 축이 중립/중심 위치에 있어야 합니다. 그렇지 않았다면 ESC를 누르고 축을 조정한 후 매핑을 다시 시작하십시오." h="60cc7f31" />
+    <e k="ui_enterHorseName" v="이 말의 새 이름 입력:" h="69b39dc1" />
+    <e k="ui_failedToConnectToGame" v="멀티플레이어 게임에 연결할 수 없습니다." h="3f1f1a67" />
+    <e k="ui_farmDeleteHasPlayers" v="활동 중인 플레이어가 있는 농장은 삭제할 수 없습니다." h="558ca8f2" />
+    <e k="ui_fieldArea" v="면적" h="03b3bea5" />
+    <e k="ui_fieldInfo" v="경작지 정보" h="26c70a96" />
+    <e k="ui_fillDisplay_mainChamber" v="주 챔버" h="10f26659" />
+    <e k="ui_gameIsLoadingPleaseWait" v="불러오는 중" h="2b8308b6" />
+    <e k="ui_garageLeased" v="임차한 아이템" h="659806a4" />
+    <e k="ui_gearShiftModeManualClutch" v="수동(클러치)" h="3ebd5a7b" />
+    <e k="ui_gpsActive" v="활성" h="26ee1720" />
+    <e k="ui_gpsInactive" v="비활성" h="1905cb85" />
+    <e k="ui_growthMapCut" v="수확됨" h="46cd1a20" />
+    <e k="ui_growthMapMulched" v="파쇄됨" h="0643b319" />
+    <e k="ui_growthMapNeedsRolling" v="다지기 필요" h="568aa8ae" />
+    <e k="ui_growthMapReadyToPrepareForHarvest" v="잎 제거" h="6fc0bf61" />
+    <e k="ui_growthMapSeedbed" v="파종 준비됨" h="0f6f9835" />
+    <e k="ui_growthMapSown" v="파종됨" h="061c73b3" />
+    <e k="ui_growthMapStubbleTillage" v="수확 후 갈이" h="20cb15ba" />
+    <e k="ui_handToolCannotBePickedUp" v="수공구를 집을 수 없습니다." h="21242131" />
+    <e k="ui_handToolLimitReached" v="더는 도구를 들 수 없습니다." h="7ca3f54e" />
+    <e k="ui_handToolPickupTitle" v="수공구 집기" h="3ed233b7" />
+    <e k="ui_holder" v="현재 소지자" h="63dadcfd" />
+    <e k="ui_iap_errorCancelled" v="구매를 취소했습니다." h="0edb8465" />
+    <e k="ui_iap_purchaseInProgress" v="이미 다른 구매가 진행 중입니다." h="4d67f3b1" />
+    <e k="ui_inGameSleep" v="수면" h="20239101" />
+    <e k="ui_inGameSleepNotAllowed" v="지금은 잘 수 없습니다." h="3eb216de" />
+    <e k="ui_inGameSleepNotAllowedDuringTour" v="둘러보기 중에는 잘 수 없습니다." h="1b7748a7" />
+    <e k="ui_inGameSleepRequest" v="'%s' 님이 자려고 합니다. 요청을 수락하시겠습니까?" h="67e696f2" />
+    <e k="ui_inGameSleepRequestDenied" v="한 플레이어가 수면 요청을 거부했습니다!" h="06133e49" />
+    <e k="ui_inGameSleepTargetTime" v="몇 시에 일어나시겠습니까?" h="718be379" />
+    <e k="ui_includeFullGames" v="가득 찬 게임 포함" h="6f626e4a" />
+    <e k="ui_infoTrainDrive" v="기차는 이제 %s(으)로 이동한 뒤 맵 반대편으로 돌아옵니다." h="384d099b" />
+    <e k="ui_ingameMissionSpecsDemand" v="트레일러가 장착된 트랙터" h="374db49b" />
+    <e k="ui_initialLoan" v="초기 대출" h="31a28184" />
+    <e k="ui_inputControls" v="조작 설정" h="49cbc257" />
+    <e k="ui_joinMultiplayerHint1" v="친구와 협력하거나 대결하며 플레이하십시오.{{NL}}{{NL}}함께 플레이하거나, 혼자 또는 팀으로 서로 경쟁할 수 있는 수많은 맵이 준비되어 있습니다." h="111d5df5" />
+    <e k="ui_joinMultiplayerHint3" v="플랫폼이 다른 친구와도 함께 플레이할 수 있습니다. 게임에서 크로스 플레이를 허용하면 PC와 콘솔 플레이어가 게임에 접속할 수 있습니다." h="18d47849" />
+    <e k="ui_joinMultiplayerHint5" v="다른 사람을 존중하고 서로 도우십시오." h="00a1102b" />
+    <e k="ui_joinMultiplayerHint7" v="농장에서 각 플레이어가 할 수 있는 일을 정할 수 있습니다. 농장 관리에서 필요한 권한을 부여하십시오. 새 플레이어는 처음에는 농장 권한이 전혀 없습니다." h="57025f93" />
+    <e k="ui_landscaping_cannotModifyHere" v="여기서는 지형을 수정할 수 없습니다" h="5fe62472" />
+    <e k="ui_lease" v="임차" h="24527087" />
+    <e k="ui_leasingCost" v="임차 비용" h="0bf605dc" />
+    <e k="ui_licensePlate" v="번호판" h="51e3b0de" />
+    <e k="ui_loadDefaultSettings" v="기본 설정을 불러오시겠습니까?" h="31ff9f12" />
+    <e k="ui_loadingSavegame" v="저장 데이터를 불러오는 중..." h="65fd3b7d" />
+    <e k="ui_loadingSavegames" v="저장 데이터를 불러오는 중..." h="39d45c54" />
+    <e k="ui_loading_data" v="데이터 불러오는 중..." h="0ec7441c" />
+    <e k="ui_loading_map" v="맵 불러오는 중..." h="3ccb41f8" />
+    <e k="ui_localSavegame" v="로컬 저장 데이터" h="67d54186" />
+    <e k="ui_mapHotspotFilter_loadingStations" v="적재소" h="2322e170" />
+    <e k="ui_mapHotspotFilter_productionPoints" v="생산 시설" h="3581bb92" />
+    <e k="ui_mapHotspotFilter_tipStations" v="하역소" h="4a5cf79b" />
+    <e k="ui_mapViewMode2" v="작물 종류" h="3583c901" />
+    <e k="ui_masterServerConnectionLost" v="서버와의 연결이 끊어졌습니다. 인터넷 연결을 확인하고 게임을 다시 시작하십시오." h="5364851e" />
+    <e k="ui_maxNumPlayers" v="최대 플레이어 수" h="49762657" />
+    <e k="ui_missionFrequency" v="계약 빈도" h="2809c978" />
+    <e k="ui_modConflictQuestion" v="%s을(를) 선택할 수 없습니다. %s 모드가 이미 선택되어 있습니다.{{NL}}선택을 해제하고 대신 이 항목을 선택하시겠습니까?" h="43b5eb94" />
+    <e k="ui_modDependencyMissing" v="'%s' 모드를 사용하려면 '%s'이(가) 있고 활성화되어 있어야 합니다." h="490c0e71" />
+    <e k="ui_modDependencyMissing_download" v="'%s' 모드를 사용하려면 '%s'이(가) 있고 활성화되어 있어야 합니다. ModHub에서 다운로드하시겠습니까?" h="159fa34e" />
+    <e k="ui_modMapBlocked" v="선택한 모드 맵이 오래되었습니다.{{NL}}모드 맵을 먼저 업데이트하십시오!" h="14036061" />
+    <e k="ui_mod_ignoreAvailableUpdates" v="선택한 일부 모드에 업데이트가 있습니다.{{NL}}이대로 저장 데이터를 시작하시겠습니까, 아니면 모드를 먼저 업데이트하시겠습니까?" h="6754d0a5" />
+    <e k="ui_mod_selectAllRequired" v="필요한 모드를 모두 선택하시겠습니까?" h="0b81f3bb" />
+    <e k="ui_modsAndDlcs" v="모드 및 DLC" h="0c30b9c5" />
+    <e k="ui_modsCannotActivateBlockedModUpdate" v="이 모드는 오래되어 제대로 작동하지 않습니다. 먼저 모드를 업데이트하십시오!" h="77a7b7af" />
+    <e k="ui_modsChangedRestartQuestion" v="지금 다시 시작하시겠습니까?" h="4699599d" />
+    <e k="ui_modsChangedText" v="모드를 성공적으로 다운로드했습니다. 설치하려면 게임을 다시 시작하십시오." h="04cb10bc" />
+    <e k="ui_modsZipOnly" v="멀티플레이어에서는 압축(zip)된 모드만 지원합니다. 멀티플레이어에서 '%s' 모드를 사용하려면 압축해야 합니다." h="4f9132f6" />
+    <e k="ui_mouseAlreadyMapped" v="'%s'이(가) %s(으)로 다시 지정되었습니다." h="551b0e93" />
+    <e k="ui_noAnimalsInHusbandry" v="이 축사에 동물이 없습니다." h="1c75c16a" />
+    <e k="ui_noHusbandriesPlaced" v="아직 가축 우리가 없습니다." h="4297799c" />
+    <e k="ui_noItemsAvailable_onepieceSelected" v="점프슈트를 착용하고 있어 이용할 수 있는 아이템이 없습니다." h="11bd2704" />
+    <e k="ui_noMatchingGame" v="현재 필터와 일치하는 진행 중인 게임이 없습니다." h="456c9bd4" />
+    <e k="ui_noMissions" v="이용 가능한 계약이 없습니다!" h="0817d248" />
+    <e k="ui_noModsDLCsUsed" v="사용한 모드/DLC 없음!" h="44bdbd21" />
+    <e k="ui_noPendingMissions" v="대기 중인 계약 없음" h="58ebeb43" />
+    <e k="ui_noProductionPoints" v="아직 생산 시설이 없습니다." h="47f90955" />
+    <e k="ui_noRunningMissions" v="진행 중인 계약 없음" h="0e7f30ef" />
+    <e k="ui_notAllModsAvailable_ps" v="필요한 DLC 중 일부가 없습니다." h="437616c2" />
+    <e k="ui_notAllModsAvailable_xbox" v="필요한 DLC 중 일부가 없습니다." h="437616c2" />
+    <e k="ui_notAllModsOnSystem" v="일부 모드가 시스템에 없지만 ModHub에서 다운로드할 수 있습니다." h="4e847c73" />
+    <e k="ui_notEnoughSpaceForNewSavegame" v="이 저장 장치에 새 저장 데이터를 만들 여유 공간이 부족합니다. 저장할 수 없습니다." h="3713352d" />
+    <e k="ui_notPossibleInDemo" v="체험판에서는 사용할 수 없는 기능입니다." h="0755fb56" />
+    <e k="ui_numPlayers" v="플레이어 수" h="10f8fd16" />
+    <e k="ui_objectStorageDescription" v="창고에서 꺼낼 상품과 수량 선택" h="3da0e4ea" />
+    <e k="ui_outdatedGameVersion" v="게임 버전이 오래되었습니다. 업데이트를 설치하십시오." h="0c5f513b" />
+    <e k="ui_ownMoney" v="개별 계정" h="684a2abc" />
+    <e k="ui_palletFillerBuyPalletsText" v="채울 새 상자를 구매하시겠습니까? (%d개에 %s)" h="156983cd" />
+    <e k="ui_palletShopDescription" v="제품 및 수량 선택" h="699ca974" />
+    <e k="ui_palletShopTitle" v="실버런 숲 제재소" h="52f3ac21" />
+    <e k="ui_pendingMissions" v="계약 대기 중" h="46b82e36" />
+    <e k="ui_permissions_buyPlaceable" v="배치품 구매" h="0f8a2907" />
+    <e k="ui_permissions_lostLandscaping" v="지형 수정 권한을 잃었습니다." h="368c0284" />
+    <e k="ui_permissions_manageProductions" v="생산 시설 관리" h="476d5507" />
+    <e k="ui_permissions_sellPlaceable" v="배치품 판매" h="1f2254d7" />
+    <e k="ui_placeables" v="배치품" h="4cfb3506" />
+    <e k="ui_plantingSeason" v="파종 계절" h="4e837cde" />
+    <e k="ui_pleaseReconnectController" v="컨트롤러를 다시 연결하십시오" h="4b7710e0" />
+    <e k="ui_pleaseReconnectController_ps" v="무선 컨트롤러를 다시 연결하십시오" h="1329caa8" />
+    <e k="ui_pleaseReconnectController_ps4" v="DUALSHOCK®4 무선 컨트롤러를 다시 연결하십시오" h="3b38da0e" />
+    <e k="ui_pleaseReconnectController_xbox" v="계속하려면 A를 누르십시오" h="1e886f64" />
+    <e k="ui_pressESCToCancel" v="ESC를 눌러 취소하거나 백스페이스를 눌러 현재 키 설정을 삭제하십시오." h="5c45b349" />
+    <e k="ui_pressGamepadButtonToMap" v="'%s' 동작을 지정하려면 버튼을 누르거나 축을 원하는 방향으로 움직인 뒤 다시 놓으십시오." h="45fdaa69" />
+    <e k="ui_pressKeyToMap" v="'%s'(으)로 사용하려는 키를 누르십시오." h="42434657" />
+    <e k="ui_pressMouseButtonToMap" v="'%s'(으)로 사용하려는 마우스 버튼을 누르십시오." h="15554ae4" />
+    <e k="ui_production_output_distributing" v="분배" h="07ad132c" />
+    <e k="ui_production_status_running" v="가동 중" h="3255f63f" />
+    <e k="ui_productions_buildingStorage" v="건물 저장소" h="0d96719e" />
+    <e k="ui_productions_outgoingProducts" v="나가는 제품" h="13e9d0af" />
+    <e k="ui_questionTrainSellGoods" v="기차에 실은 화물을 %s에서 판매하시겠습니까?" h="7ce32a09" />
+    <e k="ui_repaintDialog" v="정말로 %s에 차량을 재도장하시겠습니까?" h="4f56f671" />
+    <e k="ui_repairDialog" v="정말로 %s에 차량을 수리하시겠습니까?" h="692c3d23" />
+    <e k="ui_resolveConflict" v="저장 데이터 충돌 해결" h="4df50c77" />
+    <e k="ui_riceFieldWarningWaterLevelTooHigh" v="수위가 너무 높습니다. 논에서 물을 빼서 작물 피해를 방지하십시오" h="00cf0d3c" />
+    <e k="ui_riceFieldWarningWaterLevelTooLow" v="수위가 너무 낮습니다. 논에 물을 대서 작물 피해를 방지하십시오" h="36945bff" />
+    <e k="ui_runningMissions" v="계약 진행 중" h="7c4b73e1" />
+    <e k="ui_saveDate" v="저장 날짜" h="56cdd4f8" />
+    <e k="ui_savegame" v="저장 데이터" h="34d6414f" />
+    <e k="ui_savegameBelongsToAnotherUser" v="이 저장 데이터는 다른 사용자의 것입니다." h="6eef8ed5" />
+    <e k="ui_savegameConflictKeepRemoteYesNo" v="정말로 로컬 저장 데이터를 클라우드 저장 데이터로 교체하시겠습니까?" h="4ad9e7c3" />
+    <e k="ui_savegameConflictResolveFailed" v="저장 데이터 충돌을 해결하지 못했습니다." h="76ca8093" />
+    <e k="ui_savegameConflictResolveKeepBothFailed" v="저장 데이터 충돌을 해결할 수 없습니다. 저장 데이터 수가 한도에 도달했습니다. 다른 해결 방법을 선택하십시오." h="41897b87" />
+    <e k="ui_savegameCorrupt" v="불러온 저장 데이터가 손상되었습니다. 계속하여 새 저장 데이터로 덮어쓰시겠습니까?" h="2e873f9d" />
+    <e k="ui_savegameCrossPlatformWarning" v="이 저장 데이터는 Xbox에서 생성되었습니다.{{NL}}{{NL}}현재 플랫폼에서 이 저장 데이터에 스크립트 모드를 추가하면 이후 Xbox에서 사용할 수 없게 됩니다.{{NL}}{{NL}}스크립트 모드 추가를 진행하시겠습니까?" h="3337fd62" />
+    <e k="ui_savegameDisabledCrossPlatform" v="스크립트 모드는 Xbox에서 실행할 수 없습니다.{{NL}}{{NL}}이 저장 데이터는 다른 플랫폼에서 스크립트 모드를 사용하여 플레이했기 때문에 더 이상 Xbox에서 사용할 수 없습니다.{{NL}}{{NL}}불편을 드려 죄송합니다." h="0f9f0f41" />
+    <e k="ui_savegameHasMissingDlcs" v="이 저장 데이터에는 설치되지 않은 다운로드 콘텐츠가 필요합니다. 다음 콘텐츠를 다운로드하십시오:" h="288de857" />
+    <e k="ui_savegameHasMissingDlcsOptional" v="이 저장 데이터는 설치되지 않은 다운로드 콘텐츠를 사용합니다. 계속하면 일부 차량을 사용할 수 없습니다. 또는 다음 콘텐츠를 다운로드할 수 있습니다:" h="1c7d7dfc" />
+    <e k="ui_savegameInstallMissingModsFromModHub" v="이 저장 데이터는 설치되지 않은 다운로드 콘텐츠를 사용합니다.{{NL}}지금 콘텐츠를 다운로드하시겠습니까?" h="15c9be40" />
+    <e k="ui_savegameInvalidUser" v="다른 사용자의 저장 데이터는 불러올 수 없습니다. 계속하여 새 저장 데이터로 덮어쓰시겠습니까?" h="46c61b22" />
+    <e k="ui_savegameIsCorrupted" v="이 저장 데이터는 손상되었습니다." h="52c947ad" />
+    <e k="ui_savegameIsCurrentlyUnused" v="이 저장 데이터는 현재 사용되지 않습니다." h="6eb008b3" />
+    <e k="ui_savegameLoadCloudConflict" v="클라우드 충돌로 저장 데이터를 불러오지 못했습니다." h="7e6bbb29" />
+    <e k="ui_savegameLoadFailed" v="사용 가능한 저장 데이터를 불러오지 못했습니다. 다시 시도하거나 다른 저장 장치를 사용하십시오." h="0a05666a" />
+    <e k="ui_savegameOptions" v="저장 데이터 옵션" h="7f9449b4" />
+    <e k="ui_savegameSaveDeviceUnavailable" v="선택한 저장 장치를 사용할 수 없습니다. 게임이 저장되지 않았습니다." h="7465ab68" />
+    <e k="ui_savegameSaveNoDevice" v="저장 장치를 선택하지 않았습니다. 게임이 저장되지 않았습니다." h="51393589" />
+    <e k="ui_savegameSlotLimitReached" v="아이템이 너무 많아 선택한 저장 데이터를 시작할 수 없습니다. 이 저장 데이터를 불러오면 초과한 아이템이 판매됩니다." h="169eee34" />
+    <e k="ui_savegames" v="저장 데이터" h="09a36c16" />
+    <e k="ui_savegamesScanFailed" v="사용 가능한 저장 데이터를 불러오지 못했습니다. 다시 시도하거나 다른 저장 장치를 사용하십시오." h="0a05666a" />
+    <e k="ui_savegamesScanNoDevice" v="저장 장치를 선택하지 않았습니다. 이 게임 모드에는 저장 장치가 필요합니다." h="4d12413f" />
+    <e k="ui_savegamesScanSelectDevice" v="사용하던 저장 장치를 더 이상 사용할 수 없습니다. 다른 저장 장치를 선택하시겠습니까?" h="3efff0c4" />
+    <e k="ui_savingContent_ps5" v="콘텐츠 저장 중. PlayStation®5 본체를 끄지 마십시오." h="28c503cd" />
+    <e k="ui_savingContent_switch" v="콘텐츠 저장 중.{{NL}}Nintendo‌‌ Switch™ 본체를 끄지 마십시오." h="40084510" />
+    <e k="ui_savingContent_switch2" v="콘텐츠 저장 중.{{NL}}Nintendo‌‌ Switch 2™ 본체를 끄지 마십시오." h="550891df" />
+    <e k="ui_seasons" v="계절" h="4b3eb724" />
+    <e k="ui_selectActionToRemap" v="다시 지정할 동작을 선택하십시오." h="4eb3fadd" />
+    <e k="ui_serverCannotBeBanned" v="호스트 플레이어는 차단할 수 없습니다!" h="7b3f2f91" />
+    <e k="ui_serverDeniedMatchInProgress" v="현재 매치가 진행되고 있습니다. 나중에 다시 시도하십시오." h="5ac25ce5" />
+    <e k="ui_serverMaintenance" v="현재 서버를 보수하는 중입니다. 나중에 다시 시도해 주십시오." h="3d383d3f" />
+    <e k="ui_serverSettings" v="일반 서버 설정" h="6e892d26" />
+    <e k="ui_serverUserJoin" v="서버에 참가함..." h="314649de" />
+    <e k="ui_serverUserLeave" v="서버에서 나감..." h="57beae2d" />
+    <e k="ui_serverWasShutdown" v="서버가 종료되었습니다." h="4cd00560" />
+    <e k="ui_shopItems" v="임차한 아이템" h="659806a4" />
+    <e k="ui_shop_numOwnedLeasedFormat" v="%d 소유, %d 임차" h="0f337e86" />
+    <e k="ui_signinWithUserToAcceptInviteRetry" v="초대를 수락하려면 초대받은 사용자(%s)가 로그인해야 합니다. 다시 시도하시겠습니까?" h="01538306" />
+    <e k="ui_siloFillingDescription" v="차량에 실을 내용물이 있는 저장탑을 선택하십시오" h="20035fc9" />
+    <e k="ui_siloRefillingDescription" v="구매하려는 제품과 수량을 선택하십시오" h="54473aa6" />
+    <e k="ui_someSavegamesCorrupt" v="일부 저장 데이터가 손상되었습니다. 계속하면 새 저장 데이터로 덮어씁니다." h="50c9fc74" />
+    <e k="ui_splitShapeWarning" v="이 플레이어는 나무 한도가 더 낮습니다. 이 플레이어를 수락하면 일부 나무가 제거됩니다!" h="40550f73" />
+    <e k="ui_temporaryBan" v="활성화/제품 키가 일시적으로 차단되었습니다. 나중에 다시 시도해 주십시오." h="3b7681a3" />
+    <e k="ui_unbanPlayers" v="플레이어 차단 해제" h="1b767875" />
+    <e k="ui_uninvited" v="호스트가 초대를 취소했습니다." h="43257d45" />
+    <e k="ui_updateDownloadFinishedRestartQuestion" v="지금 다시 시작하시겠습니까?" h="4699599d" />
+    <e k="ui_updateDownloadFinishedRestartQuestionSave" v="게임을 저장하고 다시 시작하시겠습니까?" h="7117c8ca" />
+    <e k="ui_updateDownloadFinishedText" v="업데이트를 다운로드했습니다. 설치하려면 게임을 다시 시작하십시오." h="735b9fb3" />
+    <e k="ui_vehicleResetFailed" v="차량/도구를 되돌려보낼 수 없습니다. 상점 근처에 빈 공간이 없습니다!" h="3a57f82d" />
+    <e k="ui_voiceActivity" v="음성 활동" h="4774f37c" />
+    <e k="ui_wear" v="마모" h="06a30087" />
+    <e k="ui_windowed" v="창 모드" h="6ff898bc" />
+    <e k="ui_youWantToDeleteSavegame" v="이 저장 데이터를 삭제하시겠습니까?" h="26ee883e" />
+    <e k="ui_youWantToDeleteSavegameMobile" v="이 저장 데이터 파일을 삭제하시겠습니까? 클라우드 데이터에도 영향을 줍니다." h="5b831aaa" />
+    <e k="unit_bale" v="베일" h="25f9bf5b" />
+    <e k="unit_ftShort" v="ft" h="000209e5" />
+    <e k="unit_pieces" v="개" h="3b861380" />
+    <e k="warning_actionNotAllowedPlayer" v="이 동작은 걸어서 도구 옆에 있을 때만 전환할 수 있습니다!" h="6b99cd16" />
+    <e k="warning_actionNotAllowedVehicle" v="이 동작은 트랙터에 탄 상태에서만 전환할 수 있습니다!" h="750edd38" />
+    <e k="warning_attachToPower" v="시동이 걸린 차량에 도구를 장착하십시오!" h="76c718a3" />
+    <e k="warning_baleDoNotAllowFillTypeMixing" v="이 베일 로더에는 적재물 종류가 같은 베일만 실을 수 있습니다!" h="601eaada" />
+    <e k="warning_baleLoaderNotFullyLoaded" v="베일 로더를 가득 채워야 합니다!" h="4ecaaeec" />
+    <e k="warning_baleLoaderOnlyAllowOnceSize" v="이 베일 로더에는 한 번에 한 가지 크기의 베일만 실을 수 있습니다." h="5f0e42ff" />
+    <e k="warning_baleNotSupported" v="이 베일은 지원되지 않습니다!" h="03e83be5" />
+    <e k="warning_baleWrapperDropAreaBlocked" v="배출 구역이 다른 물체에 막혀 있습니다!" h="7e957851" />
+    <e k="warning_cantUseMissionVehiclesOnOtherLand" v="이 차량/도구는 계약 작업 전용입니다!" h="232e7165" />
+    <e k="warning_consumableEmpty" v="%s이(가) 비어 있습니다. 작업을 계속하려면 보충하십시오." h="744e1949" />
+    <e k="warning_couldNotFastenTensionBelt" v="장력 벨트를 채울 수 없습니다!" h="4d628630" />
+    <e k="warning_couldNotToggleChopper" v="현재 작물 종류에서는 짚이 나오지 않습니다!" h="130b204e" />
+    <e k="warning_cutterNotCompatible" v="이 헤더는 콤바인과 호환되지 않습니다." h="7955a425" />
+    <e k="warning_detachNotAllowed" v="이 상태에서는 도구를 분리할 수 없습니다!" h="1a2f3beb" />
+    <e k="warning_detachNotAllowedPlowTurn" v="이 상태에서는 쟁기를 분리할 수 없습니다. 쟁기를 회전하십시오." h="5c705924" />
+    <e k="warning_doNotDetachWhileFolding" v="접는 중에는 분리할 수 없습니다!" h="299b89be" />
+    <e k="warning_dontDriveIntoWater" v="물속으로 너무 깊이 들어가지 마십시오!" h="7f1b81d3" />
+    <e k="warning_fillUnitAttachNotAllowed" v="차량에 적재물이 있는 상태에서는 도구를 장착할 수 없습니다." h="284691ff" />
+    <e k="warning_firstSetPipeState" v="먼저 파이프를 펼치십시오!" h="12d39ad9" />
+    <e k="warning_foldingNotWhileAttached" v="도구가 장착된 상태에서는 접을 수 없습니다." h="7bb3b444" />
+    <e k="warning_foldingNotWhileAttachedToAttacherJoint" v="이 연결부에 도구가 장착된 상태에서는 접을 수 없습니다." h="11beabdf" />
+    <e k="warning_foldingNotWhileBaleLoaded" v="베일을 실은 상태에서는 접을 수 없습니다." h="48a09507" />
+    <e k="warning_foldingNotWhilePipeExtended" v="오거가 펼쳐진 상태에서는 접을 수 없습니다." h="42b45d0f" />
+    <e k="warning_foldingNotWhilePlowTurned" v="쟁기가 회전된 상태에서는 접을 수 없습니다." h="5e47a4e4" />
+    <e k="warning_foldingNotWhileWrapping" v="베일을 포장하는 중에는 접을 수 없습니다." h="361cb2e9" />
+    <e k="warning_foldingTreeMounted" v="하베스터를 접으려면 먼저 나무를 자르십시오!" h="3d130295" />
+    <e k="warning_gpuDriverOutdated" v="최적의 게임 플레이 환경을 위해 최신 드라이버 버전으로 업데이트하십시오.{{NL}}지금 최신 GPU 드라이버를 다운로드하시겠습니까?" h="541c41f9" />
+    <e k="warning_harvesterRequiresTrailer" v="콤바인에서 옮겨 실을 트레일러가 필요합니다!" h="1010a486" />
+    <e k="warning_hpwRangeRestriction" v="고압 세척기 호스 길이 때문에 더 멀리 갈 수 없습니다.{{NL}}%.1f m 더 가면 비활성화됩니다!" h="64eeadab" />
+    <e k="warning_inAdvanceFeedingLimitReached" v="사료통의 최대 용량은 %d일간 가축을 먹이기에 충분합니다!" h="000fdc37" />
+    <e k="warning_insufficientPowerOutput" v="장착된 장비에 필요한 엔진 출력이 부족합니다!" h="6dee571f" />
+    <e k="warning_joinFarmFirst" v="먼저 농장에 가입하십시오" h="118ae144" />
+    <e k="warning_liftImplementFirst" v="먼저 '%s' 도구를 들어 올리십시오!" h="47bf2be6" />
+    <e k="warning_liquidManureTankNotNearBarn" v="슬러리 확장 저장조는 헛간이나 다른 슬러리 저장조 옆에 설치해야 합니다." h="48c5defe" />
+    <e k="warning_lowerImplementFirst" v="먼저 '%s' 도구를 내리십시오!" h="156523ab" />
+    <e k="warning_maxNumOfProdPointsReached" v="최대 생산 시설 수에 도달했습니다" h="5d0f1bd1" />
+    <e k="warning_motorBatteryEmpty" v="차량을 충전하십시오!" h="4c9cedf4" />
+    <e k="warning_motorClutchNoEngaged" v="엔진 시동을 걸 수 없습니다. 기어가 들어가 있는데 클러치를 밟지 않았습니다." h="06792079" />
+    <e k="warning_motorFuelEmpty" v="차량에 연료를 보충하십시오!" h="219cfa6f" />
+    <e k="warning_motorNotStarted" v="먼저 엔진 시동을 거십시오!" h="5f48bf40" />
+    <e k="warning_noFreeMissionSpace" v="계약용 차량을 놓을 공간이 없습니다. 장비를 다른 곳으로 옮기십시오." h="46e6d3eb" />
+    <e k="warning_noFreeSpaceHere" v="이곳에 빈 공간이 없습니다!" h="2a49cb1e" />
+    <e k="warning_notAcceptedHere" v="%s은(는) 여기서 받지 않습니다!" h="34329032" />
+    <e k="warning_notAcceptedTool" v="이 종류의 도구로는 여기서 %s을(를) 받지 않습니다!" h="2844b0e8" />
+    <e k="warning_numSplitShapesMaxed" v="지금은 자를 수 없습니다. 먼저 통나무를 일부 판매하십시오." h="48848947" />
+    <e k="warning_palletFillerNoEmpty" v="먼저 도구를 비우십시오!" h="4801a149" />
+    <e k="warning_palletFillerPlatformLowered" v="먼저 플랫폼을 올리십시오!" h="0f79a8dc" />
+    <e k="warning_placeable_error_blockedTerrain" v="여기서는 지형을 변형할 수 없습니다!" h="3a2c3ec3" />
+    <e k="warning_placeable_error_storePlace" v="상점 구역에는 물체를 놓을 수 없습니다!" h="38d00231" />
+    <e k="warning_seedingInWaterRequired" v="이 기계로는 물에서만 파종할 수 있습니다!" h="76c83eef" />
+    <e k="warning_siloExtensionNotNearGreenhouse" v="이 보조 물 탱크는 온실 근처에 배치해야 합니다." h="002dbc30" />
+    <e k="warning_theSelectedFruitTypeIsNotAvailableOnThisMap" v="선택한 작물 종류는 이 맵에서 사용할 수 없습니다!" h="2741280b" />
+    <e k="warning_theSelectedFruitTypeIsWrongForTheMission" v="작물 종류가 계약과 맞지 않습니다!" h="59b6576a" />
+    <e k="warning_tooManyBales" v="베일이 너무 많습니다. 먼저 일부를 판매하십시오." h="1bfefadc" />
+    <e k="warning_tooManyHusbandries" v="가축 우리가 너무 많습니다. 먼저 일부를 판매하십시오." h="35d23a98" />
+    <e k="warning_tooManyPallets" v="팔레트가 너무 많습니다. 먼저 일부를 판매하십시오." h="7c761d6e" />
+    <e k="warning_tooManyPlaceables" v="이 종류의 물체가 너무 많습니다. 먼저 일부를 판매하십시오." h="42ad0ca9" />
+    <e k="warning_tooManyTrees" v="나무가 너무 많습니다. 먼저 일부를 베어 내십시오." h="175e7a43" />
+    <e k="warning_toolIsFull" v="도구가 가득 찼습니다. 먼저 비우십시오!" h="1aea0b40" />
+    <e k="warning_toolTypeNotAllowed" v="이 도구는 이 작업에 적합하지 않습니다!" h="7bfc9633" />
+    <e k="warning_transportTreesCannotBeLoaded" v="계약 대상 나무는 컨테이너에 실을 수 없습니다!" h="3008da6c" />
+    <e k="warning_treePlanterNoGroundContact" v="묘목 식재기가 땅에 닿아 있지 않습니다. 내리십시오." h="73e4d7c6" />
+    <e k="warning_treeTooThick" v="이 나무는 이 기계로 다루기에 너무 굵습니다!" h="5d8c80f9" />
+    <e k="warning_treeTooThickAtPosition" v="이 위치에서는 나무가 너무 굵습니다." h="2d31435f" />
+    <e k="warning_treeTypeNotSupported" v="이 나무 종류는 적합하지 않습니다. 곧은 나무만 가능합니다!" h="776968ab" />
+    <e k="warning_woodContainerWrongLength" v="적재한 통나무의 길이가 컨테이너에 맞지 않습니다. 이 경우 판매 가격이 낮아집니다. (목표 길이: %.1fm)" h="384373ef" />
+    <e k="winch_attachAnotherTree" v="다른 나무 걸기" h="569906cf" />
+    <e k="winch_maxNumTreesReached" v="나무를 최대 개수까지 걸었습니다!" h="3db1dbef" />
+    <e k="winch_ropeMaxLengthReached" v="윈치 로프가 최대 길이에 도달했습니다!" h="2109fb12" />
+    <e k="yarder_cancelSetup" v="집재기 설치 취소" h="679e7db9" />
+    <e k="yarder_carriageAttachTree" v="집재기에 나무 걸기" h="62f9e069" />
+    <e k="yarder_doNotMoveVehicle" v="집재기 설치 상태에서는 차량을 움직이지 마십시오!" h="6d061086" />
+    <e k="yarder_onlyForUphillYarding" v="이 집재기는 오르막 집재만 지원하므로 나무에 거는 지점이 집재기보다 낮아야 합니다!" h="3251e5f7" />
+    <e k="yarder_ropeTooLong" v="나무가 집재기에서 너무 멉니다. 가까운 나무를 찾으십시오!" h="659cb095" />
+    <e k="yarder_setup" v="집재기 로프 설치" h="4a4c932a" />
+    <e k="yarder_treeToHeavy" v="나무가 너무 무거워서 걸 수 없습니다. 최대 중량은 %.1ft입니다!" h="61bcc179" />
+    <e k="yarder_treeTooSmall" v="나무가 너무 작아서 로프를 걸 수 없습니다. 더 큰 나무를 찾으십시오." h="3b82efc5" />
+    <e k="yarder_wayIsBlocked" v="이 나무로 가는 길이 막혀 있습니다!" h="53e26c18" />
+    <e k="yarder_wrongAngle" v="나무가 집재기와 맞는 각도에 있지 않습니다. 다른 나무를 사용하십시오!" h="16348780" />
+</l10nImproved>
