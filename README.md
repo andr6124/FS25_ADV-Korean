@@ -2,11 +2,9 @@
 
 **Farming Simulator 25**의 기본 게임 한국어 번역을 다듬는 PC용 모드입니다.
 
-기본 게임 문자열 5,763개를 모두 검토해서 **1,783개를 고쳤습니다.**
+기본 게임 문자열 5,763개를 모두 검토해서 **1,785개를 고쳤습니다.**
 - 어색한 기계번역투 문장을 자연스러운 한국어로 바꿨습니다.
 - 용어를 통일하고 오역을 바로잡았습니다.
-
-![생산 시설](screenshots/04_production.jpg)
 
 ## 무엇이 바뀌나요
 
@@ -31,11 +29,6 @@
   - 귀리가루, 밀가루, 보리가루, 수숫가루
   - 설탕 (사탕무), 직물 (양모)
 - **지도 범례**: 수확 후 갈이, 파종 준비됨, 다지기 필요
-
-| | |
-|---|---|
-| ![계약](screenshots/09_contract_harvest.jpg) | ![지도 범례](screenshots/11_map_growth.jpg) |
-| ![도움말](screenshots/10_help_cow.jpg) | ![대화](screenshots/01_npc_dialogue.jpg) |
 
 ## 설치
 
@@ -73,4 +66,4 @@
 
 ---
 
-**English**: A PC mod for Farming Simulator 25 that improves the base game's Korean translation. 1,783 of 5,763 strings were revised to fix mistranslations, unify terminology and remove machine-translation style. It only takes effect when the game language is Korean. Download `FS25_ADV_Korean.zip` from Releases and put it into `Documents\My Games\FarmingSimulator2025\mods` without unpacking or renaming it. Quit the game completely before installing or updating. Unofficial, free, not affiliated with GIANTS Software.
+**English**: A PC mod for Farming Simulator 25 that improves the base game's Korean translation. 1,785 of 5,763 strings were revised to fix mistranslations, unify terminology and remove machine-translation style. It only takes effect when the game language is Korean. Download `FS25_ADV_Korean.zip` from Releases and put it into `Documents\My Games\FarmingSimulator2025\mods` without unpacking or renaming it. Quit the game completely before installing or updating. Unofficial, free, not affiliated with GIANTS Software.

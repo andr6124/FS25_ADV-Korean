@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<l10nImproved gameVersion="1.23.1.0" count="1783">
+<l10nImproved gameVersion="1.23.1.0" count="1785">
     <e k="achievement_descBreedChicken" v="이야, 부활절 달걀이 한가득이네요." h="4731896b" />
     <e k="achievement_descBreedCows" v="이렇게 손이 많이 갈 줄은 몰랐죠?" h="42d083d1" />
     <e k="achievement_descBreedPigs" v="사료가 얼마나 많이 드는지 알면 깜짝 놀라실걸요." h="13d462b8" />
@@ -222,6 +222,7 @@
     <e k="button_mp_dimiss" v="농장 관리인 해임" h="79cc1a16" />
     <e k="button_mp_ungrant" v="도급업자 권한 삭제" h="19ffb930" />
     <e k="button_pickUp" v="집기" h="3d2c394e" />
+    <e k="button_return" v="반납" h="7dd5a9ff" />
     <e k="button_sortTable" v="정렬" h="061c712a" />
     <e k="button_viewOnMap" v="맵에서 보기" h="704cc3b6" />
     <e k="categoryType_baling" v="베일 작업" h="7e448514" />
@@ -1642,6 +1643,7 @@
     <e k="ui_repaintDialog" v="정말로 %s에 차량을 재도장하시겠습니까?" h="4f56f671" />
     <e k="ui_repairDialog" v="정말로 %s에 차량을 수리하시겠습니까?" h="692c3d23" />
     <e k="ui_resolveConflict" v="저장 데이터 충돌 해결" h="4df50c77" />
+    <e k="ui_returnThis" v="반납" h="7dd5a9ff" />
     <e k="ui_riceFieldWarningWaterLevelTooHigh" v="수위가 너무 높습니다. 논에서 물을 빼서 작물 피해를 방지하십시오" h="00cf0d3c" />
     <e k="ui_riceFieldWarningWaterLevelTooLow" v="수위가 너무 낮습니다. 논에 물을 대서 작물 피해를 방지하십시오" h="36945bff" />
     <e k="ui_runningMissions" v="계약 진행 중" h="7c4b73e1" />

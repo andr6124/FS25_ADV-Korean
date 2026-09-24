@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <modDesc descVersion="113">
     <author>JJK</author>
-    <version>1.0.0.0</version>
+    <version>1.0.1.0</version>
     <title>
         <en>FS25_한글패치</en>
         <de>FS25_한글패치</de>
@@ -10,7 +10,7 @@
     <description>
         <en><![CDATA[Improves the base game's Korean translation.
 
-Improves 1,783 of the 5,763 base game texts.
+Improves 1,785 of the 5,763 base game texts.
 
 - More natural Korean sentences instead of literal machine-like translation
 - Consistent terminology for machines, crops, animals and economy
@@ -29,7 +29,7 @@ Known limitations:
 Safe to add or remove at any time. It does not change savegame data.]]></en>
         <de><![CDATA[Verbessert die koreanische Übersetzung des Basisspiels.
 
-Verbessert 1.783 der 5.763 Texte des Basisspiels.
+Verbessert 1.785 der 5.763 Texte des Basisspiels.
 
 - Natürlichere koreanische Sätze statt wörtlicher, maschinenhafter Übersetzung
 - Einheitliche Begriffe für Maschinen, Feldfrüchte, Tiere und Wirtschaft
@@ -48,7 +48,7 @@ Bekannte Einschränkungen:
 Die Mod kann jederzeit hinzugefügt oder entfernt werden. Spielstanddaten werden nicht verändert.]]></de>
         <kr><![CDATA[기본 게임의 한국어 번역을 개선합니다.
 
-기본 게임 문자열 5,763개 중 1,783개를 개선했습니다.
+기본 게임 문자열 5,763개 중 1,785개를 개선했습니다.
 
 - 직역투·기계번역투 문장을 자연스러운 한국어로 다듬었습니다
 - 농기계, 작물, 가축, 경제 용어를 하나로 통일했습니다
