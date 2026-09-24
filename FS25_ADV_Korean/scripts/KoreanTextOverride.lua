@@ -195,6 +195,7 @@ function KoreanTextOverride.apply()
     end
     KoreanTextOverride.applyTexts()
     KoreanTextOverride.installProductionHook()
+    KoreanTextOverride.installKeyNameHook()
 end
 
 function KoreanTextOverride.applyTexts()
@@ -659,6 +660,35 @@ function KoreanTextOverride.installProductionHook()
     end
     ProductionPoint.load = Utils.overwrittenFunction(ProductionPoint.load, KoreanTextOverride.productionPointLoad)
     KoreanTextOverride.log("production recipe names hooked")
+    return true
+end
+
+-- Key names. Keys without a keyGlyph_* text are named by the engine's built-in table, whose
+-- Korean names for Shift and Win are mistranslated ("이동" = move, "획득" = win as in "gain").
+-- KeyboardHelper.getDisplayKeyName is wrapped so the input help shows the corrected names.
+KoreanTextOverride.KEY_NAME_FIXES = {
+    ["왼쪽 이동"] = "왼쪽 Shift", ["오른쪽 이동"] = "오른쪽 Shift",
+    ["왼쪽 획득"] = "왼쪽 Win", ["오른쪽 획득"] = "오른쪽 Win",
+}
+
+function KoreanTextOverride.fixKeyName(name)
+    return KoreanTextOverride.KEY_NAME_FIXES[name] or name
+end
+
+function KoreanTextOverride.installKeyNameHook()
+    if type(KeyboardHelper) ~= "table" or type(rawget(KeyboardHelper, "getDisplayKeyName")) ~= "function" then
+        KoreanTextOverride.log("KeyboardHelper.getDisplayKeyName not found; key names unchanged")
+        return false
+    end
+    local getDisplayKeyName = KeyboardHelper.getDisplayKeyName
+    KeyboardHelper.getDisplayKeyName = function(...)
+        return KoreanTextOverride.fixKeyName(getDisplayKeyName(...))
+    end
+    -- Key names cached before this mod loaded are replaced by the loadMap scan.
+    for old, new in pairs(KoreanTextOverride.KEY_NAME_FIXES) do
+        KoreanTextOverride.remap[old] = new
+    end
+    KoreanTextOverride.log("key names hooked")
     return true
 end
 
